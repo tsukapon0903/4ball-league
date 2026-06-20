@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T11:39:17.703Z",
+  "last_updated": "2026-06-20T11:53:03.836Z",
   "players": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
         "total_matches": 2,
         "win_rate": "100.0%",
         "record": "2-0-0",
-        "high_low": "620 / 620",
+        "high_low": "620 / 600",
         "average": "3.333",
         "high_run": 10,
         "recent_matches": [
@@ -18,13 +18,13 @@
             "date": "06/19",
             "opponent": "しそ",
             "result": "25-0(○)",
-            "change": "0.0"
+            "change": "+10.2"
           },
           {
             "date": "06/19",
             "opponent": "int mint",
             "result": "25-0(○)",
-            "change": "0.0"
+            "change": "+10.0"
           }
         ],
         "opponents": [
@@ -148,7 +148,7 @@
         "total_matches": 2,
         "win_rate": "50.0%",
         "record": "1-1-0",
-        "high_low": "599 / 599",
+        "high_low": "610 / 599",
         "average": "3.200",
         "high_run": 9,
         "recent_matches": [
@@ -156,13 +156,13 @@
             "date": "06/18",
             "opponent": "しそ",
             "result": "7-1(×)",
-            "change": "0.0"
+            "change": "-10.4"
           },
           {
             "date": "06/18",
             "opponent": "トリプルセブン",
             "result": "25-0(○)",
-            "change": "0.0"
+            "change": "+9.9"
           }
         ],
         "opponents": [
@@ -190,7 +190,7 @@
         "total_matches": 1,
         "win_rate": "0.0%",
         "record": "0-1-0",
-        "high_low": "590 / 590",
+        "high_low": "600 / 590",
         "average": "1.125",
         "high_run": 3,
         "recent_matches": [
@@ -198,7 +198,7 @@
             "date": "06/18",
             "opponent": "トリプルセブン",
             "result": "9-1(×)",
-            "change": "0.0"
+            "change": "-10.4"
           }
         ],
         "opponents": [
@@ -220,7 +220,7 @@
         "total_matches": 1,
         "win_rate": "0.0%",
         "record": "0-1-0",
-        "high_low": "590 / 590",
+        "high_low": "600 / 590",
         "average": "1.308",
         "high_run": 4,
         "recent_matches": [
@@ -228,7 +228,7 @@
             "date": "06/18",
             "opponent": "しそ",
             "result": "17-1(×)",
-            "change": "0.0"
+            "change": "-9.7"
           }
         ],
         "opponents": [
@@ -250,7 +250,7 @@
         "total_matches": 1,
         "win_rate": "0.0%",
         "record": "0-1-0",
-        "high_low": "590 / 590",
+        "high_low": "600 / 590",
         "average": "1.700",
         "high_run": 6,
         "recent_matches": [
@@ -258,7 +258,7 @@
             "date": "06/19",
             "opponent": "Ruba d6d4",
             "result": "17-1(×)",
-            "change": "0.0"
+            "change": "-10.0"
           }
         ],
         "opponents": [
@@ -280,7 +280,7 @@
         "total_matches": 3,
         "win_rate": "66.7%",
         "record": "2-1-0",
-        "high_low": "510 / 510",
+        "high_low": "520 / 500",
         "average": "1.833",
         "high_run": 9,
         "recent_matches": [
@@ -288,19 +288,19 @@
             "date": "06/19",
             "opponent": "Ruba d6d4",
             "result": "4-1(×)",
-            "change": "0.0"
+            "change": "-10.2"
           },
           {
             "date": "06/18",
             "opponent": "つかぽん",
             "result": "20-0(○)",
-            "change": "0.0"
+            "change": "+9.7"
           },
           {
             "date": "06/18",
             "opponent": "edamame3tubu",
             "result": "20-0(○)",
-            "change": "0.0"
+            "change": "+10.4"
           }
         ],
         "opponents": [
@@ -334,7 +334,7 @@
         "total_matches": 2,
         "win_rate": "50.0%",
         "record": "1-1-0",
-        "high_low": "501 / 501",
+        "high_low": "501 / 490",
         "average": "2.083",
         "high_run": 8,
         "recent_matches": [
@@ -342,13 +342,13 @@
             "date": "06/18",
             "opponent": "あらたつ",
             "result": "20-0(○)",
-            "change": "0.0"
+            "change": "+10.4"
           },
           {
             "date": "06/18",
             "opponent": "edamame3tubu",
             "result": "5-1(×)",
-            "change": "0.0"
+            "change": "-9.9"
           }
         ],
         "opponents": [
