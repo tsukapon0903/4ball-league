@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T09:09:16.809Z",
+  "last_updated": "2026-06-21T09:33:51.175Z",
   "players": [
     {
       "rank": 1,
@@ -17,13 +17,13 @@
           {
             "date": "06/19",
             "opponent": "しそ",
-            "result": "25-0(○)",
+            "result": "25-4(○)",
             "change": "+10.2"
           },
           {
             "date": "06/19",
             "opponent": "int mint",
-            "result": "25-0(○)",
+            "result": "25-17(○)",
             "change": "+10.0"
           }
         ],
@@ -155,13 +155,13 @@
           {
             "date": "06/18",
             "opponent": "しそ",
-            "result": "7-1(×)",
+            "result": "7-20(×)",
             "change": "-10.4"
           },
           {
             "date": "06/18",
             "opponent": "トリプルセブン",
-            "result": "25-0(○)",
+            "result": "25-5(○)",
             "change": "+9.9"
           }
         ],
@@ -197,7 +197,7 @@
           {
             "date": "06/18",
             "opponent": "トリプルセブン",
-            "result": "9-1(×)",
+            "result": "9-20(×)",
             "change": "-10.4"
           }
         ],
@@ -227,7 +227,7 @@
           {
             "date": "06/18",
             "opponent": "しそ",
-            "result": "17-1(×)",
+            "result": "17-20(×)",
             "change": "-9.7"
           }
         ],
@@ -257,7 +257,7 @@
           {
             "date": "06/19",
             "opponent": "Ruba d6d4",
-            "result": "17-1(×)",
+            "result": "17-25(×)",
             "change": "-10.0"
           }
         ],
@@ -287,19 +287,19 @@
           {
             "date": "06/19",
             "opponent": "Ruba d6d4",
-            "result": "4-1(×)",
+            "result": "4-25(×)",
             "change": "-10.2"
           },
           {
             "date": "06/18",
             "opponent": "つかぽん",
-            "result": "20-0(○)",
+            "result": "20-17(○)",
             "change": "+9.7"
           },
           {
             "date": "06/18",
             "opponent": "edamame3tubu",
-            "result": "20-0(○)",
+            "result": "20-7(○)",
             "change": "+10.4"
           }
         ],
@@ -341,13 +341,13 @@
           {
             "date": "06/18",
             "opponent": "あらたつ",
-            "result": "20-0(○)",
+            "result": "20-9(○)",
             "change": "+10.4"
           },
           {
             "date": "06/18",
             "opponent": "edamame3tubu",
-            "result": "5-1(×)",
+            "result": "5-25(×)",
             "change": "-9.9"
           }
         ],
