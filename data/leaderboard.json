@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T14:39:16.746Z",
+  "last_updated": "2026-06-22T14:42:51.349Z",
   "players": [
     {
       "rank": 1,
@@ -141,48 +141,6 @@
     },
     {
       "rank": 8,
-      "name": "int mint",
-      "rating": 600,
-      "current_points": 25,
-      "stats": {
-        "total_matches": 2,
-        "win_rate": "50.0%",
-        "record": "1-1-0",
-        "high_low": "600 / 590",
-        "average": "2.471",
-        "high_run": 18,
-        "recent_matches": [
-          {
-            "date": "06/22",
-            "opponent": "つかぽん",
-            "result": "25-18(○)",
-            "change": "+10.0"
-          },
-          {
-            "date": "06/19",
-            "opponent": "Ruba d6d4",
-            "result": "17-25(×)",
-            "change": "-9.9"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "Ruba d6d4",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%"
-          },
-          {
-            "name": "つかぽん",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 9,
       "name": "edamame3tubu",
       "rating": 599,
       "current_points": 25,
@@ -224,7 +182,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "つかぽん",
       "rating": 591,
       "current_points": 25,
@@ -278,18 +236,24 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "あらたつ",
-      "rating": 579,
+      "rating": 590,
       "current_points": 25,
       "stats": {
-        "total_matches": 2,
-        "win_rate": "0.0%",
-        "record": "0-2-0",
+        "total_matches": 3,
+        "win_rate": "33.3%",
+        "record": "1-2-0",
         "high_low": "600 / 579",
-        "average": "1.353",
+        "average": "1.412",
         "high_run": 8,
         "recent_matches": [
+          {
+            "date": "06/22",
+            "opponent": "int mint",
+            "result": "25-22(○)",
+            "change": "+10.7"
+          },
           {
             "date": "06/22",
             "opponent": "つかぽん",
@@ -312,6 +276,66 @@
           },
           {
             "name": "つかぽん",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%"
+          },
+          {
+            "name": "int mint",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 11,
+      "name": "int mint",
+      "rating": 589,
+      "current_points": 25,
+      "stats": {
+        "total_matches": 3,
+        "win_rate": "33.3%",
+        "record": "1-2-0",
+        "high_low": "600 / 589",
+        "average": "1.882",
+        "high_run": 18,
+        "recent_matches": [
+          {
+            "date": "06/22",
+            "opponent": "あらたつ",
+            "result": "22-25(×)",
+            "change": "-10.7"
+          },
+          {
+            "date": "06/22",
+            "opponent": "つかぽん",
+            "result": "25-18(○)",
+            "change": "+10.0"
+          },
+          {
+            "date": "06/19",
+            "opponent": "Ruba d6d4",
+            "result": "17-25(×)",
+            "change": "-9.9"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "Ruba d6d4",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%"
+          },
+          {
+            "name": "つかぽん",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%"
+          },
+          {
+            "name": "あらたつ",
             "matches": 1,
             "record": "0-1-0",
             "win_rate": "0.0%"
