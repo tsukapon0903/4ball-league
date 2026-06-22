@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T14:09:16.430Z",
+  "last_updated": "2026-06-22T14:39:16.746Z",
   "players": [
     {
       "rank": 1,
@@ -322,16 +322,22 @@
     {
       "rank": 12,
       "name": "しそ",
-      "rating": 510,
+      "rating": 520,
       "current_points": 20,
       "stats": {
-        "total_matches": 3,
-        "win_rate": "66.7%",
-        "record": "2-1-0",
+        "total_matches": 4,
+        "win_rate": "75.0%",
+        "record": "3-1-0",
         "high_low": "520 / 500",
-        "average": "1.833",
-        "high_run": 9,
+        "average": "2.207",
+        "high_run": 12,
         "recent_matches": [
+          {
+            "date": "06/22",
+            "opponent": "eijis",
+            "result": "20-7(○)",
+            "change": "+9.7"
+          },
           {
             "date": "06/19",
             "opponent": "Ruba d6d4",
@@ -369,6 +375,12 @@
             "matches": 1,
             "record": "0-1-0",
             "win_rate": "0.0%"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%"
           }
         ]
       }
@@ -465,7 +477,7 @@
     },
     {
       "rank": 17,
-      "name": "eijis",
+      "name": "test1",
       "rating": 500,
       "current_points": 20,
       "stats": {
@@ -481,18 +493,32 @@
     },
     {
       "rank": 18,
-      "name": "test1",
-      "rating": 500,
+      "name": "eijis",
+      "rating": 490,
       "current_points": 20,
       "stats": {
-        "total_matches": 0,
+        "total_matches": 1,
         "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "500 / 500",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
+        "record": "0-1-0",
+        "high_low": "500 / 490",
+        "average": "1.400",
+        "high_run": 4,
+        "recent_matches": [
+          {
+            "date": "06/22",
+            "opponent": "しそ",
+            "result": "7-20(×)",
+            "change": "-9.7"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "しそ",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%"
+          }
+        ]
       }
     },
     {
