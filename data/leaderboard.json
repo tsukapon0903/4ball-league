@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T13:39:15.742Z",
+  "last_updated": "2026-06-22T13:57:45.010Z",
   "players": [
     {
       "rank": 1,
@@ -225,47 +225,23 @@
     },
     {
       "rank": 10,
-      "name": "あらたつ",
-      "rating": 590,
-      "current_points": 25,
-      "stats": {
-        "total_matches": 1,
-        "win_rate": "0.0%",
-        "record": "0-1-0",
-        "high_low": "600 / 590",
-        "average": "1.125",
-        "high_run": 3,
-        "recent_matches": [
-          {
-            "date": "06/18",
-            "opponent": "トリプルセブン",
-            "result": "9-20(×)",
-            "change": "-10.4"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "トリプルセブン",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 11,
       "name": "つかぽん",
-      "rating": 580,
+      "rating": 591,
       "current_points": 25,
       "stats": {
-        "total_matches": 2,
-        "win_rate": "0.0%",
-        "record": "0-2-0",
+        "total_matches": 3,
+        "win_rate": "33.3%",
+        "record": "1-2-0",
         "high_low": "600 / 580",
-        "average": "1.750",
+        "average": "2.069",
         "high_run": 6,
         "recent_matches": [
+          {
+            "date": "06/22",
+            "opponent": "あらたつ",
+            "result": "25-14(○)",
+            "change": "+10.3"
+          },
           {
             "date": "06/22",
             "opponent": "int mint",
@@ -288,6 +264,54 @@
           },
           {
             "name": "int mint",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%"
+          },
+          {
+            "name": "あらたつ",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%"
+          }
+        ]
+      }
+    },
+    {
+      "rank": 11,
+      "name": "あらたつ",
+      "rating": 579,
+      "current_points": 25,
+      "stats": {
+        "total_matches": 2,
+        "win_rate": "0.0%",
+        "record": "0-2-0",
+        "high_low": "600 / 579",
+        "average": "1.353",
+        "high_run": 8,
+        "recent_matches": [
+          {
+            "date": "06/22",
+            "opponent": "つかぽん",
+            "result": "14-25(×)",
+            "change": "-10.3"
+          },
+          {
+            "date": "06/18",
+            "opponent": "トリプルセブン",
+            "result": "9-20(×)",
+            "change": "-10.4"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "トリプルセブン",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%"
+          },
+          {
+            "name": "つかぽん",
             "matches": 1,
             "record": "0-1-0",
             "win_rate": "0.0%"
