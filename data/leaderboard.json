@@ -1,52 +1,190 @@
 {
-  "last_updated": "2026-06-23T03:40:24.436Z",
+  "last_updated": "2026-06-23T03:50:09.124Z",
   "players": [
     {
       "rank": 1,
-      "name": "\udd47 Ruba d6d4",
-      "rating": 0,
-      "current_points": 0,
+      "name": "Ruba d6d4",
+      "rating": 620,
+      "current_points": 25,
       "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "0 / 0",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
+        "total_matches": 2,
+        "win_rate": "100.0%",
+        "record": "2-0-0",
+        "high_low": "620 / 600",
+        "average": "3.333",
+        "high_run": 10,
+        "recent_matches": [
+          {
+            "date": "06/19",
+            "opponent": "しそ",
+            "result": "25-4(○)",
+            "change": "+10.2"
+          },
+          {
+            "date": "06/19",
+            "opponent": "int mint",
+            "result": "25-17(○)",
+            "change": "+9.9"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "int mint",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%"
+          },
+          {
+            "name": "しそ",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%"
+          }
+        ]
       }
     },
     {
       "rank": 2,
-      "name": "\udd48 しそ",
-      "rating": 0,
-      "current_points": 0,
+      "name": "しそ",
+      "rating": 509,
+      "current_points": 20,
       "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "0 / 0",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
+        "total_matches": 5,
+        "win_rate": "60.0%",
+        "record": "3-2-0",
+        "high_low": "520 / 500",
+        "average": "2.000",
+        "high_run": 12,
+        "recent_matches": [
+          {
+            "date": "06/23",
+            "opponent": "int mint",
+            "result": "14-25(×)",
+            "change": "-10.9"
+          },
+          {
+            "date": "06/22",
+            "opponent": "eijis",
+            "result": "20-7(○)",
+            "change": "+9.7"
+          },
+          {
+            "date": "06/19",
+            "opponent": "Ruba d6d4",
+            "result": "4-25(×)",
+            "change": "-10.2"
+          },
+          {
+            "date": "06/18",
+            "opponent": "つかぽん",
+            "result": "20-17(○)",
+            "change": "+9.7"
+          },
+          {
+            "date": "06/18",
+            "opponent": "edamame3tubu",
+            "result": "20-7(○)",
+            "change": "+10.4"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "edamame3tubu",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%"
+          },
+          {
+            "name": "つかぽん",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%"
+          },
+          {
+            "name": "Ruba d6d4",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%"
+          },
+          {
+            "name": "int mint",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%"
+          }
+        ]
       }
     },
     {
       "rank": 3,
-      "name": "\udd49 int mint",
-      "rating": 0,
-      "current_points": 0,
+      "name": "int mint",
+      "rating": 600,
+      "current_points": 25,
       "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "0 / 0",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
+        "total_matches": 4,
+        "win_rate": "50.0%",
+        "record": "2-2-0",
+        "high_low": "600 / 589",
+        "average": "2.023",
+        "high_run": 18,
+        "recent_matches": [
+          {
+            "date": "06/23",
+            "opponent": "しそ",
+            "result": "25-14(○)",
+            "change": "+10.9"
+          },
+          {
+            "date": "06/22",
+            "opponent": "あらたつ",
+            "result": "22-25(×)",
+            "change": "-10.7"
+          },
+          {
+            "date": "06/22",
+            "opponent": "つかぽん",
+            "result": "25-18(○)",
+            "change": "+10.0"
+          },
+          {
+            "date": "06/19",
+            "opponent": "Ruba d6d4",
+            "result": "17-25(×)",
+            "change": "-9.9"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "Ruba d6d4",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%"
+          },
+          {
+            "name": "つかぽん",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%"
+          },
+          {
+            "name": "あらたつ",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%"
+          },
+          {
+            "name": "しそ",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%"
+          }
+        ]
       }
     },
     {
