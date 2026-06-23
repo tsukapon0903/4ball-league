@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T17:09:16.684Z",
+  "last_updated": "2026-06-23T17:39:15.821Z",
   "players": [
     {
       "rank": 1,
@@ -18,13 +18,15 @@
             "date": "06/19",
             "opponent": "しそ",
             "result": "25-4(○)",
-            "change": "+10.1"
+            "change": "+10.1",
+            "opponent_en": ""
           },
           {
             "date": "06/19",
             "opponent": "int mint",
             "result": "25-17(○)",
-            "change": "+9.9"
+            "change": "+9.9",
+            "opponent_en": "int mint"
           }
         ],
         "opponents": [
@@ -32,16 +34,19 @@
             "name": "int mint",
             "matches": 1,
             "record": "1-0-0",
-            "win_rate": "100.0%"
+            "win_rate": "100.0%",
+            "name_en": "int mint"
           },
           {
             "name": "しそ",
             "matches": 1,
             "record": "1-0-0",
-            "win_rate": "100.0%"
+            "win_rate": "100.0%",
+            "name_en": ""
           }
         ]
-      }
+      },
+      "name_en": "Ruba d6d4"
     },
     {
       "rank": 2,
@@ -60,31 +65,36 @@
             "date": "06/23",
             "opponent": "int mint",
             "result": "14-25(×)",
-            "change": "-10.9"
+            "change": "-10.9",
+            "opponent_en": "int mint"
           },
           {
             "date": "06/22",
             "opponent": "eijis",
             "result": "20-7(○)",
-            "change": "+9.6"
+            "change": "+9.6",
+            "opponent_en": "eijis"
           },
           {
             "date": "06/19",
             "opponent": "Ruba d6d4",
             "result": "4-25(×)",
-            "change": "-10.1"
+            "change": "-10.1",
+            "opponent_en": "Ruba d6d4"
           },
           {
             "date": "06/18",
             "opponent": "つかぽん",
             "result": "20-17(○)",
-            "change": "+9.7"
+            "change": "+9.7",
+            "opponent_en": ""
           },
           {
             "date": "06/18",
             "opponent": "edamame3tubu",
             "result": "20-7(○)",
-            "change": "+10.4"
+            "change": "+10.4",
+            "opponent_en": "edamame3tubu"
           }
         ],
         "opponents": [
@@ -92,34 +102,40 @@
             "name": "edamame3tubu",
             "matches": 1,
             "record": "1-0-0",
-            "win_rate": "100.0%"
+            "win_rate": "100.0%",
+            "name_en": "edamame3tubu"
           },
           {
             "name": "つかぽん",
             "matches": 1,
             "record": "1-0-0",
-            "win_rate": "100.0%"
+            "win_rate": "100.0%",
+            "name_en": ""
           },
           {
             "name": "Ruba d6d4",
             "matches": 1,
             "record": "0-1-0",
-            "win_rate": "0.0%"
+            "win_rate": "0.0%",
+            "name_en": "Ruba d6d4"
           },
           {
             "name": "eijis",
             "matches": 1,
             "record": "1-0-0",
-            "win_rate": "100.0%"
+            "win_rate": "100.0%",
+            "name_en": "eijis"
           },
           {
             "name": "int mint",
             "matches": 1,
             "record": "0-1-0",
-            "win_rate": "0.0%"
+            "win_rate": "0.0%",
+            "name_en": "int mint"
           }
         ]
-      }
+      },
+      "name_en": ""
     },
     {
       "rank": 3,
@@ -138,25 +154,29 @@
             "date": "06/23",
             "opponent": "しそ",
             "result": "25-14(○)",
-            "change": "+10.9"
+            "change": "+10.9",
+            "opponent_en": ""
           },
           {
             "date": "06/22",
             "opponent": "あらたつ",
             "result": "22-25(×)",
-            "change": "-10.7"
+            "change": "-10.7",
+            "opponent_en": ""
           },
           {
             "date": "06/22",
             "opponent": "つかぽん",
             "result": "25-18(○)",
-            "change": "+10.0"
+            "change": "+10.0",
+            "opponent_en": ""
           },
           {
             "date": "06/19",
             "opponent": "Ruba d6d4",
             "result": "17-25(×)",
-            "change": "-9.9"
+            "change": "-9.9",
+            "opponent_en": "Ruba d6d4"
           }
         ],
         "opponents": [
@@ -164,28 +184,33 @@
             "name": "Ruba d6d4",
             "matches": 1,
             "record": "0-1-0",
-            "win_rate": "0.0%"
+            "win_rate": "0.0%",
+            "name_en": "Ruba d6d4"
           },
           {
             "name": "つかぽん",
             "matches": 1,
             "record": "1-0-0",
-            "win_rate": "100.0%"
+            "win_rate": "100.0%",
+            "name_en": ""
           },
           {
             "name": "あらたつ",
             "matches": 1,
             "record": "0-1-0",
-            "win_rate": "0.0%"
+            "win_rate": "0.0%",
+            "name_en": ""
           },
           {
             "name": "しそ",
             "matches": 1,
             "record": "1-0-0",
-            "win_rate": "100.0%"
+            "win_rate": "100.0%",
+            "name_en": ""
           }
         ]
-      }
+      },
+      "name_en": "int mint"
     },
     {
       "rank": 4,
@@ -204,13 +229,15 @@
             "date": "06/18",
             "opponent": "あらたつ",
             "result": "20-9(○)",
-            "change": "+10.4"
+            "change": "+10.4",
+            "opponent_en": ""
           },
           {
             "date": "06/18",
             "opponent": "edamame3tubu",
             "result": "5-25(×)",
-            "change": "-9.8"
+            "change": "-9.8",
+            "opponent_en": "edamame3tubu"
           }
         ],
         "opponents": [
@@ -218,16 +245,19 @@
             "name": "edamame3tubu",
             "matches": 1,
             "record": "0-1-0",
-            "win_rate": "0.0%"
+            "win_rate": "0.0%",
+            "name_en": "edamame3tubu"
           },
           {
             "name": "あらたつ",
             "matches": 1,
             "record": "1-0-0",
-            "win_rate": "100.0%"
+            "win_rate": "100.0%",
+            "name_en": ""
           }
         ]
-      }
+      },
+      "name_en": ""
     },
     {
       "rank": 5,
@@ -246,13 +276,15 @@
             "date": "06/18",
             "opponent": "しそ",
             "result": "7-20(×)",
-            "change": "-10.4"
+            "change": "-10.4",
+            "opponent_en": ""
           },
           {
             "date": "06/18",
             "opponent": "トリプルセブン",
             "result": "25-5(○)",
-            "change": "+9.8"
+            "change": "+9.8",
+            "opponent_en": ""
           }
         ],
         "opponents": [
@@ -260,16 +292,19 @@
             "name": "トリプルセブン",
             "matches": 1,
             "record": "1-0-0",
-            "win_rate": "100.0%"
+            "win_rate": "100.0%",
+            "name_en": ""
           },
           {
             "name": "しそ",
             "matches": 1,
             "record": "0-1-0",
-            "win_rate": "0.0%"
+            "win_rate": "0.0%",
+            "name_en": ""
           }
         ]
-      }
+      },
+      "name_en": "edamame3tubu"
     },
     {
       "rank": 6,
@@ -288,19 +323,22 @@
             "date": "06/22",
             "opponent": "あらたつ",
             "result": "25-14(○)",
-            "change": "+10.3"
+            "change": "+10.3",
+            "opponent_en": ""
           },
           {
             "date": "06/22",
             "opponent": "int mint",
             "result": "18-25(×)",
-            "change": "-10.0"
+            "change": "-10.0",
+            "opponent_en": "int mint"
           },
           {
             "date": "06/18",
             "opponent": "しそ",
             "result": "17-20(×)",
-            "change": "-9.7"
+            "change": "-9.7",
+            "opponent_en": ""
           }
         ],
         "opponents": [
@@ -308,22 +346,26 @@
             "name": "しそ",
             "matches": 1,
             "record": "0-1-0",
-            "win_rate": "0.0%"
+            "win_rate": "0.0%",
+            "name_en": ""
           },
           {
             "name": "int mint",
             "matches": 1,
             "record": "0-1-0",
-            "win_rate": "0.0%"
+            "win_rate": "0.0%",
+            "name_en": "int mint"
           },
           {
             "name": "あらたつ",
             "matches": 1,
             "record": "1-0-0",
-            "win_rate": "100.0%"
+            "win_rate": "100.0%",
+            "name_en": ""
           }
         ]
-      }
+      },
+      "name_en": ""
     },
     {
       "rank": 7,
@@ -342,19 +384,22 @@
             "date": "06/22",
             "opponent": "int mint",
             "result": "25-22(○)",
-            "change": "+10.7"
+            "change": "+10.7",
+            "opponent_en": "int mint"
           },
           {
             "date": "06/22",
             "opponent": "つかぽん",
             "result": "14-25(×)",
-            "change": "-10.3"
+            "change": "-10.3",
+            "opponent_en": ""
           },
           {
             "date": "06/18",
             "opponent": "トリプルセブン",
             "result": "9-20(×)",
-            "change": "-10.4"
+            "change": "-10.4",
+            "opponent_en": ""
           }
         ],
         "opponents": [
@@ -362,22 +407,26 @@
             "name": "トリプルセブン",
             "matches": 1,
             "record": "0-1-0",
-            "win_rate": "0.0%"
+            "win_rate": "0.0%",
+            "name_en": ""
           },
           {
             "name": "つかぽん",
             "matches": 1,
             "record": "0-1-0",
-            "win_rate": "0.0%"
+            "win_rate": "0.0%",
+            "name_en": ""
           },
           {
             "name": "int mint",
             "matches": 1,
             "record": "1-0-0",
-            "win_rate": "100.0%"
+            "win_rate": "100.0%",
+            "name_en": "int mint"
           }
         ]
-      }
+      },
+      "name_en": ""
     },
     {
       "rank": 8,
@@ -396,7 +445,8 @@
             "date": "06/22",
             "opponent": "しそ",
             "result": "7-20(×)",
-            "change": "-9.6"
+            "change": "-9.6",
+            "opponent_en": ""
           }
         ],
         "opponents": [
@@ -404,10 +454,12 @@
             "name": "しそ",
             "matches": 1,
             "record": "0-1-0",
-            "win_rate": "0.0%"
+            "win_rate": "0.0%",
+            "name_en": ""
           }
         ]
-      }
+      },
+      "name_en": "eijis"
     }
   ]
 }
