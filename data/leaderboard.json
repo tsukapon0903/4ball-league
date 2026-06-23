@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T09:09:31.749Z",
+  "last_updated": "2026-06-23T09:39:18.653Z",
   "players": [
     {
       "rank": 1,
@@ -18,7 +18,7 @@
             "date": "06/19",
             "opponent": "しそ",
             "result": "25-4(○)",
-            "change": "+10.2"
+            "change": "+10.1"
           },
           {
             "date": "06/19",
@@ -66,13 +66,13 @@
             "date": "06/22",
             "opponent": "eijis",
             "result": "20-7(○)",
-            "change": "+9.7"
+            "change": "+9.6"
           },
           {
             "date": "06/19",
             "opponent": "Ruba d6d4",
             "result": "4-25(×)",
-            "change": "-10.2"
+            "change": "-10.1"
           },
           {
             "date": "06/18",
@@ -396,7 +396,7 @@
             "date": "06/22",
             "opponent": "しそ",
             "result": "7-20(×)",
-            "change": "-9.7"
+            "change": "-9.6"
           }
         ],
         "opponents": [
