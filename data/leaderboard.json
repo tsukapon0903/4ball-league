@@ -1,58 +1,32 @@
 {
-  "last_updated": "2026-06-23T03:09:17.676Z",
+  "last_updated": "2026-06-23T03:39:16.447Z",
   "players": [
     {
       "rank": 1,
-      "name": "Ruba d6d4",
-      "rating": 620,
-      "current_points": 25,
-      "stats": {
-        "total_matches": 2,
-        "win_rate": "100.0%",
-        "record": "2-0-0",
-        "high_low": "620 / 600",
-        "average": "3.333",
-        "high_run": 10,
-        "recent_matches": [
-          {
-            "date": "06/19",
-            "opponent": "しそ",
-            "result": "25-4(○)",
-            "change": "+10.2"
-          },
-          {
-            "date": "06/19",
-            "opponent": "int mint",
-            "result": "25-17(○)",
-            "change": "+9.9"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "int mint",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%"
-          },
-          {
-            "name": "しそ",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 2,
-      "name": "pen",
-      "rating": 600,
-      "current_points": 25,
+      "name": "\udd47 Ruba d6d4",
+      "rating": 0,
+      "current_points": 0,
       "stats": {
         "total_matches": 0,
         "win_rate": "0.0%",
         "record": "0-0-0",
-        "high_low": "600 / 600",
+        "high_low": "0 / 0",
+        "average": "0.000",
+        "high_run": 0,
+        "recent_matches": [],
+        "opponents": []
+      }
+    },
+    {
+      "rank": 2,
+      "name": "\udd48 しそ",
+      "rating": 0,
+      "current_points": 0,
+      "stats": {
+        "total_matches": 0,
+        "win_rate": "0.0%",
+        "record": "0-0-0",
+        "high_low": "0 / 0",
         "average": "0.000",
         "high_run": 0,
         "recent_matches": [],
@@ -61,14 +35,14 @@
     },
     {
       "rank": 3,
-      "name": "Crout0n",
-      "rating": 600,
-      "current_points": 25,
+      "name": "\udd49 int mint",
+      "rating": 0,
+      "current_points": 0,
       "stats": {
         "total_matches": 0,
         "win_rate": "0.0%",
         "record": "0-0-0",
-        "high_low": "600 / 600",
+        "high_low": "0 / 0",
         "average": "0.000",
         "high_run": 0,
         "recent_matches": [],
@@ -77,127 +51,39 @@
     },
     {
       "rank": 4,
-      "name": "しまこん",
-      "rating": 600,
-      "current_points": 25,
+      "name": "トリプルセブン",
+      "rating": 501,
+      "current_points": 20,
       "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "600 / 600",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
-      }
-    },
-    {
-      "rank": 5,
-      "name": "kuu00",
-      "rating": 600,
-      "current_points": 25,
-      "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "600 / 600",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
-      }
-    },
-    {
-      "rank": 6,
-      "name": "Don Matty",
-      "rating": 600,
-      "current_points": 25,
-      "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "600 / 600",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
-      }
-    },
-    {
-      "rank": 7,
-      "name": "Worly_Street",
-      "rating": 600,
-      "current_points": 25,
-      "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "600 / 600",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
-      }
-    },
-    {
-      "rank": 8,
-      "name": "int mint",
-      "rating": 600,
-      "current_points": 25,
-      "stats": {
-        "total_matches": 4,
+        "total_matches": 2,
         "win_rate": "50.0%",
-        "record": "2-2-0",
-        "high_low": "600 / 589",
-        "average": "2.023",
-        "high_run": 18,
+        "record": "1-1-0",
+        "high_low": "501 / 490",
+        "average": "2.083",
+        "high_run": 8,
         "recent_matches": [
           {
-            "date": "06/23",
-            "opponent": "しそ",
-            "result": "25-14(○)",
-            "change": "+10.9"
-          },
-          {
-            "date": "06/22",
+            "date": "06/18",
             "opponent": "あらたつ",
-            "result": "22-25(×)",
-            "change": "-10.7"
+            "result": "20-9(○)",
+            "change": "+10.4"
           },
           {
-            "date": "06/22",
-            "opponent": "つかぽん",
-            "result": "25-18(○)",
-            "change": "+10.0"
-          },
-          {
-            "date": "06/19",
-            "opponent": "Ruba d6d4",
-            "result": "17-25(×)",
-            "change": "-9.9"
+            "date": "06/18",
+            "opponent": "edamame3tubu",
+            "result": "5-25(×)",
+            "change": "-9.8"
           }
         ],
         "opponents": [
           {
-            "name": "Ruba d6d4",
+            "name": "edamame3tubu",
             "matches": 1,
             "record": "0-1-0",
             "win_rate": "0.0%"
-          },
-          {
-            "name": "つかぽん",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%"
           },
           {
             "name": "あらたつ",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%"
-          },
-          {
-            "name": "しそ",
             "matches": 1,
             "record": "1-0-0",
             "win_rate": "100.0%"
@@ -206,7 +92,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 5,
       "name": "edamame3tubu",
       "rating": 599,
       "current_points": 25,
@@ -248,7 +134,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 6,
       "name": "つかぽん",
       "rating": 591,
       "current_points": 25,
@@ -302,7 +188,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 7,
       "name": "あらたつ",
       "rating": 590,
       "current_points": 25,
@@ -356,191 +242,7 @@
       }
     },
     {
-      "rank": 12,
-      "name": "しそ",
-      "rating": 509,
-      "current_points": 20,
-      "stats": {
-        "total_matches": 5,
-        "win_rate": "60.0%",
-        "record": "3-2-0",
-        "high_low": "520 / 500",
-        "average": "2.000",
-        "high_run": 12,
-        "recent_matches": [
-          {
-            "date": "06/23",
-            "opponent": "int mint",
-            "result": "14-25(×)",
-            "change": "-10.9"
-          },
-          {
-            "date": "06/22",
-            "opponent": "eijis",
-            "result": "20-7(○)",
-            "change": "+9.7"
-          },
-          {
-            "date": "06/19",
-            "opponent": "Ruba d6d4",
-            "result": "4-25(×)",
-            "change": "-10.2"
-          },
-          {
-            "date": "06/18",
-            "opponent": "つかぽん",
-            "result": "20-17(○)",
-            "change": "+9.7"
-          },
-          {
-            "date": "06/18",
-            "opponent": "edamame3tubu",
-            "result": "20-7(○)",
-            "change": "+10.4"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "edamame3tubu",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%"
-          },
-          {
-            "name": "つかぽん",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%"
-          },
-          {
-            "name": "Ruba d6d4",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%"
-          },
-          {
-            "name": "eijis",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%"
-          },
-          {
-            "name": "int mint",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 13,
-      "name": "トリプルセブン",
-      "rating": 501,
-      "current_points": 20,
-      "stats": {
-        "total_matches": 2,
-        "win_rate": "50.0%",
-        "record": "1-1-0",
-        "high_low": "501 / 490",
-        "average": "2.083",
-        "high_run": 8,
-        "recent_matches": [
-          {
-            "date": "06/18",
-            "opponent": "あらたつ",
-            "result": "20-9(○)",
-            "change": "+10.4"
-          },
-          {
-            "date": "06/18",
-            "opponent": "edamame3tubu",
-            "result": "5-25(×)",
-            "change": "-9.8"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "edamame3tubu",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%"
-          },
-          {
-            "name": "あらたつ",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%"
-          }
-        ]
-      }
-    },
-    {
-      "rank": 14,
-      "name": "keitti",
-      "rating": 500,
-      "current_points": 20,
-      "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "500 / 500",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
-      }
-    },
-    {
-      "rank": 15,
-      "name": "shishamoon",
-      "rating": 500,
-      "current_points": 20,
-      "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "500 / 500",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
-      }
-    },
-    {
-      "rank": 16,
-      "name": "音痴 onti",
-      "rating": 500,
-      "current_points": 20,
-      "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "500 / 500",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
-      }
-    },
-    {
-      "rank": 17,
-      "name": "test1",
-      "rating": 500,
-      "current_points": 20,
-      "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "500 / 500",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
-      }
-    },
-    {
-      "rank": 18,
+      "rank": 8,
       "name": "eijis",
       "rating": 490,
       "current_points": 20,
@@ -567,102 +269,6 @@
             "win_rate": "0.0%"
           }
         ]
-      }
-    },
-    {
-      "rank": 19,
-      "name": "takotyann",
-      "rating": 400,
-      "current_points": 16,
-      "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "400 / 400",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
-      }
-    },
-    {
-      "rank": 20,
-      "name": "gogokichi",
-      "rating": 400,
-      "current_points": 16,
-      "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "400 / 400",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
-      }
-    },
-    {
-      "rank": 21,
-      "name": "Tororo_torotto",
-      "rating": 400,
-      "current_points": 16,
-      "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "400 / 400",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
-      }
-    },
-    {
-      "rank": 22,
-      "name": "Seia_TelluriuM",
-      "rating": 400,
-      "current_points": 16,
-      "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "400 / 400",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
-      }
-    },
-    {
-      "rank": 23,
-      "name": "やまだはるか",
-      "rating": 400,
-      "current_points": 16,
-      "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "400 / 400",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
-      }
-    },
-    {
-      "rank": 24,
-      "name": "test2",
-      "rating": 300,
-      "current_points": 12,
-      "stats": {
-        "total_matches": 0,
-        "win_rate": "0.0%",
-        "record": "0-0-0",
-        "high_low": "300 / 300",
-        "average": "0.000",
-        "high_run": 0,
-        "recent_matches": [],
-        "opponents": []
       }
     }
   ]
