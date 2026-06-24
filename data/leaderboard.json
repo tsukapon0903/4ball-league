@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-06-24T14:09:22.534Z",
+  "last_updated": "2026-06-24T14:39:16.706Z",
   "players": [
     {
       "rank": 1,
       "name": "Ruba d6d4",
       "rating": 620,
       "current_points": 25,
+      "league": {
+        "rank": 1,
+        "total_score": 93.8,
+        "win_pt": 100,
+        "growth_pt": 100,
+        "join_pt": 75
+      },
       "stats": {
         "total_matches": 2,
         "win_rate": "100.0%",
@@ -53,6 +60,13 @@
       "name": "しそ",
       "rating": 509,
       "current_points": 20,
+      "league": {
+        "rank": 2,
+        "total_score": 92.5,
+        "win_pt": 90,
+        "growth_pt": 90,
+        "join_pt": 100
+      },
       "stats": {
         "total_matches": 5,
         "win_rate": "60.0%",
@@ -142,6 +156,13 @@
       "name": "int mint",
       "rating": 600,
       "current_points": 25,
+      "league": {
+        "rank": 3,
+        "total_score": 84.5,
+        "win_pt": 85,
+        "growth_pt": 80,
+        "join_pt": 90
+      },
       "stats": {
         "total_matches": 4,
         "win_rate": "50.0%",
@@ -217,6 +238,13 @@
       "name": "トリプルセブン",
       "rating": 501,
       "current_points": 20,
+      "league": {
+        "rank": 4,
+        "total_score": 82.5,
+        "win_pt": 85,
+        "growth_pt": 85,
+        "join_pt": 75
+      },
       "stats": {
         "total_matches": 2,
         "win_rate": "50.0%",
@@ -264,6 +292,13 @@
       "name": "edamame3tubu",
       "rating": 599,
       "current_points": 25,
+      "league": {
+        "rank": 5,
+        "total_score": 79,
+        "win_pt": 85,
+        "growth_pt": 75,
+        "join_pt": 75
+      },
       "stats": {
         "total_matches": 2,
         "win_rate": "50.0%",
@@ -311,6 +346,13 @@
       "name": "つかぽん",
       "rating": 591,
       "current_points": 25,
+      "league": {
+        "rank": 6,
+        "total_score": 73.8,
+        "win_pt": 70,
+        "growth_pt": 70,
+        "join_pt": 85
+      },
       "stats": {
         "total_matches": 3,
         "win_rate": "33.3%",
@@ -372,6 +414,13 @@
       "name": "あらたつ",
       "rating": 590,
       "current_points": 25,
+      "league": {
+        "rank": 7,
+        "total_score": 70.3,
+        "win_pt": 70,
+        "growth_pt": 60,
+        "join_pt": 85
+      },
       "stats": {
         "total_matches": 3,
         "win_rate": "33.3%",
@@ -433,6 +482,13 @@
       "name": "eijis",
       "rating": 490,
       "current_points": 20,
+      "league": {
+        "rank": 8,
+        "total_score": 61.8,
+        "win_pt": 60,
+        "growth_pt": 65,
+        "join_pt": 60
+      },
       "stats": {
         "total_matches": 1,
         "win_rate": "0.0%",
