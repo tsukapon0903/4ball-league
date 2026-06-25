@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T13:51:15.400Z",
+  "last_updated": "2026-06-25T14:04:51.977Z",
   "players": [
     {
       "rank": 1,
@@ -8,10 +8,10 @@
       "current_points": 25,
       "league": {
         "rank": 1,
-        "total_score": 93.8,
+        "total_score": 92.5,
         "win_pt": 100,
         "growth_pt": 100,
-        "join_pt": 75
+        "join_pt": 70
       },
       "stats": {
         "total_matches": 2,
@@ -57,14 +57,82 @@
     },
     {
       "rank": 2,
+      "name": "トリプルセブン",
+      "rating": 510,
+      "current_points": 20,
+      "league": {
+        "rank": 2,
+        "total_score": 86.8,
+        "win_pt": 85,
+        "growth_pt": 90,
+        "join_pt": 85
+      },
+      "stats": {
+        "total_matches": 3,
+        "win_rate": "66.7%",
+        "record": "2-1-0",
+        "high_low": "510 / 490",
+        "average": "2.143",
+        "high_run": 8,
+        "recent_matches": [
+          {
+            "date": "06/25",
+            "opponent": "eijis",
+            "result": "20-9(○)",
+            "change": "+9.6",
+            "opponent_en": "eijis"
+          },
+          {
+            "date": "06/18",
+            "opponent": "あらたつ",
+            "result": "20-9(○)",
+            "change": "+10.3",
+            "opponent_en": "Aratatsu"
+          },
+          {
+            "date": "06/18",
+            "opponent": "edamame3tubu",
+            "result": "5-25(×)",
+            "change": "-9.8",
+            "opponent_en": "edamame3tubu"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "edamame3tubu",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "edamame3tubu"
+          },
+          {
+            "name": "あらたつ",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Aratatsu"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "eijis"
+          }
+        ]
+      },
+      "name_en": "TripleSeven"
+    },
+    {
+      "rank": 3,
       "name": "しそ",
       "rating": 509,
       "current_points": 20,
       "league": {
-        "rank": 2,
-        "total_score": 92.5,
-        "win_pt": 90,
-        "growth_pt": 90,
+        "rank": 3,
+        "total_score": 85,
+        "win_pt": 80,
+        "growth_pt": 80,
         "join_pt": 100
       },
       "stats": {
@@ -152,15 +220,55 @@
       "name_en": "Shiso"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "name": "konachi-",
+      "rating": 510,
+      "current_points": 20,
+      "league": {
+        "rank": 4,
+        "total_score": 83.5,
+        "win_pt": 100,
+        "growth_pt": 85,
+        "join_pt": 55
+      },
+      "stats": {
+        "total_matches": 1,
+        "win_rate": "100.0%",
+        "record": "1-0-0",
+        "high_low": "510 / 500",
+        "average": "1.818",
+        "high_run": 8,
+        "recent_matches": [
+          {
+            "date": "06/25",
+            "opponent": "ももかげ",
+            "result": "20-11(○)",
+            "change": "+9.9",
+            "opponent_en": ""
+          }
+        ],
+        "opponents": [
+          {
+            "name": "ももかげ",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": ""
+          }
+        ]
+      },
+      "name_en": "konachi-"
+    },
+    {
+      "rank": 5,
       "name": "int mint",
       "rating": 600,
       "current_points": 25,
       "league": {
-        "rank": 3,
-        "total_score": 84.5,
-        "win_pt": 85,
-        "growth_pt": 80,
+        "rank": 5,
+        "total_score": 78.8,
+        "win_pt": 75,
+        "growth_pt": 75,
         "join_pt": 90
       },
       "stats": {
@@ -234,84 +342,16 @@
       "name_en": "int mint"
     },
     {
-      "rank": 4,
-      "name": "トリプルセブン",
-      "rating": 510,
-      "current_points": 20,
-      "league": {
-        "rank": 4,
-        "total_score": 82.5,
-        "win_pt": 85,
-        "growth_pt": 85,
-        "join_pt": 75
-      },
-      "stats": {
-        "total_matches": 3,
-        "win_rate": "66.7%",
-        "record": "2-1-0",
-        "high_low": "510 / 490",
-        "average": "2.143",
-        "high_run": 8,
-        "recent_matches": [
-          {
-            "date": "06/25",
-            "opponent": "eijis",
-            "result": "20-9(○)",
-            "change": "+9.6",
-            "opponent_en": "eijis"
-          },
-          {
-            "date": "06/18",
-            "opponent": "あらたつ",
-            "result": "20-9(○)",
-            "change": "+10.3",
-            "opponent_en": "Aratatsu"
-          },
-          {
-            "date": "06/18",
-            "opponent": "edamame3tubu",
-            "result": "5-25(×)",
-            "change": "-9.8",
-            "opponent_en": "edamame3tubu"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "edamame3tubu",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "edamame3tubu"
-          },
-          {
-            "name": "あらたつ",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Aratatsu"
-          },
-          {
-            "name": "eijis",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "eijis"
-          }
-        ]
-      },
-      "name_en": "TripleSeven"
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "name": "edamame3tubu",
       "rating": 599,
       "current_points": 25,
       "league": {
-        "rank": 5,
-        "total_score": 79,
-        "win_pt": 85,
-        "growth_pt": 75,
-        "join_pt": 75
+        "rank": 6,
+        "total_score": 72,
+        "win_pt": 75,
+        "growth_pt": 70,
+        "join_pt": 70
       },
       "stats": {
         "total_matches": 2,
@@ -356,15 +396,15 @@
       "name_en": "edamame3tubu"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "つかぽん",
       "rating": 591,
       "current_points": 25,
       "league": {
-        "rank": 6,
-        "total_score": 73.8,
-        "win_pt": 70,
-        "growth_pt": 70,
+        "rank": 7,
+        "total_score": 70,
+        "win_pt": 65,
+        "growth_pt": 65,
         "join_pt": 85
       },
       "stats": {
@@ -424,15 +464,15 @@
       "name_en": "Tsukapon"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "あらたつ",
       "rating": 590,
       "current_points": 25,
       "league": {
-        "rank": 7,
-        "total_score": 70.3,
-        "win_pt": 70,
-        "growth_pt": 60,
+        "rank": 8,
+        "total_score": 66.5,
+        "win_pt": 65,
+        "growth_pt": 55,
         "join_pt": 85
       },
       "stats": {
@@ -492,16 +532,16 @@
       "name_en": "Aratatsu"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "eijis",
       "rating": 481,
       "current_points": 20,
       "league": {
-        "rank": 8,
-        "total_score": 61.8,
-        "win_pt": 60,
-        "growth_pt": 65,
-        "join_pt": 60
+        "rank": 9,
+        "total_score": 57,
+        "win_pt": 55,
+        "growth_pt": 50,
+        "join_pt": 70
       },
       "stats": {
         "total_matches": 2,
@@ -544,6 +584,46 @@
         ]
       },
       "name_en": "eijis"
+    },
+    {
+      "rank": 10,
+      "name": "ももかげ",
+      "rating": 390,
+      "current_points": 16,
+      "league": {
+        "rank": 10,
+        "total_score": 56.8,
+        "win_pt": 55,
+        "growth_pt": 60,
+        "join_pt": 55
+      },
+      "stats": {
+        "total_matches": 1,
+        "win_rate": "0.0%",
+        "record": "0-1-0",
+        "high_low": "400 / 390",
+        "average": "1.000",
+        "high_run": 6,
+        "recent_matches": [
+          {
+            "date": "06/25",
+            "opponent": "konachi-",
+            "result": "11-20(×)",
+            "change": "-9.9",
+            "opponent_en": "konachi-"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "konachi-",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "konachi-"
+          }
+        ]
+      },
+      "name_en": ""
     }
   ]
 }
