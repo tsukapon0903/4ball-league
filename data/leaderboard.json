@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T12:39:17.067Z",
+  "last_updated": "2026-06-25T13:09:17.041Z",
   "players": [
     {
       "rank": 1,
@@ -100,14 +100,14 @@
             "date": "06/18",
             "opponent": "つかぽん",
             "result": "20-17(○)",
-            "change": "+9.7",
+            "change": "+9.6",
             "opponent_en": "Tsukapon"
           },
           {
             "date": "06/18",
             "opponent": "edamame3tubu",
             "result": "20-7(○)",
-            "change": "+10.4",
+            "change": "+10.3",
             "opponent_en": "edamame3tubu"
           }
         ],
@@ -257,7 +257,7 @@
             "date": "06/18",
             "opponent": "あらたつ",
             "result": "20-9(○)",
-            "change": "+10.4",
+            "change": "+10.3",
             "opponent_en": "Aratatsu"
           },
           {
@@ -311,7 +311,7 @@
             "date": "06/18",
             "opponent": "しそ",
             "result": "7-20(×)",
-            "change": "-10.4",
+            "change": "-10.3",
             "opponent_en": "Shiso"
           },
           {
@@ -379,7 +379,7 @@
             "date": "06/18",
             "opponent": "しそ",
             "result": "17-20(×)",
-            "change": "-9.7",
+            "change": "-9.6",
             "opponent_en": "Shiso"
           }
         ],
@@ -447,7 +447,7 @@
             "date": "06/18",
             "opponent": "トリプルセブン",
             "result": "9-20(×)",
-            "change": "-10.4",
+            "change": "-10.3",
             "opponent_en": "TripleSeven"
           }
         ],
