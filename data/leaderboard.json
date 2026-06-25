@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T13:40:00.145Z",
+  "last_updated": "2026-06-25T13:49:14.665Z",
   "players": [
     {
       "rank": 1,
@@ -236,7 +236,7 @@
     {
       "rank": 4,
       "name": "トリプルセブン",
-      "rating": 501,
+      "rating": 510,
       "current_points": 20,
       "league": {
         "rank": 4,
@@ -246,13 +246,20 @@
         "join_pt": 75
       },
       "stats": {
-        "total_matches": 2,
-        "win_rate": "50.0%",
-        "record": "1-1-0",
-        "high_low": "501 / 490",
-        "average": "2.083",
+        "total_matches": 3,
+        "win_rate": "66.7%",
+        "record": "2-1-0",
+        "high_low": "510 / 490",
+        "average": "2.143",
         "high_run": 8,
         "recent_matches": [
+          {
+            "date": "06/25",
+            "opponent": "eijis",
+            "result": "20-9(○)",
+            "change": "+9.6",
+            "opponent_en": "eijis"
+          },
           {
             "date": "06/18",
             "opponent": "あらたつ",
@@ -282,6 +289,13 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "Aratatsu"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "eijis"
           }
         ]
       },
@@ -480,7 +494,7 @@
     {
       "rank": 8,
       "name": "eijis",
-      "rating": 490,
+      "rating": 481,
       "current_points": 20,
       "league": {
         "rank": 8,
@@ -490,13 +504,20 @@
         "join_pt": 60
       },
       "stats": {
-        "total_matches": 1,
+        "total_matches": 2,
         "win_rate": "0.0%",
-        "record": "0-1-0",
-        "high_low": "500 / 490",
-        "average": "1.400",
-        "high_run": 4,
+        "record": "0-2-0",
+        "high_low": "500 / 481",
+        "average": "1.143",
+        "high_run": 6,
         "recent_matches": [
+          {
+            "date": "06/25",
+            "opponent": "トリプルセブン",
+            "result": "9-20(×)",
+            "change": "-9.6",
+            "opponent_en": "TripleSeven"
+          },
           {
             "date": "06/22",
             "opponent": "しそ",
@@ -512,6 +533,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "Shiso"
+          },
+          {
+            "name": "トリプルセブン",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "TripleSeven"
           }
         ]
       },
