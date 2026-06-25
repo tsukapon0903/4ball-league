@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T15:00:40.973Z",
+  "last_updated": "2026-06-25T15:01:41.585Z",
   "players": [
     {
       "rank": 1,
@@ -112,23 +112,30 @@
     {
       "rank": 3,
       "name": "しそ",
-      "rating": 509,
+      "rating": 518,
       "current_points": 20,
       "league": {
         "rank": 3,
-        "total_score": 81.3,
+        "total_score": 84.8,
         "win_pt": 75,
-        "growth_pt": 75,
+        "growth_pt": 85,
         "join_pt": 100
       },
       "stats": {
-        "total_matches": 5,
-        "win_rate": "60.0%",
-        "record": "3-2-0",
+        "total_matches": 6,
+        "win_rate": "66.7%",
+        "record": "4-2-0",
         "high_low": "520 / 500",
         "average": "2.000",
         "high_run": 12,
         "recent_matches": [
+          {
+            "date": "06/26",
+            "opponent": "やまだはるか",
+            "result": "20-10(○)",
+            "change": "+9.6",
+            "opponent_en": "HarukaYamada"
+          },
           {
             "date": "06/23",
             "opponent": "int mint",
@@ -200,6 +207,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "int mint"
+          },
+          {
+            "name": "やまだはるか",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "HarukaYamada"
           }
         ]
       },
@@ -212,9 +226,9 @@
       "current_points": 25,
       "league": {
         "rank": 4,
-        "total_score": 81,
+        "total_score": 79.3,
         "win_pt": 100,
-        "growth_pt": 85,
+        "growth_pt": 80,
         "join_pt": 45
       },
       "stats": {
@@ -247,65 +261,11 @@
     },
     {
       "rank": 5,
-      "name": "konachi-",
-      "rating": 509,
-      "current_points": 20,
-      "league": {
-        "rank": 5,
-        "total_score": 76.3,
-        "win_pt": 80,
-        "growth_pt": 80,
-        "join_pt": 65
-      },
-      "stats": {
-        "total_matches": 2,
-        "win_rate": "75.0%",
-        "record": "1-0-1",
-        "high_low": "510 / 500",
-        "average": "1.538",
-        "high_run": 8,
-        "recent_matches": [
-          {
-            "date": "06/25",
-            "opponent": "eijis",
-            "result": "20-20(△)",
-            "change": "-1.0",
-            "opponent_en": "eijis"
-          },
-          {
-            "date": "06/25",
-            "opponent": "ももかげ",
-            "result": "20-11(○)",
-            "change": "+9.9",
-            "opponent_en": "Momokage"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "ももかげ",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Momokage"
-          },
-          {
-            "name": "eijis",
-            "matches": 1,
-            "record": "0-0-1",
-            "win_rate": "50.0%",
-            "name_en": "eijis"
-          }
-        ]
-      },
-      "name_en": "konachi-"
-    },
-    {
-      "rank": 6,
       "name": "int mint",
       "rating": 600,
       "current_points": 25,
       "league": {
-        "rank": 6,
+        "rank": 5,
         "total_score": 75,
         "win_pt": 70,
         "growth_pt": 70,
@@ -380,6 +340,60 @@
         ]
       },
       "name_en": "int mint"
+    },
+    {
+      "rank": 6,
+      "name": "konachi-",
+      "rating": 509,
+      "current_points": 20,
+      "league": {
+        "rank": 6,
+        "total_score": 74.5,
+        "win_pt": 80,
+        "growth_pt": 75,
+        "join_pt": 65
+      },
+      "stats": {
+        "total_matches": 2,
+        "win_rate": "75.0%",
+        "record": "1-0-1",
+        "high_low": "510 / 500",
+        "average": "1.538",
+        "high_run": 8,
+        "recent_matches": [
+          {
+            "date": "06/25",
+            "opponent": "eijis",
+            "result": "20-20(△)",
+            "change": "-1.0",
+            "opponent_en": "eijis"
+          },
+          {
+            "date": "06/25",
+            "opponent": "ももかげ",
+            "result": "20-11(○)",
+            "change": "+9.9",
+            "opponent_en": "Momokage"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "ももかげ",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Momokage"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "0-0-1",
+            "win_rate": "50.0%",
+            "name_en": "eijis"
+          }
+        ]
+      },
+      "name_en": "konachi-"
     },
     {
       "rank": 7,
@@ -592,9 +606,9 @@
       "current_points": 25,
       "league": {
         "rank": 10,
-        "total_score": 54.8,
+        "total_score": 53,
         "win_pt": 50,
-        "growth_pt": 35,
+        "growth_pt": 30,
         "join_pt": 90
       },
       "stats": {
@@ -674,9 +688,9 @@
       "current_points": 20,
       "league": {
         "rank": 11,
-        "total_score": 50.8,
+        "total_score": 49,
         "win_pt": 45,
-        "growth_pt": 40,
+        "growth_pt": 35,
         "join_pt": 75
       },
       "stats": {
@@ -777,7 +791,7 @@
     },
     {
       "rank": 13,
-      "name": "ももかげ",
+      "name": "やまだはるか",
       "rating": 390,
       "current_points": 16,
       "league": {
@@ -785,6 +799,46 @@
         "total_score": 43,
         "win_pt": 40,
         "growth_pt": 45,
+        "join_pt": 45
+      },
+      "stats": {
+        "total_matches": 1,
+        "win_rate": "0.0%",
+        "record": "0-1-0",
+        "high_low": "400 / 390",
+        "average": "1.000",
+        "high_run": 4,
+        "recent_matches": [
+          {
+            "date": "06/26",
+            "opponent": "しそ",
+            "result": "10-20(×)",
+            "change": "-9.6",
+            "opponent_en": "Shiso"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "しそ",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Shiso"
+          }
+        ]
+      },
+      "name_en": "HarukaYamada"
+    },
+    {
+      "rank": 14,
+      "name": "ももかげ",
+      "rating": 390,
+      "current_points": 16,
+      "league": {
+        "rank": 14,
+        "total_score": 41.3,
+        "win_pt": 40,
+        "growth_pt": 40,
         "join_pt": 45
       },
       "stats": {
