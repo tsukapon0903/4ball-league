@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T14:53:22.401Z",
+  "last_updated": "2026-06-25T14:59:30.760Z",
   "players": [
     {
       "rank": 1,
@@ -116,9 +116,9 @@
       "current_points": 20,
       "league": {
         "rank": 3,
-        "total_score": 85,
-        "win_pt": 80,
-        "growth_pt": 80,
+        "total_score": 81.3,
+        "win_pt": 75,
+        "growth_pt": 75,
         "join_pt": 100
       },
       "stats": {
@@ -207,14 +207,54 @@
     },
     {
       "rank": 4,
+      "name": "pen",
+      "rating": 610,
+      "current_points": 25,
+      "league": {
+        "rank": 4,
+        "total_score": 81,
+        "win_pt": 100,
+        "growth_pt": 85,
+        "join_pt": 45
+      },
+      "stats": {
+        "total_matches": 1,
+        "win_rate": "100.0%",
+        "record": "1-0-0",
+        "high_low": "610 / 600",
+        "average": "1.923",
+        "high_run": 9,
+        "recent_matches": [
+          {
+            "date": "06/25",
+            "opponent": "あらたつ",
+            "result": "25-14(○)",
+            "change": "+9.7",
+            "opponent_en": "Aratatsu"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "あらたつ",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Aratatsu"
+          }
+        ]
+      },
+      "name_en": "pen"
+    },
+    {
+      "rank": 5,
       "name": "konachi-",
       "rating": 509,
       "current_points": 20,
       "league": {
-        "rank": 4,
-        "total_score": 80,
-        "win_pt": 85,
-        "growth_pt": 85,
+        "rank": 5,
+        "total_score": 76.3,
+        "win_pt": 80,
+        "growth_pt": 80,
         "join_pt": 65
       },
       "stats": {
@@ -260,15 +300,15 @@
       "name_en": "konachi-"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "int mint",
       "rating": 600,
       "current_points": 25,
       "league": {
-        "rank": 5,
-        "total_score": 78.8,
-        "win_pt": 75,
-        "growth_pt": 75,
+        "rank": 6,
+        "total_score": 75,
+        "win_pt": 70,
+        "growth_pt": 70,
         "join_pt": 90
       },
       "stats": {
@@ -342,15 +382,15 @@
       "name_en": "int mint"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "トリプルセブン",
       "rating": 500,
       "current_points": 20,
       "league": {
-        "rank": 6,
-        "total_score": 77,
-        "win_pt": 75,
-        "growth_pt": 70,
+        "rank": 7,
+        "total_score": 73.3,
+        "win_pt": 70,
+        "growth_pt": 65,
         "join_pt": 90
       },
       "stats": {
@@ -424,15 +464,15 @@
       "name_en": "TripleSeven"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "edamame3tubu",
       "rating": 599,
       "current_points": 25,
       "league": {
-        "rank": 7,
-        "total_score": 69,
-        "win_pt": 75,
-        "growth_pt": 65,
+        "rank": 8,
+        "total_score": 65.3,
+        "win_pt": 70,
+        "growth_pt": 60,
         "join_pt": 65
       },
       "stats": {
@@ -478,16 +518,16 @@
       "name_en": "edamame3tubu"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "つかぽん",
       "rating": 591,
       "current_points": 25,
       "league": {
-        "rank": 8,
-        "total_score": 65,
-        "win_pt": 60,
-        "growth_pt": 60,
-        "join_pt": 80
+        "rank": 9,
+        "total_score": 60,
+        "win_pt": 55,
+        "growth_pt": 55,
+        "join_pt": 75
       },
       "stats": {
         "total_matches": 3,
@@ -546,25 +586,32 @@
       "name_en": "Tsukapon"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "あらたつ",
-      "rating": 590,
+      "rating": 580,
       "current_points": 25,
       "league": {
-        "rank": 9,
-        "total_score": 59.8,
-        "win_pt": 60,
-        "growth_pt": 45,
-        "join_pt": 80
+        "rank": 10,
+        "total_score": 54.8,
+        "win_pt": 50,
+        "growth_pt": 35,
+        "join_pt": 90
       },
       "stats": {
-        "total_matches": 3,
-        "win_rate": "33.3%",
-        "record": "1-2-0",
+        "total_matches": 4,
+        "win_rate": "25.0%",
+        "record": "1-3-0",
         "high_low": "600 / 579",
-        "average": "1.412",
+        "average": "1.319",
         "high_run": 8,
         "recent_matches": [
+          {
+            "date": "06/25",
+            "opponent": "pen",
+            "result": "14-25(×)",
+            "change": "-9.7",
+            "opponent_en": "pen"
+          },
           {
             "date": "06/22",
             "opponent": "int mint",
@@ -608,22 +655,29 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "int mint"
+          },
+          {
+            "name": "pen",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "pen"
           }
         ]
       },
       "name_en": "Aratatsu"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "eijis",
       "rating": 482,
       "current_points": 20,
       "league": {
-        "rank": 10,
-        "total_score": 54,
-        "win_pt": 50,
+        "rank": 11,
+        "total_score": 50.8,
+        "win_pt": 45,
         "growth_pt": 40,
-        "join_pt": 80
+        "join_pt": 75
       },
       "stats": {
         "total_matches": 3,
@@ -682,15 +736,15 @@
       "name_en": "eijis"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "xantoz",
       "rating": 390,
       "current_points": 16,
       "league": {
-        "rank": 11,
-        "total_score": 48.5,
-        "win_pt": 45,
-        "growth_pt": 55,
+        "rank": 12,
+        "total_score": 44.8,
+        "win_pt": 40,
+        "growth_pt": 50,
         "join_pt": 45
       },
       "stats": {
@@ -722,15 +776,15 @@
       "name_en": "xantoz"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "ももかげ",
       "rating": 390,
       "current_points": 16,
       "league": {
-        "rank": 12,
-        "total_score": 46.8,
-        "win_pt": 45,
-        "growth_pt": 50,
+        "rank": 13,
+        "total_score": 43,
+        "win_pt": 40,
+        "growth_pt": 45,
         "join_pt": 45
       },
       "stats": {
