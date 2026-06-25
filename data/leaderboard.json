@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T15:09:17.018Z",
+  "last_updated": "2026-06-25T15:11:06.725Z",
   "players": [
     {
       "rank": 1,
@@ -226,10 +226,10 @@
       "current_points": 25,
       "league": {
         "rank": 4,
-        "total_score": 79.3,
+        "total_score": 78,
         "win_pt": 100,
         "growth_pt": 80,
-        "join_pt": 45
+        "join_pt": 40
       },
       "stats": {
         "total_matches": 1,
@@ -261,14 +261,68 @@
     },
     {
       "rank": 5,
+      "name": "konachi-",
+      "rating": 509,
+      "current_points": 20,
+      "league": {
+        "rank": 5,
+        "total_score": 74.5,
+        "win_pt": 80,
+        "growth_pt": 75,
+        "join_pt": 65
+      },
+      "stats": {
+        "total_matches": 2,
+        "win_rate": "75.0%",
+        "record": "1-0-1",
+        "high_low": "510 / 500",
+        "average": "1.538",
+        "high_run": 8,
+        "recent_matches": [
+          {
+            "date": "06/25",
+            "opponent": "eijis",
+            "result": "20-20(△)",
+            "change": "-1.0",
+            "opponent_en": "eijis"
+          },
+          {
+            "date": "06/25",
+            "opponent": "ももかげ",
+            "result": "20-11(○)",
+            "change": "+9.9",
+            "opponent_en": "Momokage"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "ももかげ",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Momokage"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "0-0-1",
+            "win_rate": "50.0%",
+            "name_en": "eijis"
+          }
+        ]
+      },
+      "name_en": "konachi-"
+    },
+    {
+      "rank": 6,
       "name": "int mint",
       "rating": 600,
       "current_points": 25,
       "league": {
-        "rank": 5,
-        "total_score": 75,
+        "rank": 6,
+        "total_score": 73.3,
         "win_pt": 70,
-        "growth_pt": 70,
+        "growth_pt": 65,
         "join_pt": 90
       },
       "stats": {
@@ -342,69 +396,15 @@
       "name_en": "int mint"
     },
     {
-      "rank": 6,
-      "name": "konachi-",
-      "rating": 509,
-      "current_points": 20,
-      "league": {
-        "rank": 6,
-        "total_score": 74.5,
-        "win_pt": 80,
-        "growth_pt": 75,
-        "join_pt": 65
-      },
-      "stats": {
-        "total_matches": 2,
-        "win_rate": "75.0%",
-        "record": "1-0-1",
-        "high_low": "510 / 500",
-        "average": "1.538",
-        "high_run": 8,
-        "recent_matches": [
-          {
-            "date": "06/25",
-            "opponent": "eijis",
-            "result": "20-20(△)",
-            "change": "-1.0",
-            "opponent_en": "eijis"
-          },
-          {
-            "date": "06/25",
-            "opponent": "ももかげ",
-            "result": "20-11(○)",
-            "change": "+9.9",
-            "opponent_en": "Momokage"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "ももかげ",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Momokage"
-          },
-          {
-            "name": "eijis",
-            "matches": 1,
-            "record": "0-0-1",
-            "win_rate": "50.0%",
-            "name_en": "eijis"
-          }
-        ]
-      },
-      "name_en": "konachi-"
-    },
-    {
       "rank": 7,
       "name": "トリプルセブン",
       "rating": 500,
       "current_points": 20,
       "league": {
         "rank": 7,
-        "total_score": 73.3,
+        "total_score": 71.5,
         "win_pt": 70,
-        "growth_pt": 65,
+        "growth_pt": 60,
         "join_pt": 90
       },
       "stats": {
@@ -479,14 +479,68 @@
     },
     {
       "rank": 8,
+      "name": "xantoz",
+      "rating": 401,
+      "current_points": 16,
+      "league": {
+        "rank": 8,
+        "total_score": 68.8,
+        "win_pt": 70,
+        "growth_pt": 70,
+        "join_pt": 65
+      },
+      "stats": {
+        "total_matches": 2,
+        "win_rate": "50.0%",
+        "record": "1-1-0",
+        "high_low": "401 / 390",
+        "average": "0.958",
+        "high_run": 4,
+        "recent_matches": [
+          {
+            "date": "06/26",
+            "opponent": "raiga321",
+            "result": "16-8(○)",
+            "change": "+10.3",
+            "opponent_en": "raiga321"
+          },
+          {
+            "date": "06/25",
+            "opponent": "keitti",
+            "result": "7-20(×)",
+            "change": "-9.5",
+            "opponent_en": "keitti"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "keitti",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "keitti"
+          },
+          {
+            "name": "raiga321",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "raiga321"
+          }
+        ]
+      },
+      "name_en": "xantoz"
+    },
+    {
+      "rank": 9,
       "name": "edamame3tubu",
       "rating": 599,
       "current_points": 25,
       "league": {
-        "rank": 8,
-        "total_score": 65.3,
+        "rank": 9,
+        "total_score": 63.5,
         "win_pt": 70,
-        "growth_pt": 60,
+        "growth_pt": 55,
         "join_pt": 65
       },
       "stats": {
@@ -532,15 +586,15 @@
       "name_en": "edamame3tubu"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "つかぽん",
       "rating": 591,
       "current_points": 25,
       "league": {
-        "rank": 9,
-        "total_score": 60,
-        "win_pt": 55,
-        "growth_pt": 55,
+        "rank": 10,
+        "total_score": 56.3,
+        "win_pt": 50,
+        "growth_pt": 50,
         "join_pt": 75
       },
       "stats": {
@@ -600,15 +654,15 @@
       "name_en": "Tsukapon"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "あらたつ",
       "rating": 580,
       "current_points": 25,
       "league": {
-        "rank": 10,
-        "total_score": 53,
-        "win_pt": 50,
-        "growth_pt": 30,
+        "rank": 11,
+        "total_score": 49.3,
+        "win_pt": 45,
+        "growth_pt": 25,
         "join_pt": 90
       },
       "stats": {
@@ -682,15 +736,15 @@
       "name_en": "Aratatsu"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "eijis",
       "rating": 482,
       "current_points": 20,
       "league": {
-        "rank": 11,
-        "total_score": 49,
-        "win_pt": 45,
-        "growth_pt": 35,
+        "rank": 12,
+        "total_score": 45.3,
+        "win_pt": 40,
+        "growth_pt": 30,
         "join_pt": 75
       },
       "stats": {
@@ -750,56 +804,16 @@
       "name_en": "eijis"
     },
     {
-      "rank": 12,
-      "name": "xantoz",
-      "rating": 390,
-      "current_points": 16,
-      "league": {
-        "rank": 12,
-        "total_score": 44.8,
-        "win_pt": 40,
-        "growth_pt": 50,
-        "join_pt": 45
-      },
-      "stats": {
-        "total_matches": 1,
-        "win_rate": "0.0%",
-        "record": "0-1-0",
-        "high_low": "400 / 390",
-        "average": "0.700",
-        "high_run": 3,
-        "recent_matches": [
-          {
-            "date": "06/25",
-            "opponent": "keitti",
-            "result": "7-20(×)",
-            "change": "-9.5",
-            "opponent_en": "keitti"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "keitti",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "keitti"
-          }
-        ]
-      },
-      "name_en": "xantoz"
-    },
-    {
       "rank": 13,
       "name": "やまだはるか",
       "rating": 390,
       "current_points": 16,
       "league": {
         "rank": 13,
-        "total_score": 43,
-        "win_pt": 40,
+        "total_score": 39.8,
+        "win_pt": 35,
         "growth_pt": 45,
-        "join_pt": 45
+        "join_pt": 40
       },
       "stats": {
         "total_matches": 1,
@@ -836,10 +850,10 @@
       "current_points": 16,
       "league": {
         "rank": 14,
-        "total_score": 41.3,
-        "win_pt": 40,
+        "total_score": 38,
+        "win_pt": 35,
         "growth_pt": 40,
-        "join_pt": 45
+        "join_pt": 40
       },
       "stats": {
         "total_matches": 1,
@@ -868,6 +882,46 @@
         ]
       },
       "name_en": "Momokage"
+    },
+    {
+      "rank": 15,
+      "name": "raiga321",
+      "rating": 390,
+      "current_points": 16,
+      "league": {
+        "rank": 15,
+        "total_score": 36.3,
+        "win_pt": 35,
+        "growth_pt": 35,
+        "join_pt": 40
+      },
+      "stats": {
+        "total_matches": 1,
+        "win_rate": "0.0%",
+        "record": "0-1-0",
+        "high_low": "400 / 390",
+        "average": "0.571",
+        "high_run": 3,
+        "recent_matches": [
+          {
+            "date": "06/26",
+            "opponent": "xantoz",
+            "result": "8-16(×)",
+            "change": "-10.3",
+            "opponent_en": "xantoz"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "xantoz",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "xantoz"
+          }
+        ]
+      },
+      "name_en": "raiga321"
     }
   ]
 }
