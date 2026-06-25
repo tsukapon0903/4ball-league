@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T14:09:15.458Z",
+  "last_updated": "2026-06-25T14:12:29.635Z",
   "players": [
     {
       "rank": 1,
@@ -57,71 +57,43 @@
     },
     {
       "rank": 2,
-      "name": "トリプルセブン",
+      "name": "keitti",
       "rating": 510,
       "current_points": 20,
       "league": {
         "rank": 2,
-        "total_score": 86.8,
-        "win_pt": 85,
+        "total_score": 85.3,
+        "win_pt": 100,
         "growth_pt": 90,
-        "join_pt": 85
+        "join_pt": 55
       },
       "stats": {
-        "total_matches": 3,
-        "win_rate": "66.7%",
-        "record": "2-1-0",
-        "high_low": "510 / 490",
-        "average": "2.143",
-        "high_run": 8,
+        "total_matches": 1,
+        "win_rate": "100.0%",
+        "record": "1-0-0",
+        "high_low": "510 / 500",
+        "average": "1.818",
+        "high_run": 6,
         "recent_matches": [
           {
             "date": "06/25",
-            "opponent": "eijis",
+            "opponent": "トリプルセブン",
             "result": "20-9(○)",
-            "change": "+9.6",
-            "opponent_en": "eijis"
-          },
-          {
-            "date": "06/18",
-            "opponent": "あらたつ",
-            "result": "20-9(○)",
-            "change": "+10.3",
-            "opponent_en": "Aratatsu"
-          },
-          {
-            "date": "06/18",
-            "opponent": "edamame3tubu",
-            "result": "5-25(×)",
-            "change": "-9.8",
-            "opponent_en": "edamame3tubu"
+            "change": "+10.4",
+            "opponent_en": "TripleSeven"
           }
         ],
         "opponents": [
           {
-            "name": "edamame3tubu",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "edamame3tubu"
-          },
-          {
-            "name": "あらたつ",
+            "name": "トリプルセブン",
             "matches": 1,
             "record": "1-0-0",
             "win_rate": "100.0%",
-            "name_en": "Aratatsu"
-          },
-          {
-            "name": "eijis",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "eijis"
+            "name_en": "TripleSeven"
           }
         ]
       },
-      "name_en": "TripleSeven"
+      "name_en": "keitti"
     },
     {
       "rank": 3,
@@ -343,14 +315,96 @@
     },
     {
       "rank": 6,
+      "name": "トリプルセブン",
+      "rating": 500,
+      "current_points": 20,
+      "league": {
+        "rank": 6,
+        "total_score": 77,
+        "win_pt": 75,
+        "growth_pt": 70,
+        "join_pt": 90
+      },
+      "stats": {
+        "total_matches": 4,
+        "win_rate": "50.0%",
+        "record": "2-2-0",
+        "high_low": "510 / 490",
+        "average": "1.688",
+        "high_run": 8,
+        "recent_matches": [
+          {
+            "date": "06/25",
+            "opponent": "keitti",
+            "result": "9-20(×)",
+            "change": "-10.4",
+            "opponent_en": "keitti"
+          },
+          {
+            "date": "06/25",
+            "opponent": "eijis",
+            "result": "20-9(○)",
+            "change": "+9.6",
+            "opponent_en": "eijis"
+          },
+          {
+            "date": "06/18",
+            "opponent": "あらたつ",
+            "result": "20-9(○)",
+            "change": "+10.3",
+            "opponent_en": "Aratatsu"
+          },
+          {
+            "date": "06/18",
+            "opponent": "edamame3tubu",
+            "result": "5-25(×)",
+            "change": "-9.8",
+            "opponent_en": "edamame3tubu"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "edamame3tubu",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "edamame3tubu"
+          },
+          {
+            "name": "あらたつ",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Aratatsu"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "eijis"
+          },
+          {
+            "name": "keitti",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "keitti"
+          }
+        ]
+      },
+      "name_en": "TripleSeven"
+    },
+    {
+      "rank": 7,
       "name": "edamame3tubu",
       "rating": 599,
       "current_points": 25,
       "league": {
-        "rank": 6,
-        "total_score": 72,
+        "rank": 7,
+        "total_score": 70.3,
         "win_pt": 75,
-        "growth_pt": 70,
+        "growth_pt": 65,
         "join_pt": 70
       },
       "stats": {
@@ -396,16 +450,16 @@
       "name_en": "edamame3tubu"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "つかぽん",
       "rating": 591,
       "current_points": 25,
       "league": {
-        "rank": 7,
-        "total_score": 70,
-        "win_pt": 65,
-        "growth_pt": 65,
-        "join_pt": 85
+        "rank": 8,
+        "total_score": 65,
+        "win_pt": 60,
+        "growth_pt": 60,
+        "join_pt": 80
       },
       "stats": {
         "total_matches": 3,
@@ -464,16 +518,16 @@
       "name_en": "Tsukapon"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "あらたつ",
       "rating": 590,
       "current_points": 25,
       "league": {
-        "rank": 8,
-        "total_score": 66.5,
-        "win_pt": 65,
-        "growth_pt": 55,
-        "join_pt": 85
+        "rank": 9,
+        "total_score": 61.5,
+        "win_pt": 60,
+        "growth_pt": 50,
+        "join_pt": 80
       },
       "stats": {
         "total_matches": 3,
@@ -532,15 +586,15 @@
       "name_en": "Aratatsu"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "eijis",
       "rating": 481,
       "current_points": 20,
       "league": {
-        "rank": 9,
-        "total_score": 57,
-        "win_pt": 55,
-        "growth_pt": 50,
+        "rank": 10,
+        "total_score": 53.3,
+        "win_pt": 50,
+        "growth_pt": 45,
         "join_pt": 70
       },
       "stats": {
@@ -586,15 +640,15 @@
       "name_en": "eijis"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "ももかげ",
       "rating": 390,
       "current_points": 16,
       "league": {
-        "rank": 10,
-        "total_score": 56.8,
-        "win_pt": 55,
-        "growth_pt": 60,
+        "rank": 11,
+        "total_score": 53,
+        "win_pt": 50,
+        "growth_pt": 55,
         "join_pt": 55
       },
       "stats": {
