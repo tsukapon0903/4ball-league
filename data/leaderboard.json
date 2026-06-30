@@ -1,26 +1,33 @@
 {
-  "last_updated": "2026-06-30T15:09:17.634Z",
+  "last_updated": "2026-06-30T15:26:42.235Z",
   "players": [
     {
       "rank": 1,
       "name": "しそ",
-      "rating": 536,
+      "rating": 546,
       "current_points": 20,
       "league": {
         "rank": 1,
-        "total_score": 90,
-        "win_pt": 75,
+        "total_score": 92,
+        "win_pt": 80,
         "growth_pt": 100,
         "join_pt": 100
       },
       "stats": {
-        "total_matches": 10,
-        "win_rate": "70.0%",
-        "record": "7-3-0",
-        "high_low": "536 / 500",
-        "average": "2.024",
+        "total_matches": 11,
+        "win_rate": "72.7%",
+        "record": "8-3-0",
+        "high_low": "546 / 500",
+        "average": "2.021",
         "high_run": 12,
         "recent_matches": [
+          {
+            "date": "07/01",
+            "opponent": "Ruba d6d4",
+            "result": "20-18(○)",
+            "change": "+9.5",
+            "opponent_en": "Ruba d6d4"
+          },
           {
             "date": "06/30",
             "opponent": "トリプルセブン",
@@ -83,13 +90,6 @@
             "result": "20-17(○)",
             "change": "+9.5",
             "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "06/18",
-            "opponent": "edamame3tubu",
-            "result": "20-7(○)",
-            "change": "+10.2",
-            "opponent_en": "edamame3tubu"
           }
         ],
         "opponents": [
@@ -108,18 +108,18 @@
             "name_en": "Tsukapon"
           },
           {
+            "name": "Ruba d6d4",
+            "matches": 2,
+            "record": "1-1-0",
+            "win_rate": "50.0%",
+            "name_en": "Ruba d6d4"
+          },
+          {
             "name": "edamame3tubu",
             "matches": 1,
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "edamame3tubu"
-          },
-          {
-            "name": "Ruba d6d4",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "Ruba d6d4"
           },
           {
             "name": "int mint",
@@ -148,69 +148,15 @@
     },
     {
       "rank": 2,
-      "name": "Ruba d6d4",
-      "rating": 620,
-      "current_points": 25,
-      "league": {
-        "rank": 2,
-        "total_score": 86.5,
-        "win_pt": 100,
-        "growth_pt": 90,
-        "join_pt": 60
-      },
-      "stats": {
-        "total_matches": 2,
-        "win_rate": "100.0%",
-        "record": "2-0-0",
-        "high_low": "620 / 600",
-        "average": "3.333",
-        "high_run": 10,
-        "recent_matches": [
-          {
-            "date": "06/19",
-            "opponent": "しそ",
-            "result": "25-4(○)",
-            "change": "+10.0",
-            "opponent_en": "Shiso"
-          },
-          {
-            "date": "06/19",
-            "opponent": "int mint",
-            "result": "25-17(○)",
-            "change": "+9.8",
-            "opponent_en": "int mint"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "int mint",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "int mint"
-          },
-          {
-            "name": "しそ",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Shiso"
-          }
-        ]
-      },
-      "name_en": "Ruba d6d4"
-    },
-    {
-      "rank": 3,
       "name": "keitti",
       "rating": 520,
       "current_points": 20,
       "league": {
-        "rank": 3,
-        "total_score": 84.8,
+        "rank": 2,
+        "total_score": 85.3,
         "win_pt": 100,
-        "growth_pt": 85,
-        "join_pt": 60
+        "growth_pt": 90,
+        "join_pt": 55
       },
       "stats": {
         "total_matches": 2,
@@ -255,16 +201,16 @@
       "name_en": "keitti"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "pen",
       "rating": 618,
       "current_points": 25,
       "league": {
-        "rank": 4,
-        "total_score": 83,
+        "rank": 3,
+        "total_score": 83.5,
         "win_pt": 100,
-        "growth_pt": 80,
-        "join_pt": 60
+        "growth_pt": 85,
+        "join_pt": 55
       },
       "stats": {
         "total_matches": 2,
@@ -309,15 +255,15 @@
       "name_en": "pen"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "つかぽん",
       "rating": 611,
       "current_points": 25,
       "league": {
-        "rank": 5,
-        "total_score": 76.8,
+        "rank": 4,
+        "total_score": 78.5,
         "win_pt": 70,
-        "growth_pt": 75,
+        "growth_pt": 80,
         "join_pt": 90
       },
       "stats": {
@@ -426,16 +372,16 @@
       "name_en": "Tsukapon"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "konachi-",
       "rating": 509,
       "current_points": 20,
       "league": {
-        "rank": 6,
-        "total_score": 71.5,
-        "win_pt": 80,
+        "rank": 5,
+        "total_score": 72.3,
+        "win_pt": 85,
         "growth_pt": 70,
-        "join_pt": 60
+        "join_pt": 55
       },
       "stats": {
         "total_matches": 2,
@@ -478,6 +424,67 @@
         ]
       },
       "name_en": "konachi-"
+    },
+    {
+      "rank": 6,
+      "name": "Ruba d6d4",
+      "rating": 610,
+      "current_points": 25,
+      "league": {
+        "rank": 6,
+        "total_score": 71.3,
+        "win_pt": 75,
+        "growth_pt": 75,
+        "join_pt": 60
+      },
+      "stats": {
+        "total_matches": 3,
+        "win_rate": "66.7%",
+        "record": "2-1-0",
+        "high_low": "620 / 600",
+        "average": "2.720",
+        "high_run": 10,
+        "recent_matches": [
+          {
+            "date": "07/01",
+            "opponent": "しそ",
+            "result": "18-20(×)",
+            "change": "-9.5",
+            "opponent_en": "Shiso"
+          },
+          {
+            "date": "06/19",
+            "opponent": "しそ",
+            "result": "25-4(○)",
+            "change": "+10.0",
+            "opponent_en": "Shiso"
+          },
+          {
+            "date": "06/19",
+            "opponent": "int mint",
+            "result": "25-17(○)",
+            "change": "+9.8",
+            "opponent_en": "int mint"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "しそ",
+            "matches": 2,
+            "record": "1-1-0",
+            "win_rate": "50.0%",
+            "name_en": "Shiso"
+          },
+          {
+            "name": "int mint",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "int mint"
+          }
+        ]
+      },
+      "name_en": "Ruba d6d4"
     },
     {
       "rank": 7,
@@ -568,10 +575,10 @@
       "current_points": 16,
       "league": {
         "rank": 8,
-        "total_score": 63.8,
+        "total_score": 62.5,
         "win_pt": 65,
         "growth_pt": 65,
-        "join_pt": 60
+        "join_pt": 55
       },
       "stats": {
         "total_matches": 2,
