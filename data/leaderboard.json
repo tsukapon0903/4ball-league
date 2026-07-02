@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T14:51:47.872Z",
+  "last_updated": "2026-07-02T15:08:55.760Z",
   "players": [
     {
       "rank": 1,
@@ -149,7 +149,7 @@
     {
       "rank": 2,
       "name": "Ruba d6d4",
-      "rating": 629,
+      "rating": 637,
       "current_points": 25,
       "league": {
         "rank": 2,
@@ -159,13 +159,20 @@
         "join_pt": 70
       },
       "stats": {
-        "total_matches": 5,
-        "win_rate": "80.0%",
-        "record": "4-1-0",
-        "high_low": "629 / 600",
-        "average": "2.810",
+        "total_matches": 6,
+        "win_rate": "83.3%",
+        "record": "5-1-0",
+        "high_low": "637 / 600",
+        "average": "2.918",
         "high_run": 10,
         "recent_matches": [
+          {
+            "date": "07/03",
+            "opponent": "int mint",
+            "result": "25-18(○)",
+            "change": "+8.4",
+            "opponent_en": "int mint"
+          },
           {
             "date": "07/02",
             "opponent": "int mint",
@@ -205,8 +212,8 @@
         "opponents": [
           {
             "name": "int mint",
-            "matches": 2,
-            "record": "2-0-0",
+            "matches": 3,
+            "record": "3-0-0",
             "win_rate": "100.0%",
             "name_en": "int mint"
           },
@@ -526,7 +533,7 @@
             "date": "06/25",
             "opponent": "ももかげ",
             "result": "20-11(○)",
-            "change": "+9.8",
+            "change": "+9.7",
             "opponent_en": "Momokage"
           }
         ],
@@ -587,7 +594,7 @@
             "date": "06/25",
             "opponent": "konachi-",
             "result": "11-20(×)",
-            "change": "-9.8",
+            "change": "-9.7",
             "opponent_en": "konachi-"
           }
         ],
@@ -760,10 +767,10 @@
       "current_points": 20,
       "league": {
         "rank": 10,
-        "total_score": 54,
+        "total_score": 52.8,
         "win_pt": 50,
         "growth_pt": 40,
-        "join_pt": 80
+        "join_pt": 75
       },
       "stats": {
         "total_matches": 6,
@@ -866,23 +873,30 @@
     {
       "rank": 11,
       "name": "int mint",
-      "rating": 581,
+      "rating": 573,
       "current_points": 25,
       "league": {
         "rank": 11,
-        "total_score": 51,
-        "win_pt": 50,
-        "growth_pt": 35,
-        "join_pt": 75
+        "total_score": 48.5,
+        "win_pt": 45,
+        "growth_pt": 30,
+        "join_pt": 80
       },
       "stats": {
-        "total_matches": 6,
-        "win_rate": "33.3%",
-        "record": "2-4-0",
-        "high_low": "600 / 581",
-        "average": "1.810",
+        "total_matches": 7,
+        "win_rate": "28.6%",
+        "record": "2-5-0",
+        "high_low": "600 / 573",
+        "average": "1.886",
         "high_run": 18,
         "recent_matches": [
+          {
+            "date": "07/03",
+            "opponent": "Ruba d6d4",
+            "result": "18-25(×)",
+            "change": "-8.4",
+            "opponent_en": "Ruba d6d4"
+          },
           {
             "date": "07/02",
             "opponent": "Ruba d6d4",
@@ -929,8 +943,8 @@
         "opponents": [
           {
             "name": "Ruba d6d4",
-            "matches": 2,
-            "record": "0-2-0",
+            "matches": 3,
+            "record": "0-3-0",
             "win_rate": "0.0%",
             "name_en": "Ruba d6d4"
           },
@@ -1027,9 +1041,9 @@
       "current_points": 25,
       "league": {
         "rank": 13,
-        "total_score": 42.8,
+        "total_score": 44.5,
         "win_pt": 40,
-        "growth_pt": 30,
+        "growth_pt": 35,
         "join_pt": 65
       },
       "stats": {
