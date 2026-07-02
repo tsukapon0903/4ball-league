@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T15:09:21.608Z",
+  "last_updated": "2026-07-02T15:17:41.481Z",
   "players": [
     {
       "rank": 1,
@@ -306,8 +306,8 @@
         "win_rate": "55.6%",
         "record": "5-4-0",
         "high_low": "611 / 581",
-        "average": "2.222",
-        "high_run": 25,
+        "average": "2.296",
+        "high_run": 11,
         "recent_matches": [
           {
             "date": "07/02",
@@ -326,7 +326,7 @@
           {
             "date": "06/30",
             "opponent": "トリプルセブン",
-            "result": "19-19(○)",
+            "result": "25-19(○)",
             "change": "+9.8",
             "opponent_en": "TripleSeven"
           },
@@ -790,7 +790,7 @@
           {
             "date": "06/30",
             "opponent": "つかぽん",
-            "result": "19-19(×)",
+            "result": "19-25(×)",
             "change": "-9.8",
             "opponent_en": "Tsukapon"
           },
