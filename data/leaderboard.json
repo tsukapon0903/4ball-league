@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-04T14:58:41.789Z",
+  "last_updated": "2026-07-05T16:09:17.064Z",
   "players": [
     {
       "rank": 1,
       "name": "Ruba d6d4",
       "rating": 657,
-      "current_points": 25,
+      "current_points": 30,
       "league": {
         "rank": 1,
         "total_score": 91,
@@ -1244,7 +1244,7 @@
       "rank": 15,
       "name": "eijis",
       "rating": 454,
-      "current_points": 20,
+      "current_points": 18,
       "league": {
         "rank": 15,
         "total_score": 35.8,
