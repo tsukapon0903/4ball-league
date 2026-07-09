@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T15:18:33.717Z",
+  "last_updated": "2026-07-09T13:39:22.334Z",
   "players": [
     {
       "rank": 1,
@@ -17,7 +17,7 @@
         "total_matches": 12,
         "win_rate": "79.2%",
         "record": "9-2-1",
-        "high_low": "669 / 600",
+        "high_low": "668 / 600",
         "average": "3.290",
         "high_run": 16,
         "recent_matches": [
@@ -39,7 +39,7 @@
             "date": "07/06",
             "opponent": "eijis",
             "result": "28-18(×)",
-            "change": "-9.7",
+            "change": "-9.6",
             "opponent_en": "eijis"
           },
           {
@@ -53,14 +53,14 @@
             "date": "07/03",
             "opponent": "つかぽん",
             "result": "25-4(○)",
-            "change": "+11.5",
+            "change": "+11.4",
             "opponent_en": "Tsukapon"
           },
           {
             "date": "07/03",
             "opponent": "int mint",
             "result": "25-19(○)",
-            "change": "+7.8",
+            "change": "+7.7",
             "opponent_en": "int mint"
           },
           {
@@ -74,14 +74,14 @@
             "date": "07/02",
             "opponent": "int mint",
             "result": "25-6(○)",
-            "change": "+8.9",
+            "change": "+8.8",
             "opponent_en": "int mint"
           },
           {
             "date": "07/02",
             "opponent": "eijis",
             "result": "25-11(○)",
-            "change": "+9.8",
+            "change": "+9.7",
             "opponent_en": "eijis"
           },
           {
@@ -177,28 +177,28 @@
             "date": "06/29",
             "opponent": "つかぽん",
             "result": "20-3(○)",
-            "change": "+9.4",
+            "change": "+9.3",
             "opponent_en": "Tsukapon"
           },
           {
             "date": "06/26",
             "opponent": "eijis",
             "result": "14-20(×)",
-            "change": "-9.8",
+            "change": "-9.7",
             "opponent_en": "eijis"
           },
           {
             "date": "06/26",
             "opponent": "やまだはるか",
             "result": "20-10(○)",
-            "change": "+9.4",
+            "change": "+9.3",
             "opponent_en": "HarukaYamada"
           },
           {
             "date": "06/23",
             "opponent": "int mint",
             "result": "14-25(×)",
-            "change": "-10.6",
+            "change": "-10.5",
             "opponent_en": "int mint"
           },
           {
@@ -212,7 +212,7 @@
             "date": "06/19",
             "opponent": "Ruba d6d4",
             "result": "4-25(×)",
-            "change": "-9.9",
+            "change": "-9.8",
             "opponent_en": "Ruba d6d4"
           },
           {
@@ -301,14 +301,14 @@
             "date": "06/26",
             "opponent": "eijis",
             "result": "25-11(○)",
-            "change": "+8.8",
+            "change": "+8.7",
             "opponent_en": "eijis"
           },
           {
             "date": "06/25",
             "opponent": "あらたつ",
             "result": "25-14(○)",
-            "change": "+9.5",
+            "change": "+9.4",
             "opponent_en": "Aratatsu"
           }
         ],
@@ -344,18 +344,25 @@
         "join_pt": 65
       },
       "stats": {
-        "total_matches": 7,
-        "win_rate": "64.3%",
-        "record": "4-2-1",
-        "high_low": "616 / 589",
-        "average": "2.632",
+        "total_matches": 8,
+        "win_rate": "68.8%",
+        "record": "5-2-1",
+        "high_low": "625 / 589",
+        "average": "2.574",
         "high_run": 14,
         "recent_matches": [
+          {
+            "date": "07/09",
+            "opponent": "eijis",
+            "result": "25-8(○)",
+            "change": "+9.3",
+            "opponent_en": "eijis"
+          },
           {
             "date": "07/06",
             "opponent": "トリプルセブン",
             "result": "25-16(○)",
-            "change": "+9.0",
+            "change": "+8.9",
             "opponent_en": "TripleSeven"
           },
           {
@@ -376,21 +383,21 @@
             "date": "06/29",
             "opponent": "int mint",
             "result": "25-19(○)",
-            "change": "+10.3",
+            "change": "+10.2",
             "opponent_en": "int mint"
           },
           {
             "date": "06/29",
             "opponent": "つかぽん",
             "result": "18-25(×)",
-            "change": "-10.5",
+            "change": "-10.4",
             "opponent_en": "Tsukapon"
           },
           {
             "date": "06/18",
             "opponent": "しそ",
             "result": "7-20(×)",
-            "change": "-10.1",
+            "change": "-10.0",
             "opponent_en": "Shiso"
           },
           {
@@ -429,6 +436,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "Tsukapon"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "eijis"
           }
         ]
       },
@@ -458,7 +472,7 @@
             "date": "07/02",
             "opponent": "つかぽん",
             "result": "6-25(×)",
-            "change": "-10.5",
+            "change": "-10.4",
             "opponent_en": "Tsukapon"
           },
           {
@@ -533,7 +547,7 @@
             "date": "06/25",
             "opponent": "ももかげ",
             "result": "20-11(○)",
-            "change": "+9.7",
+            "change": "+9.6",
             "opponent_en": "Momokage"
           }
         ],
@@ -580,14 +594,14 @@
             "date": "07/06",
             "opponent": "トリプルセブン",
             "result": "25-11(○)",
-            "change": "+9.7",
+            "change": "+9.6",
             "opponent_en": "TripleSeven"
           },
           {
             "date": "07/04",
             "opponent": "音痴 onti",
             "result": "17-20(×)",
-            "change": "-10.4",
+            "change": "-10.3",
             "opponent_en": "Onti"
           },
           {
@@ -601,21 +615,21 @@
             "date": "07/03",
             "opponent": "Ruba d6d4",
             "result": "4-25(×)",
-            "change": "-11.5",
+            "change": "-11.4",
             "opponent_en": "Ruba d6d4"
           },
           {
             "date": "07/02",
             "opponent": "keitti",
             "result": "25-6(○)",
-            "change": "+10.5",
+            "change": "+10.4",
             "opponent_en": "keitti"
           },
           {
             "date": "07/02",
             "opponent": "ももかげ",
             "result": "23-16(×)",
-            "change": "-10.9",
+            "change": "-10.8",
             "opponent_en": "Momokage"
           },
           {
@@ -636,14 +650,14 @@
             "date": "06/29",
             "opponent": "edamame3tubu",
             "result": "25-18(○)",
-            "change": "+10.5",
+            "change": "+10.4",
             "opponent_en": "edamame3tubu"
           },
           {
             "date": "06/29",
             "opponent": "しそ",
             "result": "3-20(×)",
-            "change": "-9.4",
+            "change": "-9.3",
             "opponent_en": "Shiso"
           }
         ],
@@ -753,14 +767,14 @@
             "date": "07/02",
             "opponent": "つかぽん",
             "result": "16-23(○)",
-            "change": "+10.9",
+            "change": "+10.8",
             "opponent_en": "Tsukapon"
           },
           {
             "date": "06/25",
             "opponent": "konachi-",
             "result": "11-20(×)",
-            "change": "-9.7",
+            "change": "-9.6",
             "opponent_en": "konachi-"
           }
         ],
@@ -868,7 +882,7 @@
             "date": "07/04",
             "opponent": "つかぽん",
             "result": "20-17(○)",
-            "change": "+10.4",
+            "change": "+10.3",
             "opponent_en": "Tsukapon"
           },
           {
@@ -929,21 +943,21 @@
             "date": "07/06",
             "opponent": "edamame3tubu",
             "result": "16-25(×)",
-            "change": "-9.0",
+            "change": "-8.9",
             "opponent_en": "edamame3tubu"
           },
           {
             "date": "07/06",
             "opponent": "eijis",
             "result": "20-6(○)",
-            "change": "+9.4",
+            "change": "+9.3",
             "opponent_en": "eijis"
           },
           {
             "date": "07/06",
             "opponent": "つかぽん",
             "result": "11-25(×)",
-            "change": "-9.7",
+            "change": "-9.6",
             "opponent_en": "Tsukapon"
           },
           {
@@ -971,14 +985,14 @@
             "date": "06/25",
             "opponent": "eijis",
             "result": "20-9(○)",
-            "change": "+9.5",
+            "change": "+9.4",
             "opponent_en": "eijis"
           },
           {
             "date": "06/18",
             "opponent": "あらたつ",
             "result": "20-9(○)",
-            "change": "+10.1",
+            "change": "+10.0",
             "opponent_en": "Aratatsu"
           },
           {
@@ -1059,7 +1073,7 @@
         "total_matches": 12,
         "win_rate": "29.2%",
         "record": "3-8-1",
-        "high_low": "600 / 558",
+        "high_low": "600 / 559",
         "average": "1.982",
         "high_run": 18,
         "recent_matches": [
@@ -1095,7 +1109,7 @@
             "date": "07/03",
             "opponent": "Ruba d6d4",
             "result": "19-25(×)",
-            "change": "-7.8",
+            "change": "-7.7",
             "opponent_en": "Ruba d6d4"
           },
           {
@@ -1109,21 +1123,21 @@
             "date": "07/02",
             "opponent": "Ruba d6d4",
             "result": "6-25(×)",
-            "change": "-8.9",
+            "change": "-8.8",
             "opponent_en": "Ruba d6d4"
           },
           {
             "date": "06/29",
             "opponent": "edamame3tubu",
             "result": "19-25(×)",
-            "change": "-10.3",
+            "change": "-10.2",
             "opponent_en": "edamame3tubu"
           },
           {
             "date": "06/23",
             "opponent": "しそ",
             "result": "25-14(○)",
-            "change": "+10.6",
+            "change": "+10.5",
             "opponent_en": "Shiso"
           },
           {
@@ -1205,7 +1219,7 @@
             "date": "06/25",
             "opponent": "pen",
             "result": "14-25(×)",
-            "change": "-9.5",
+            "change": "-9.4",
             "opponent_en": "pen"
           },
           {
@@ -1226,7 +1240,7 @@
             "date": "06/18",
             "opponent": "トリプルセブン",
             "result": "9-20(×)",
-            "change": "-10.1",
+            "change": "-10.0",
             "opponent_en": "TripleSeven"
           }
         ],
@@ -1294,7 +1308,7 @@
             "date": "06/26",
             "opponent": "しそ",
             "result": "10-20(×)",
-            "change": "-9.4",
+            "change": "-9.3",
             "opponent_en": "Shiso"
           }
         ],
@@ -1330,32 +1344,39 @@
         "join_pt": 70
       },
       "stats": {
-        "total_matches": 10,
-        "win_rate": "25.0%",
-        "record": "2-7-1",
+        "total_matches": 11,
+        "win_rate": "22.7%",
+        "record": "2-8-1",
         "high_low": "500 / 445",
-        "average": "1.200",
+        "average": "1.155",
         "high_run": 7,
         "recent_matches": [
+          {
+            "date": "07/09",
+            "opponent": "edamame3tubu",
+            "result": "8-25(×)",
+            "change": "-9.3",
+            "opponent_en": "edamame3tubu"
+          },
           {
             "date": "07/06",
             "opponent": "Ruba d6d4",
             "result": "18-28(○)",
-            "change": "+9.7",
+            "change": "+9.6",
             "opponent_en": "Ruba d6d4"
           },
           {
             "date": "07/06",
             "opponent": "トリプルセブン",
             "result": "6-20(×)",
-            "change": "-9.4",
+            "change": "-9.3",
             "opponent_en": "TripleSeven"
           },
           {
             "date": "07/02",
             "opponent": "Ruba d6d4",
             "result": "11-25(×)",
-            "change": "-9.8",
+            "change": "-9.7",
             "opponent_en": "Ruba d6d4"
           },
           {
@@ -1376,14 +1397,14 @@
             "date": "06/26",
             "opponent": "しそ",
             "result": "20-14(○)",
-            "change": "+9.8",
+            "change": "+9.7",
             "opponent_en": "Shiso"
           },
           {
             "date": "06/26",
             "opponent": "pen",
             "result": "11-25(×)",
-            "change": "-8.8",
+            "change": "-8.7",
             "opponent_en": "pen"
           },
           {
@@ -1397,15 +1418,8 @@
             "date": "06/25",
             "opponent": "トリプルセブン",
             "result": "9-20(×)",
-            "change": "-9.5",
-            "opponent_en": "TripleSeven"
-          },
-          {
-            "date": "06/22",
-            "opponent": "しそ",
-            "result": "7-20(×)",
             "change": "-9.4",
-            "opponent_en": "Shiso"
+            "opponent_en": "TripleSeven"
           }
         ],
         "opponents": [
@@ -1450,6 +1464,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "Tsukapon"
+          },
+          {
+            "name": "edamame3tubu",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "edamame3tubu"
           }
         ]
       },
