@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-09T15:35:16.751Z",
+  "last_updated": "2026-07-09T15:58:40.005Z",
   "players": [
     {
       "rank": 1,
       "name": "Ruba d6d4",
-      "rating": 698,
+      "rating": 708,
       "current_points": 30,
       "league": {
         "rank": 1,
@@ -14,13 +14,20 @@
         "join_pt": 90
       },
       "stats": {
-        "total_matches": 15,
-        "win_rate": "83.3%",
-        "record": "12-2-1",
-        "high_low": "698 / 600",
-        "average": "3.443",
+        "total_matches": 16,
+        "win_rate": "84.4%",
+        "record": "13-2-1",
+        "high_low": "708 / 600",
+        "average": "3.463",
         "high_run": 17,
         "recent_matches": [
+          {
+            "date": "07/10",
+            "opponent": "eijis",
+            "result": "30-4(○)",
+            "change": "+10.1",
+            "opponent_en": "eijis"
+          },
           {
             "date": "07/10",
             "opponent": "edamame3tubu",
@@ -83,13 +90,6 @@
             "result": "25-19(○)",
             "change": "+7.7",
             "opponent_en": "int mint"
-          },
-          {
-            "date": "07/03",
-            "opponent": "int mint",
-            "result": "25-18(○)",
-            "change": "+8.3",
-            "opponent_en": "int mint"
           }
         ],
         "opponents": [
@@ -101,18 +101,18 @@
             "name_en": "int mint"
           },
           {
+            "name": "eijis",
+            "matches": 3,
+            "record": "2-1-0",
+            "win_rate": "66.7%",
+            "name_en": "eijis"
+          },
+          {
             "name": "しそ",
             "matches": 2,
             "record": "1-1-0",
             "win_rate": "50.0%",
             "name_en": "Shiso"
-          },
-          {
-            "name": "eijis",
-            "matches": 2,
-            "record": "1-1-0",
-            "win_rate": "50.0%",
-            "name_en": "eijis"
           },
           {
             "name": "つかぽん",
@@ -1451,23 +1451,30 @@
     {
       "rank": 16,
       "name": "eijis",
-      "rating": 427,
+      "rating": 417,
       "current_points": 18,
       "league": {
         "rank": 16,
-        "total_score": 31.5,
+        "total_score": 32.8,
         "win_pt": 20,
         "growth_pt": 10,
-        "join_pt": 80
+        "join_pt": 85
       },
       "stats": {
-        "total_matches": 13,
-        "win_rate": "19.2%",
-        "record": "2-10-1",
-        "high_low": "500 / 427",
-        "average": "1.161",
+        "total_matches": 14,
+        "win_rate": "17.9%",
+        "record": "2-11-1",
+        "high_low": "500 / 417",
+        "average": "1.126",
         "high_run": 9,
         "recent_matches": [
+          {
+            "date": "07/10",
+            "opponent": "Ruba d6d4",
+            "result": "4-30(×)",
+            "change": "-10.1",
+            "opponent_en": "Ruba d6d4"
+          },
           {
             "date": "07/10",
             "opponent": "kuu00",
@@ -1530,13 +1537,6 @@
             "result": "20-14(○)",
             "change": "+9.7",
             "opponent_en": "Shiso"
-          },
-          {
-            "date": "06/26",
-            "opponent": "pen",
-            "result": "11-25(×)",
-            "change": "-8.7",
-            "opponent_en": "pen"
           }
         ],
         "opponents": [
@@ -1556,9 +1556,9 @@
           },
           {
             "name": "Ruba d6d4",
-            "matches": 2,
-            "record": "1-1-0",
-            "win_rate": "50.0%",
+            "matches": 3,
+            "record": "1-2-0",
+            "win_rate": "33.3%",
             "name_en": "Ruba d6d4"
           },
           {
