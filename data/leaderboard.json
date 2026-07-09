@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T15:04:36.053Z",
+  "last_updated": "2026-07-09T15:05:22.545Z",
   "players": [
     {
       "rank": 1,
@@ -373,9 +373,9 @@
       "current_points": 25,
       "league": {
         "rank": 4,
-        "total_score": 76.3,
+        "total_score": 78,
         "win_pt": 100,
-        "growth_pt": 75,
+        "growth_pt": 80,
         "join_pt": 40
       },
       "stats": {
@@ -423,23 +423,30 @@
     {
       "rank": 5,
       "name": "edamame3tubu",
-      "rating": 624,
+      "rating": 614,
       "current_points": 25,
       "league": {
         "rank": 5,
-        "total_score": 72.3,
-        "win_pt": 70,
-        "growth_pt": 80,
+        "total_score": 68.5,
+        "win_pt": 65,
+        "growth_pt": 75,
         "join_pt": 65
       },
       "stats": {
-        "total_matches": 9,
-        "win_rate": "66.7%",
-        "record": "5-2-2",
+        "total_matches": 10,
+        "win_rate": "60.0%",
+        "record": "5-3-2",
         "high_low": "625 / 589",
-        "average": "2.597",
+        "average": "2.547",
         "high_run": 14,
         "recent_matches": [
+          {
+            "date": "07/10",
+            "opponent": "トリプルセブン",
+            "result": "19-20(×)",
+            "change": "-10.4",
+            "opponent_en": "TripleSeven"
+          },
           {
             "date": "07/09",
             "opponent": "リココ_VRC",
@@ -506,18 +513,18 @@
         ],
         "opponents": [
           {
+            "name": "トリプルセブン",
+            "matches": 3,
+            "record": "2-1-0",
+            "win_rate": "66.7%",
+            "name_en": "TripleSeven"
+          },
+          {
             "name": "int mint",
             "matches": 3,
             "record": "2-0-1",
             "win_rate": "83.3%",
             "name_en": "int mint"
-          },
-          {
-            "name": "トリプルセブン",
-            "matches": 2,
-            "record": "2-0-0",
-            "win_rate": "100.0%",
-            "name_en": "TripleSeven"
           },
           {
             "name": "しそ",
@@ -1032,7 +1039,7 @@
     {
       "rank": 12,
       "name": "トリプルセブン",
-      "rating": 470,
+      "rating": 481,
       "current_points": 20,
       "league": {
         "rank": 12,
@@ -1042,13 +1049,20 @@
         "join_pt": 90
       },
       "stats": {
-        "total_matches": 13,
-        "win_rate": "38.5%",
-        "record": "5-8-0",
+        "total_matches": 14,
+        "win_rate": "42.9%",
+        "record": "6-8-0",
         "high_low": "510 / 451",
-        "average": "1.743",
+        "average": "1.780",
         "high_run": 18,
         "recent_matches": [
+          {
+            "date": "07/10",
+            "opponent": "edamame3tubu",
+            "result": "20-19(○)",
+            "change": "+10.4",
+            "opponent_en": "edamame3tubu"
+          },
           {
             "date": "07/09",
             "opponent": "eijis",
@@ -1111,29 +1125,22 @@
             "result": "19-25(×)",
             "change": "-9.7",
             "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "06/25",
-            "opponent": "keitti",
-            "result": "9-20(×)",
-            "change": "-10.1",
-            "opponent_en": "keitti"
           }
         ],
         "opponents": [
+          {
+            "name": "edamame3tubu",
+            "matches": 3,
+            "record": "1-2-0",
+            "win_rate": "33.3%",
+            "name_en": "edamame3tubu"
+          },
           {
             "name": "eijis",
             "matches": 3,
             "record": "3-0-0",
             "win_rate": "100.0%",
             "name_en": "eijis"
-          },
-          {
-            "name": "edamame3tubu",
-            "matches": 2,
-            "record": "0-2-0",
-            "win_rate": "0.0%",
-            "name_en": "edamame3tubu"
           },
           {
             "name": "あらたつ",
@@ -1434,10 +1441,10 @@
       "current_points": 18,
       "league": {
         "rank": 16,
-        "total_score": 34,
+        "total_score": 32.8,
         "win_pt": 20,
         "growth_pt": 10,
-        "join_pt": 90
+        "join_pt": 85
       },
       "stats": {
         "total_matches": 13,
