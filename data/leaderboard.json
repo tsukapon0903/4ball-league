@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T14:16:30.118Z",
+  "last_updated": "2026-07-09T14:33:21.964Z",
   "players": [
     {
       "rank": 1,
@@ -139,10 +139,10 @@
       "current_points": 20,
       "league": {
         "rank": 2,
-        "total_score": 81.5,
+        "total_score": 80.3,
         "win_pt": 75,
         "growth_pt": 90,
-        "join_pt": 80
+        "join_pt": 75
       },
       "stats": {
         "total_matches": 11,
@@ -969,23 +969,30 @@
     {
       "rank": 12,
       "name": "トリプルセブン",
-      "rating": 461,
+      "rating": 470,
       "current_points": 20,
       "league": {
         "rank": 12,
-        "total_score": 47.3,
+        "total_score": 49,
         "win_pt": 40,
-        "growth_pt": 25,
+        "growth_pt": 30,
         "join_pt": 90
       },
       "stats": {
-        "total_matches": 12,
-        "win_rate": "33.3%",
-        "record": "4-8-0",
+        "total_matches": 13,
+        "win_rate": "38.5%",
+        "record": "5-8-0",
         "high_low": "510 / 451",
-        "average": "1.828",
+        "average": "1.743",
         "high_run": 18,
         "recent_matches": [
+          {
+            "date": "07/09",
+            "opponent": "eijis",
+            "result": "20-17(○)",
+            "change": "+9.5",
+            "opponent_en": "eijis"
+          },
           {
             "date": "07/09",
             "opponent": "あらたつ",
@@ -1048,16 +1055,16 @@
             "result": "9-20(×)",
             "change": "-10.1",
             "opponent_en": "keitti"
-          },
-          {
-            "date": "06/25",
-            "opponent": "eijis",
-            "result": "20-9(○)",
-            "change": "+9.4",
-            "opponent_en": "eijis"
           }
         ],
         "opponents": [
+          {
+            "name": "eijis",
+            "matches": 3,
+            "record": "3-0-0",
+            "win_rate": "100.0%",
+            "name_en": "eijis"
+          },
           {
             "name": "edamame3tubu",
             "matches": 2,
@@ -1071,13 +1078,6 @@
             "record": "2-0-0",
             "win_rate": "100.0%",
             "name_en": "Aratatsu"
-          },
-          {
-            "name": "eijis",
-            "matches": 2,
-            "record": "2-0-0",
-            "win_rate": "100.0%",
-            "name_en": "eijis"
           },
           {
             "name": "つかぽん",
@@ -1125,10 +1125,10 @@
       "current_points": 25,
       "league": {
         "rank": 13,
-        "total_score": 42.3,
+        "total_score": 41,
         "win_pt": 35,
         "growth_pt": 20,
-        "join_pt": 85
+        "join_pt": 80
       },
       "stats": {
         "total_matches": 12,
@@ -1313,23 +1313,30 @@
     {
       "rank": 15,
       "name": "eijis",
-      "rating": 445,
+      "rating": 436,
       "current_points": 18,
       "league": {
         "rank": 15,
-        "total_score": 35.3,
+        "total_score": 36.5,
         "win_pt": 25,
         "growth_pt": 15,
-        "join_pt": 80
+        "join_pt": 85
       },
       "stats": {
-        "total_matches": 11,
-        "win_rate": "22.7%",
-        "record": "2-8-1",
-        "high_low": "500 / 445",
-        "average": "1.155",
+        "total_matches": 12,
+        "win_rate": "20.8%",
+        "record": "2-9-1",
+        "high_low": "500 / 436",
+        "average": "1.144",
         "high_run": 7,
         "recent_matches": [
+          {
+            "date": "07/09",
+            "opponent": "トリプルセブン",
+            "result": "17-20(×)",
+            "change": "-9.5",
+            "opponent_en": "TripleSeven"
+          },
           {
             "date": "07/09",
             "opponent": "edamame3tubu",
@@ -1392,13 +1399,6 @@
             "result": "20-20(△)",
             "change": "+1.0",
             "opponent_en": "konachi-"
-          },
-          {
-            "date": "06/25",
-            "opponent": "トリプルセブン",
-            "result": "9-20(×)",
-            "change": "-9.4",
-            "opponent_en": "TripleSeven"
           }
         ],
         "opponents": [
@@ -1411,8 +1411,8 @@
           },
           {
             "name": "トリプルセブン",
-            "matches": 2,
-            "record": "0-2-0",
+            "matches": 3,
+            "record": "0-3-0",
             "win_rate": "0.0%",
             "name_en": "TripleSeven"
           },
@@ -1462,9 +1462,9 @@
       "current_points": 25,
       "league": {
         "rank": 16,
-        "total_score": 33.5,
+        "total_score": 31.8,
         "win_pt": 20,
-        "growth_pt": 30,
+        "growth_pt": 25,
         "join_pt": 60
       },
       "stats": {
