@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T15:03:45.217Z",
+  "last_updated": "2026-07-09T15:04:36.053Z",
   "players": [
     {
       "rank": 1,
@@ -8,10 +8,10 @@
       "current_points": 30,
       "league": {
         "rank": 1,
-        "total_score": 90.3,
+        "total_score": 89,
         "win_pt": 85,
         "growth_pt": 100,
-        "join_pt": 85
+        "join_pt": 80
       },
       "stats": {
         "total_matches": 13,
@@ -142,7 +142,7 @@
     {
       "rank": 2,
       "name": "kuu00",
-      "rating": 628,
+      "rating": 636,
       "current_points": 25,
       "league": {
         "rank": 2,
@@ -152,13 +152,20 @@
         "join_pt": 55
       },
       "stats": {
-        "total_matches": 3,
+        "total_matches": 4,
         "win_rate": "100.0%",
-        "record": "3-0-0",
-        "high_low": "628 / 600",
-        "average": "2.885",
-        "high_run": 7,
+        "record": "4-0-0",
+        "high_low": "636 / 600",
+        "average": "2.703",
+        "high_run": 9,
         "recent_matches": [
+          {
+            "date": "07/10",
+            "opponent": "eijis",
+            "result": "25-15(○)",
+            "change": "+8.3",
+            "opponent_en": "eijis"
+          },
           {
             "date": "07/09",
             "opponent": "つかぽん",
@@ -202,6 +209,13 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "Tsukapon"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "eijis"
           }
         ]
       },
@@ -544,10 +558,10 @@
       "current_points": 20,
       "league": {
         "rank": 6,
-        "total_score": 66.3,
+        "total_score": 65,
         "win_pt": 70,
         "growth_pt": 70,
-        "join_pt": 55
+        "join_pt": 50
       },
       "stats": {
         "total_matches": 3,
@@ -846,10 +860,10 @@
       "current_points": 16,
       "league": {
         "rank": 9,
-        "total_score": 58.8,
+        "total_score": 57.5,
         "win_pt": 60,
         "growth_pt": 60,
-        "join_pt": 55
+        "join_pt": 50
       },
       "stats": {
         "total_matches": 3,
@@ -1416,23 +1430,30 @@
     {
       "rank": 16,
       "name": "eijis",
-      "rating": 436,
+      "rating": 427,
       "current_points": 18,
       "league": {
         "rank": 16,
-        "total_score": 31.5,
+        "total_score": 34,
         "win_pt": 20,
         "growth_pt": 10,
-        "join_pt": 80
+        "join_pt": 90
       },
       "stats": {
-        "total_matches": 12,
-        "win_rate": "20.8%",
-        "record": "2-9-1",
-        "high_low": "500 / 436",
-        "average": "1.144",
-        "high_run": 7,
+        "total_matches": 13,
+        "win_rate": "19.2%",
+        "record": "2-10-1",
+        "high_low": "500 / 427",
+        "average": "1.161",
+        "high_run": 9,
         "recent_matches": [
+          {
+            "date": "07/10",
+            "opponent": "kuu00",
+            "result": "15-25(×)",
+            "change": "-8.3",
+            "opponent_en": "kuu00"
+          },
           {
             "date": "07/09",
             "opponent": "トリプルセブン",
@@ -1495,13 +1516,6 @@
             "result": "11-25(×)",
             "change": "-8.7",
             "opponent_en": "pen"
-          },
-          {
-            "date": "06/25",
-            "opponent": "konachi-",
-            "result": "20-20(△)",
-            "change": "+1.0",
-            "opponent_en": "konachi-"
           }
         ],
         "opponents": [
@@ -1553,6 +1567,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "edamame3tubu"
+          },
+          {
+            "name": "kuu00",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "kuu00"
           }
         ]
       },
