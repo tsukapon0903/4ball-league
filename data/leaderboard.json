@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T13:58:53.464Z",
+  "last_updated": "2026-07-09T14:16:30.118Z",
   "players": [
     {
       "rank": 1,
@@ -279,14 +279,68 @@
     },
     {
       "rank": 3,
-      "name": "pen",
-      "rating": 618,
+      "name": "kuu00",
+      "rating": 619,
       "current_points": 25,
       "league": {
         "rank": 3,
         "total_score": 79.3,
         "win_pt": 100,
         "growth_pt": 80,
+        "join_pt": 45
+      },
+      "stats": {
+        "total_matches": 2,
+        "win_rate": "100.0%",
+        "record": "2-0-0",
+        "high_low": "619 / 600",
+        "average": "3.571",
+        "high_run": 7,
+        "recent_matches": [
+          {
+            "date": "07/09",
+            "opponent": "あらたつ",
+            "result": "25-17(○)",
+            "change": "+8.7",
+            "opponent_en": "Aratatsu"
+          },
+          {
+            "date": "07/09",
+            "opponent": "トリプルセブン",
+            "result": "25-11(○)",
+            "change": "+10.1",
+            "opponent_en": "TripleSeven"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "トリプルセブン",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "TripleSeven"
+          },
+          {
+            "name": "あらたつ",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Aratatsu"
+          }
+        ]
+      },
+      "name_en": "kuu00"
+    },
+    {
+      "rank": 4,
+      "name": "pen",
+      "rating": 618,
+      "current_points": 25,
+      "league": {
+        "rank": 4,
+        "total_score": 77.5,
+        "win_pt": 100,
+        "growth_pt": 75,
         "join_pt": 45
       },
       "stats": {
@@ -332,12 +386,12 @@
       "name_en": "pen"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "edamame3tubu",
       "rating": 625,
       "current_points": 25,
       "league": {
-        "rank": 4,
+        "rank": 5,
         "total_score": 74,
         "win_pt": 70,
         "growth_pt": 85,
@@ -447,46 +501,6 @@
         ]
       },
       "name_en": "edamame3tubu"
-    },
-    {
-      "rank": 5,
-      "name": "kuu00",
-      "rating": 610,
-      "current_points": 25,
-      "league": {
-        "rank": 5,
-        "total_score": 71.3,
-        "win_pt": 100,
-        "growth_pt": 75,
-        "join_pt": 20
-      },
-      "stats": {
-        "total_matches": 1,
-        "win_rate": "100.0%",
-        "record": "1-0-0",
-        "high_low": "610 / 600",
-        "average": "5.000",
-        "high_run": 7,
-        "recent_matches": [
-          {
-            "date": "07/09",
-            "opponent": "トリプルセブン",
-            "result": "25-11(○)",
-            "change": "+10.1",
-            "opponent_en": "TripleSeven"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "トリプルセブン",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "TripleSeven"
-          }
-        ]
-      },
-      "name_en": "kuu00"
     },
     {
       "rank": 6,
@@ -1444,7 +1458,7 @@
     {
       "rank": 16,
       "name": "あらたつ",
-      "rating": 571,
+      "rating": 563,
       "current_points": 25,
       "league": {
         "rank": 16,
@@ -1454,13 +1468,20 @@
         "join_pt": 60
       },
       "stats": {
-        "total_matches": 5,
-        "win_rate": "20.0%",
-        "record": "1-4-0",
-        "high_low": "600 / 571",
-        "average": "1.214",
+        "total_matches": 6,
+        "win_rate": "16.7%",
+        "record": "1-5-0",
+        "high_low": "600 / 563",
+        "average": "1.308",
         "high_run": 8,
         "recent_matches": [
+          {
+            "date": "07/09",
+            "opponent": "kuu00",
+            "result": "17-25(×)",
+            "change": "-8.7",
+            "opponent_en": "kuu00"
+          },
           {
             "date": "07/09",
             "opponent": "トリプルセブン",
@@ -1525,6 +1546,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "pen"
+          },
+          {
+            "name": "kuu00",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "kuu00"
           }
         ]
       },
@@ -1537,10 +1565,10 @@
       "current_points": 16,
       "league": {
         "rank": 17,
-        "total_score": 23.3,
+        "total_score": 22,
         "win_pt": 15,
         "growth_pt": 35,
-        "join_pt": 20
+        "join_pt": 15
       },
       "stats": {
         "total_matches": 1,
