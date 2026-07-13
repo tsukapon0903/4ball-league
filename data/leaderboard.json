@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T15:00:37.459Z",
+  "last_updated": "2026-07-13T15:22:50.613Z",
   "players": [
     {
       "rank": 1,
@@ -149,23 +149,30 @@
     {
       "rank": 2,
       "name": "pen",
-      "rating": 637,
+      "rating": 648,
       "current_points": 25,
       "league": {
         "rank": 2,
-        "total_score": 82.3,
+        "total_score": 84,
         "win_pt": 100,
-        "growth_pt": 85,
+        "growth_pt": 90,
         "join_pt": 50
       },
       "stats": {
-        "total_matches": 4,
+        "total_matches": 5,
         "win_rate": "100.0%",
-        "record": "4-0-0",
-        "high_low": "637 / 600",
-        "average": "2.273",
+        "record": "5-0-0",
+        "high_low": "648 / 600",
+        "average": "2.315",
         "high_run": 13,
         "recent_matches": [
+          {
+            "date": "07/14",
+            "opponent": "int mint",
+            "result": "25-18(○)",
+            "change": "+10.3",
+            "opponent_en": "int mint"
+          },
           {
             "date": "07/13",
             "opponent": "つかぽん",
@@ -223,6 +230,13 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "Tsukapon"
+          },
+          {
+            "name": "int mint",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "int mint"
           }
         ]
       },
@@ -235,9 +249,9 @@
       "current_points": 20,
       "league": {
         "rank": 3,
-        "total_score": 79.8,
+        "total_score": 78,
         "win_pt": 80,
-        "growth_pt": 90,
+        "growth_pt": 85,
         "join_pt": 65
       },
       "stats": {
@@ -1275,23 +1289,30 @@
     {
       "rank": 13,
       "name": "int mint",
-      "rating": 550,
+      "rating": 539,
       "current_points": 20,
       "league": {
         "rank": 13,
-        "total_score": 38,
+        "total_score": 39.3,
         "win_pt": 35,
         "growth_pt": 15,
-        "join_pt": 75
+        "join_pt": 80
       },
       "stats": {
-        "total_matches": 13,
-        "win_rate": "26.9%",
-        "record": "3-9-1",
-        "high_low": "600 / 550",
-        "average": "2.008",
+        "total_matches": 14,
+        "win_rate": "25.0%",
+        "record": "3-10-1",
+        "high_low": "600 / 539",
+        "average": "1.992",
         "high_run": 18,
         "recent_matches": [
+          {
+            "date": "07/14",
+            "opponent": "pen",
+            "result": "18-25(×)",
+            "change": "-10.3",
+            "opponent_en": "pen"
+          },
           {
             "date": "07/13",
             "opponent": "トリプルセブン",
@@ -1354,13 +1375,6 @@
             "result": "19-25(×)",
             "change": "-10.1",
             "opponent_en": "edamame3tubu"
-          },
-          {
-            "date": "06/23",
-            "opponent": "しそ",
-            "result": "25-14(○)",
-            "change": "+10.5",
-            "opponent_en": "Shiso"
           }
         ],
         "opponents": [
@@ -1412,6 +1426,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "TripleSeven"
+          },
+          {
+            "name": "pen",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "pen"
           }
         ]
       },
@@ -1424,8 +1445,8 @@
       "current_points": 16,
       "league": {
         "rank": 14,
-        "total_score": 34.8,
-        "win_pt": 30,
+        "total_score": 36.8,
+        "win_pt": 35,
         "growth_pt": 40,
         "join_pt": 35
       },
@@ -1478,8 +1499,8 @@
       "current_points": 16,
       "league": {
         "rank": 15,
-        "total_score": 33,
-        "win_pt": 30,
+        "total_score": 35,
+        "win_pt": 35,
         "growth_pt": 35,
         "join_pt": 35
       },
