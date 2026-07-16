@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-16T15:15:56.363Z",
+  "last_updated": "2026-07-16T15:19:43.200Z",
   "players": [
     {
       "rank": 1,
       "name": "Ruba d6d4",
-      "rating": 714,
+      "rating": 722,
       "current_points": 30,
       "league": {
         "rank": 1,
@@ -14,13 +14,20 @@
         "join_pt": 85
       },
       "stats": {
-        "total_matches": 17,
-        "win_rate": "85.3%",
-        "record": "14-2-1",
-        "high_low": "714 / 600",
-        "average": "3.591",
+        "total_matches": 18,
+        "win_rate": "86.1%",
+        "record": "15-2-1",
+        "high_low": "722 / 600",
+        "average": "3.654",
         "high_run": 17,
         "recent_matches": [
+          {
+            "date": "07/17",
+            "opponent": "星さん［Hoshi-san］",
+            "result": "30-14(○)",
+            "change": "+8.2",
+            "opponent_en": ""
+          },
           {
             "date": "07/16",
             "opponent": "あらたつ",
@@ -83,13 +90,6 @@
             "result": "25-25(△)",
             "change": "+0.8",
             "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "07/03",
-            "opponent": "つかぽん",
-            "result": "25-4(○)",
-            "change": "+11.3",
-            "opponent_en": "Tsukapon"
           }
         ],
         "opponents": [
@@ -141,6 +141,13 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "TripleSeven"
+          },
+          {
+            "name": "星さん［Hoshi-san］",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": ""
           }
         ]
       },
@@ -1914,23 +1921,30 @@
     {
       "rank": 19,
       "name": "星さん［Hoshi-san］",
-      "rating": 390,
+      "rating": 382,
       "current_points": 16,
       "league": {
         "rank": 19,
-        "total_score": 15.3,
+        "total_score": 16.8,
         "win_pt": 10,
-        "growth_pt": 25,
-        "join_pt": 10
+        "growth_pt": 15,
+        "join_pt": 30
       },
       "stats": {
-        "total_matches": 1,
+        "total_matches": 2,
         "win_rate": "0.0%",
-        "record": "0-1-0",
-        "high_low": "400 / 390",
-        "average": "1.500",
-        "high_run": 7,
+        "record": "0-2-0",
+        "high_low": "400 / 382",
+        "average": "1.857",
+        "high_run": 9,
         "recent_matches": [
+          {
+            "date": "07/17",
+            "opponent": "Ruba d6d4",
+            "result": "14-30(×)",
+            "change": "-8.2",
+            "opponent_en": "Ruba d6d4"
+          },
           {
             "date": "07/16",
             "opponent": "トリプルセブン",
@@ -1946,6 +1960,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "TripleSeven"
+          },
+          {
+            "name": "Ruba d6d4",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Ruba d6d4"
           }
         ]
       },
@@ -1958,9 +1979,9 @@
       "current_points": 16,
       "league": {
         "rank": 20,
-        "total_score": 13.5,
+        "total_score": 15.3,
         "win_pt": 10,
-        "growth_pt": 20,
+        "growth_pt": 25,
         "join_pt": 10
       },
       "stats": {
@@ -1998,9 +2019,9 @@
       "current_points": 16,
       "league": {
         "rank": 21,
-        "total_score": 11.8,
+        "total_score": 13.5,
         "win_pt": 10,
-        "growth_pt": 15,
+        "growth_pt": 20,
         "join_pt": 10
       },
       "stats": {
