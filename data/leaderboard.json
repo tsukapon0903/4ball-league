@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T14:07:52.593Z",
+  "last_updated": "2026-07-16T14:49:27.640Z",
   "players": [
     {
       "rank": 1,
@@ -245,7 +245,7 @@
     {
       "rank": 3,
       "name": "トリプルセブン",
-      "rating": 511,
+      "rating": 520,
       "current_points": 20,
       "league": {
         "rank": 3,
@@ -255,13 +255,20 @@
         "join_pt": 90
       },
       "stats": {
-        "total_matches": 17,
-        "win_rate": "52.9%",
-        "record": "9-8-0",
-        "high_low": "511 / 452",
-        "average": "2.000",
+        "total_matches": 18,
+        "win_rate": "55.6%",
+        "record": "10-8-0",
+        "high_low": "520 / 452",
+        "average": "2.028",
         "high_run": 18,
         "recent_matches": [
+          {
+            "date": "07/16",
+            "opponent": "星さん［Hoshi-san］",
+            "result": "20-12(○)",
+            "change": "+9.5",
+            "opponent_en": ""
+          },
           {
             "date": "07/14",
             "opponent": "kuu00",
@@ -324,13 +331,6 @@
             "result": "16-25(×)",
             "change": "-8.8",
             "opponent_en": "edamame3tubu"
-          },
-          {
-            "date": "07/06",
-            "opponent": "eijis",
-            "result": "20-6(○)",
-            "change": "+9.2",
-            "opponent_en": "eijis"
           }
         ],
         "opponents": [
@@ -396,6 +396,13 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "int mint"
+          },
+          {
+            "name": "星さん［Hoshi-san］",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": ""
           }
         ]
       },
@@ -1878,7 +1885,7 @@
     },
     {
       "rank": 19,
-      "name": "raiga321",
+      "name": "星さん［Hoshi-san］",
       "rating": 390,
       "current_points": 16,
       "league": {
@@ -1886,6 +1893,46 @@
         "total_score": 13.5,
         "win_pt": 10,
         "growth_pt": 20,
+        "join_pt": 10
+      },
+      "stats": {
+        "total_matches": 1,
+        "win_rate": "0.0%",
+        "record": "0-1-0",
+        "high_low": "400 / 390",
+        "average": "1.500",
+        "high_run": 7,
+        "recent_matches": [
+          {
+            "date": "07/16",
+            "opponent": "トリプルセブン",
+            "result": "12-20(×)",
+            "change": "-9.5",
+            "opponent_en": "TripleSeven"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "トリプルセブン",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "TripleSeven"
+          }
+        ]
+      },
+      "name_en": ""
+    },
+    {
+      "rank": 20,
+      "name": "raiga321",
+      "rating": 390,
+      "current_points": 16,
+      "league": {
+        "rank": 20,
+        "total_score": 11.8,
+        "win_pt": 10,
+        "growth_pt": 15,
         "join_pt": 10
       },
       "stats": {
@@ -1917,15 +1964,15 @@
       "name_en": "raiga321"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "Ninohito",
       "rating": 390,
       "current_points": 16,
       "league": {
-        "rank": 20,
-        "total_score": 11.8,
+        "rank": 21,
+        "total_score": 10,
         "win_pt": 10,
-        "growth_pt": 15,
+        "growth_pt": 10,
         "join_pt": 10
       },
       "stats": {
