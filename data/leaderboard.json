@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T14:59:45.736Z",
+  "last_updated": "2026-07-16T15:15:56.363Z",
   "players": [
     {
       "rank": 1,
@@ -869,10 +869,10 @@
       "current_points": 20,
       "league": {
         "rank": 8,
-        "total_score": 63.5,
+        "total_score": 62.3,
         "win_pt": 80,
         "growth_pt": 65,
-        "join_pt": 35
+        "join_pt": 30
       },
       "stats": {
         "total_matches": 2,
@@ -1131,65 +1131,11 @@
     },
     {
       "rank": 11,
-      "name": "xantoz",
-      "rating": 401,
-      "current_points": 16,
-      "league": {
-        "rank": 11,
-        "total_score": 50.3,
-        "win_pt": 60,
-        "growth_pt": 50,
-        "join_pt": 35
-      },
-      "stats": {
-        "total_matches": 2,
-        "win_rate": "50.0%",
-        "record": "1-1-0",
-        "high_low": "401 / 391",
-        "average": "0.958",
-        "high_run": 4,
-        "recent_matches": [
-          {
-            "date": "06/26",
-            "opponent": "raiga321",
-            "result": "16-8(○)",
-            "change": "+9.9",
-            "opponent_en": "raiga321"
-          },
-          {
-            "date": "06/25",
-            "opponent": "keitti",
-            "result": "7-20(×)",
-            "change": "-9.2",
-            "opponent_en": "keitti"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "keitti",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "keitti"
-          },
-          {
-            "name": "raiga321",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "raiga321"
-          }
-        ]
-      },
-      "name_en": "xantoz"
-    },
-    {
-      "rank": 12,
       "name": "kuu00",
       "rating": 593,
       "current_points": 25,
       "league": {
-        "rank": 12,
+        "rank": 11,
         "total_score": 50,
         "win_pt": 60,
         "growth_pt": 35,
@@ -1301,16 +1247,70 @@
       "name_en": "kuu00"
     },
     {
+      "rank": 12,
+      "name": "xantoz",
+      "rating": 401,
+      "current_points": 16,
+      "league": {
+        "rank": 12,
+        "total_score": 49,
+        "win_pt": 60,
+        "growth_pt": 50,
+        "join_pt": 30
+      },
+      "stats": {
+        "total_matches": 2,
+        "win_rate": "50.0%",
+        "record": "1-1-0",
+        "high_low": "401 / 391",
+        "average": "0.958",
+        "high_run": 4,
+        "recent_matches": [
+          {
+            "date": "06/26",
+            "opponent": "raiga321",
+            "result": "16-8(○)",
+            "change": "+9.9",
+            "opponent_en": "raiga321"
+          },
+          {
+            "date": "06/25",
+            "opponent": "keitti",
+            "result": "7-20(×)",
+            "change": "-9.2",
+            "opponent_en": "keitti"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "keitti",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "keitti"
+          },
+          {
+            "name": "raiga321",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "raiga321"
+          }
+        ]
+      },
+      "name_en": "xantoz"
+    },
+    {
       "rank": 13,
       "name": "音痴 onti",
       "rating": 499,
       "current_points": 20,
       "league": {
         "rank": 13,
-        "total_score": 48.5,
+        "total_score": 47.3,
         "win_pt": 60,
         "growth_pt": 45,
-        "join_pt": 35
+        "join_pt": 30
       },
       "stats": {
         "total_matches": 2,
@@ -1361,10 +1361,10 @@
       "current_points": 20,
       "league": {
         "rank": 14,
-        "total_score": 35.5,
+        "total_score": 34.3,
         "win_pt": 30,
         "growth_pt": 10,
-        "join_pt": 80
+        "join_pt": 75
       },
       "stats": {
         "total_matches": 14,
@@ -1508,78 +1508,31 @@
     },
     {
       "rank": 15,
-      "name": "やまだはるか",
-      "rating": 391,
+      "name": "eijis",
+      "rating": 427,
       "current_points": 16,
       "league": {
         "rank": 15,
-        "total_score": 31.3,
-        "win_pt": 30,
-        "growth_pt": 30,
-        "join_pt": 35
-      },
-      "stats": {
-        "total_matches": 2,
-        "win_rate": "25.0%",
-        "record": "0-1-1",
-        "high_low": "400 / 391",
-        "average": "0.897",
-        "high_run": 4,
-        "recent_matches": [
-          {
-            "date": "07/02",
-            "opponent": "ももかげ",
-            "result": "16-16(△)",
-            "change": "+0.3",
-            "opponent_en": "Momokage"
-          },
-          {
-            "date": "06/26",
-            "opponent": "しそ",
-            "result": "10-20(×)",
-            "change": "-9.2",
-            "opponent_en": "Shiso"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "しそ",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "Shiso"
-          },
-          {
-            "name": "ももかげ",
-            "matches": 1,
-            "record": "0-0-1",
-            "win_rate": "50.0%",
-            "name_en": "Momokage"
-          }
-        ]
-      },
-      "name_en": "HarukaYamada"
-    },
-    {
-      "rank": 16,
-      "name": "eijis",
-      "rating": 418,
-      "current_points": 16,
-      "league": {
-        "rank": 16,
-        "total_score": 29.5,
-        "win_pt": 15,
+        "total_score": 31.5,
+        "win_pt": 20,
         "growth_pt": 10,
         "join_pt": 80
       },
       "stats": {
-        "total_matches": 14,
-        "win_rate": "17.9%",
-        "record": "2-11-1",
+        "total_matches": 15,
+        "win_rate": "23.3%",
+        "record": "3-11-1",
         "high_low": "500 / 418",
-        "average": "1.126",
+        "average": "1.148",
         "high_run": 9,
         "recent_matches": [
+          {
+            "date": "07/17",
+            "opponent": "やまだはるか",
+            "result": "16-9(○)",
+            "change": "+9.1",
+            "opponent_en": "HarukaYamada"
+          },
           {
             "date": "07/10",
             "opponent": "Ruba d6d4",
@@ -1642,13 +1595,6 @@
             "result": "6-25(×)",
             "change": "-9.3",
             "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "06/26",
-            "opponent": "しそ",
-            "result": "20-14(○)",
-            "change": "+9.6",
-            "opponent_en": "Shiso"
           }
         ],
         "opponents": [
@@ -1707,6 +1653,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "kuu00"
+          },
+          {
+            "name": "やまだはるか",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "HarukaYamada"
           }
         ]
       },
@@ -1719,10 +1672,10 @@
       "current_points": 16,
       "league": {
         "rank": 16,
-        "total_score": 29.5,
+        "total_score": 30,
         "win_pt": 30,
-        "growth_pt": 25,
-        "join_pt": 35
+        "growth_pt": 30,
+        "join_pt": 30
       },
       "stats": {
         "total_matches": 2,
@@ -1767,12 +1720,12 @@
       "name_en": ""
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "あらたつ",
       "rating": 547,
       "current_points": 25,
       "league": {
-        "rank": 18,
+        "rank": 17,
         "total_score": 22.5,
         "win_pt": 10,
         "growth_pt": 10,
@@ -1891,15 +1844,83 @@
       "name_en": "Aratatsu"
     },
     {
+      "rank": 18,
+      "name": "やまだはるか",
+      "rating": 382,
+      "current_points": 16,
+      "league": {
+        "rank": 18,
+        "total_score": 20.8,
+        "win_pt": 15,
+        "growth_pt": 10,
+        "join_pt": 45
+      },
+      "stats": {
+        "total_matches": 3,
+        "win_rate": "16.7%",
+        "record": "0-2-1",
+        "high_low": "400 / 382",
+        "average": "0.875",
+        "high_run": 5,
+        "recent_matches": [
+          {
+            "date": "07/17",
+            "opponent": "eijis",
+            "result": "9-16(×)",
+            "change": "-9.1",
+            "opponent_en": "eijis"
+          },
+          {
+            "date": "07/02",
+            "opponent": "ももかげ",
+            "result": "16-16(△)",
+            "change": "+0.3",
+            "opponent_en": "Momokage"
+          },
+          {
+            "date": "06/26",
+            "opponent": "しそ",
+            "result": "10-20(×)",
+            "change": "-9.2",
+            "opponent_en": "Shiso"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "しそ",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Shiso"
+          },
+          {
+            "name": "ももかげ",
+            "matches": 1,
+            "record": "0-0-1",
+            "win_rate": "50.0%",
+            "name_en": "Momokage"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "eijis"
+          }
+        ]
+      },
+      "name_en": "HarukaYamada"
+    },
+    {
       "rank": 19,
       "name": "星さん［Hoshi-san］",
       "rating": 390,
       "current_points": 16,
       "league": {
         "rank": 19,
-        "total_score": 13.5,
+        "total_score": 15.3,
         "win_pt": 10,
-        "growth_pt": 20,
+        "growth_pt": 25,
         "join_pt": 10
       },
       "stats": {
@@ -1937,9 +1958,9 @@
       "current_points": 16,
       "league": {
         "rank": 20,
-        "total_score": 11.8,
+        "total_score": 13.5,
         "win_pt": 10,
-        "growth_pt": 15,
+        "growth_pt": 20,
         "join_pt": 10
       },
       "stats": {
@@ -1977,9 +1998,9 @@
       "current_points": 16,
       "league": {
         "rank": 21,
-        "total_score": 10,
+        "total_score": 11.8,
         "win_pt": 10,
-        "growth_pt": 10,
+        "growth_pt": 15,
         "join_pt": 10
       },
       "stats": {
