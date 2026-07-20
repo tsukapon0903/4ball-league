@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T13:38:06.105Z",
+  "last_updated": "2026-07-20T14:28:35.613Z",
   "players": [
     {
       "rank": 1,
@@ -1310,23 +1310,30 @@
     {
       "rank": 13,
       "name": "eijis",
-      "rating": 427,
+      "rating": 437,
       "current_points": 16,
       "league": {
         "rank": 13,
-        "total_score": 33.5,
-        "win_pt": 25,
+        "total_score": 35.5,
+        "win_pt": 30,
         "growth_pt": 10,
         "join_pt": 80
       },
       "stats": {
-        "total_matches": 15,
-        "win_rate": "23.3%",
-        "record": "3-11-1",
+        "total_matches": 16,
+        "win_rate": "28.1%",
+        "record": "4-11-1",
         "high_low": "500 / 418",
-        "average": "1.148",
+        "average": "1.181",
         "high_run": 9,
         "recent_matches": [
+          {
+            "date": "07/20",
+            "opponent": "96onE",
+            "result": "16-6(○)",
+            "change": "+9.9",
+            "opponent_en": "96onE"
+          },
           {
             "date": "07/17",
             "opponent": "やまだはるか",
@@ -1389,13 +1396,6 @@
             "result": "18-20(×)",
             "change": "-9.7",
             "opponent_en": "Shiso"
-          },
-          {
-            "date": "06/29",
-            "opponent": "つかぽん",
-            "result": "6-25(×)",
-            "change": "-9.2",
-            "opponent_en": "Tsukapon"
           }
         ],
         "opponents": [
@@ -1461,6 +1461,13 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "HarukaYamada"
+          },
+          {
+            "name": "96onE",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "96onE"
           }
         ]
       },
@@ -1473,8 +1480,8 @@
       "current_points": 20,
       "league": {
         "rank": 14,
-        "total_score": 32.3,
-        "win_pt": 25,
+        "total_score": 30.3,
+        "win_pt": 20,
         "growth_pt": 10,
         "join_pt": 75
       },
@@ -1625,8 +1632,8 @@
       "current_points": 16,
       "league": {
         "rank": 15,
-        "total_score": 30.5,
-        "win_pt": 30,
+        "total_score": 28.5,
+        "win_pt": 25,
         "growth_pt": 35,
         "join_pt": 25
       },
@@ -1679,9 +1686,9 @@
       "current_points": 20,
       "league": {
         "rank": 16,
-        "total_score": 28.5,
+        "total_score": 26.8,
         "win_pt": 35,
-        "growth_pt": 20,
+        "growth_pt": 15,
         "join_pt": 30
       },
       "stats": {
@@ -1967,14 +1974,54 @@
     },
     {
       "rank": 20,
+      "name": "96onE",
+      "rating": 290,
+      "current_points": 12,
+      "league": {
+        "rank": 20,
+        "total_score": 15.3,
+        "win_pt": 10,
+        "growth_pt": 25,
+        "join_pt": 10
+      },
+      "stats": {
+        "total_matches": 1,
+        "win_rate": "0.0%",
+        "record": "0-1-0",
+        "high_low": "300 / 290",
+        "average": "0.667",
+        "high_run": 2,
+        "recent_matches": [
+          {
+            "date": "07/20",
+            "opponent": "eijis",
+            "result": "6-16(×)",
+            "change": "-9.9",
+            "opponent_en": "eijis"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "eijis"
+          }
+        ]
+      },
+      "name_en": "96onE"
+    },
+    {
+      "rank": 21,
       "name": "星さん［Hoshi-san］",
       "rating": 382,
       "current_points": 16,
       "league": {
-        "rank": 20,
-        "total_score": 15.5,
+        "rank": 21,
+        "total_score": 13.8,
         "win_pt": 10,
-        "growth_pt": 15,
+        "growth_pt": 10,
         "join_pt": 25
       },
       "stats": {
@@ -2020,15 +2067,15 @@
       "name_en": ""
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Ninohito",
       "rating": 390,
       "current_points": 16,
       "league": {
-        "rank": 21,
-        "total_score": 15.3,
+        "rank": 22,
+        "total_score": 13.5,
         "win_pt": 10,
-        "growth_pt": 25,
+        "growth_pt": 20,
         "join_pt": 10
       },
       "stats": {
