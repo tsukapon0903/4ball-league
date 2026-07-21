@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-21T15:50:14.467Z",
+  "last_updated": "2026-07-21T16:05:20.879Z",
   "players": [
     {
       "rank": 1,
       "name": "Ruba d6d4",
-      "rating": 727,
+      "rating": 735,
       "current_points": 30,
       "league": {
         "rank": 1,
@@ -14,13 +14,20 @@
         "join_pt": 85
       },
       "stats": {
-        "total_matches": 19,
-        "win_rate": "86.8%",
-        "record": "16-2-1",
-        "high_low": "727 / 600",
-        "average": "3.634",
+        "total_matches": 20,
+        "win_rate": "87.5%",
+        "record": "17-2-1",
+        "high_low": "735 / 600",
+        "average": "3.714",
         "high_run": 17,
         "recent_matches": [
+          {
+            "date": "07/22",
+            "opponent": "Ninohito",
+            "result": "30-4(○)",
+            "change": "+7.8",
+            "opponent_en": "Ninohito"
+          },
           {
             "date": "07/22",
             "opponent": "つかぽん",
@@ -83,13 +90,6 @@
             "result": "30-10(○)",
             "change": "+7.3",
             "opponent_en": "int mint"
-          },
-          {
-            "date": "07/06",
-            "opponent": "eijis",
-            "result": "28-18(×)",
-            "change": "-9.3",
-            "opponent_en": "eijis"
           }
         ],
         "opponents": [
@@ -148,6 +148,13 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": ""
+          },
+          {
+            "name": "Ninohito",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Ninohito"
           }
         ]
       },
@@ -1714,9 +1721,9 @@
       "current_points": 20,
       "league": {
         "rank": 16,
-        "total_score": 23.5,
+        "total_score": 25.3,
         "win_pt": 30,
-        "growth_pt": 15,
+        "growth_pt": 20,
         "join_pt": 25
       },
       "stats": {
@@ -1769,12 +1776,12 @@
       "name_en": "Onti"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "リココ_VRC",
       "rating": 391,
       "current_points": 16,
       "league": {
-        "rank": 16,
+        "rank": 17,
         "total_score": 23.5,
         "win_pt": 20,
         "growth_pt": 30,
@@ -2125,23 +2132,30 @@
     {
       "rank": 22,
       "name": "Ninohito",
-      "rating": 390,
+      "rating": 382,
       "current_points": 16,
       "league": {
         "rank": 22,
-        "total_score": 13.5,
+        "total_score": 14.3,
         "win_pt": 10,
-        "growth_pt": 20,
-        "join_pt": 10
+        "growth_pt": 15,
+        "join_pt": 20
       },
       "stats": {
-        "total_matches": 1,
+        "total_matches": 2,
         "win_rate": "0.0%",
-        "record": "0-1-0",
-        "high_low": "400 / 390",
-        "average": "0.455",
+        "record": "0-2-0",
+        "high_low": "400 / 382",
+        "average": "0.563",
         "high_run": 3,
         "recent_matches": [
+          {
+            "date": "07/22",
+            "opponent": "Ruba d6d4",
+            "result": "4-30(×)",
+            "change": "-7.8",
+            "opponent_en": "Ruba d6d4"
+          },
           {
             "date": "07/14",
             "opponent": "つかぽん",
@@ -2157,6 +2171,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "Tsukapon"
+          },
+          {
+            "name": "Ruba d6d4",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Ruba d6d4"
           }
         ]
       },
