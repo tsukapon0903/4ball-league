@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T15:31:21.520Z",
+  "last_updated": "2026-07-21T06:26:14.031Z",
   "players": [
     {
       "rank": 1,
@@ -294,7 +294,7 @@
             "date": "06/29",
             "opponent": "つかぽん",
             "result": "20-3(○)",
-            "change": "+9.2",
+            "change": "+9.1",
             "opponent_en": "Tsukapon"
           },
           {
@@ -633,14 +633,14 @@
             "date": "07/14",
             "opponent": "kuu00",
             "result": "20-21(○)",
-            "change": "+10.5",
+            "change": "+10.4",
             "opponent_en": "kuu00"
           },
           {
             "date": "07/13",
             "opponent": "int mint",
             "result": "20-23(○)",
-            "change": "+9.0",
+            "change": "+8.9",
             "opponent_en": "int mint"
           },
           {
@@ -668,7 +668,7 @@
             "date": "07/09",
             "opponent": "あらたつ",
             "result": "20-6(○)",
-            "change": "+9.4",
+            "change": "+9.3",
             "opponent_en": "Aratatsu"
           },
           {
@@ -846,7 +846,7 @@
             "date": "06/25",
             "opponent": "トリプルセブン",
             "result": "20-9(○)",
-            "change": "+9.9",
+            "change": "+9.8",
             "opponent_en": "TripleSeven"
           }
         ],
@@ -879,7 +879,7 @@
     {
       "rank": 8,
       "name": "konachi-",
-      "rating": 509,
+      "rating": 508,
       "current_points": 20,
       "league": {
         "rank": 8,
@@ -1195,7 +1195,7 @@
             "date": "07/14",
             "opponent": "トリプルセブン",
             "result": "21-20(×)",
-            "change": "-10.5",
+            "change": "-10.4",
             "opponent_en": "TripleSeven"
           },
           {
@@ -1216,7 +1216,7 @@
             "date": "07/10",
             "opponent": "eijis",
             "result": "25-15(○)",
-            "change": "+8.2",
+            "change": "+8.1",
             "opponent_en": "eijis"
           },
           {
@@ -1405,7 +1405,7 @@
         "total_matches": 16,
         "win_rate": "28.1%",
         "record": "4-11-1",
-        "high_low": "500 / 418",
+        "high_low": "500 / 419",
         "average": "1.181",
         "high_run": 9,
         "recent_matches": [
@@ -1434,7 +1434,7 @@
             "date": "07/10",
             "opponent": "kuu00",
             "result": "15-25(×)",
-            "change": "-8.2",
+            "change": "-8.1",
             "opponent_en": "kuu00"
           },
           {
@@ -1593,7 +1593,7 @@
             "date": "07/13",
             "opponent": "トリプルセブン",
             "result": "23-20(×)",
-            "change": "-9.0",
+            "change": "-8.9",
             "opponent_en": "TripleSeven"
           },
           {
@@ -1867,7 +1867,7 @@
             "date": "07/09",
             "opponent": "トリプルセブン",
             "result": "6-20(×)",
-            "change": "-9.4",
+            "change": "-9.3",
             "opponent_en": "TripleSeven"
           },
           {
