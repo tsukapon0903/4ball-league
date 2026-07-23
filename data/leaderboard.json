@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T14:05:30.747Z",
+  "last_updated": "2026-07-23T14:20:52.257Z",
   "players": [
     {
       "rank": 1,
@@ -415,8 +415,8 @@
       "current_points": 20,
       "league": {
         "rank": 4,
-        "total_score": 76.5,
-        "win_pt": 65,
+        "total_score": 74.5,
+        "win_pt": 60,
         "growth_pt": 80,
         "join_pt": 90
       },
@@ -588,8 +588,8 @@
       "current_points": 25,
       "league": {
         "rank": 5,
-        "total_score": 73.5,
-        "win_pt": 60,
+        "total_score": 71.5,
+        "win_pt": 55,
         "growth_pt": 70,
         "join_pt": 100
       },
@@ -906,15 +906,83 @@
     },
     {
       "rank": 8,
+      "name": "Alte",
+      "rating": 609,
+      "current_points": 25,
+      "league": {
+        "rank": 8,
+        "total_score": 54.5,
+        "win_pt": 65,
+        "growth_pt": 60,
+        "join_pt": 30
+      },
+      "stats": {
+        "total_matches": 3,
+        "win_rate": "66.7%",
+        "record": "2-1-0",
+        "high_low": "609 / 590",
+        "average": "1.875",
+        "high_run": 9,
+        "recent_matches": [
+          {
+            "date": "07/23",
+            "opponent": "eijis",
+            "result": "25-7(○)",
+            "change": "+9.3",
+            "opponent_en": "eijis"
+          },
+          {
+            "date": "07/21",
+            "opponent": "96onE",
+            "result": "25-11(○)",
+            "change": "+10.2",
+            "opponent_en": "96onE"
+          },
+          {
+            "date": "07/21",
+            "opponent": "ももかげ",
+            "result": "10-16(×)",
+            "change": "-10.5",
+            "opponent_en": "Momokage"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "ももかげ",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Momokage"
+          },
+          {
+            "name": "96onE",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "96onE"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "eijis"
+          }
+        ]
+      },
+      "name_en": "Alte"
+    },
+    {
+      "rank": 9,
       "name": "konachi-",
       "rating": 508,
       "current_points": 20,
       "league": {
-        "rank": 8,
-        "total_score": 54.8,
+        "rank": 9,
+        "total_score": 51.8,
         "win_pt": 75,
-        "growth_pt": 60,
-        "join_pt": 15
+        "growth_pt": 55,
+        "join_pt": 10
       },
       "stats": {
         "total_matches": 2,
@@ -959,15 +1027,15 @@
       "name_en": "konachi-"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "ももかげ",
       "rating": 402,
       "current_points": 16,
       "league": {
-        "rank": 9,
-        "total_score": 52.5,
-        "win_pt": 55,
-        "growth_pt": 55,
+        "rank": 10,
+        "total_score": 48.8,
+        "win_pt": 50,
+        "growth_pt": 50,
         "join_pt": 45
       },
       "stats": {
@@ -1048,14 +1116,14 @@
       "name_en": "Momokage"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "edamame3tubu",
       "rating": 593,
       "current_points": 25,
       "league": {
-        "rank": 10,
-        "total_score": 50.5,
-        "win_pt": 55,
+        "rank": 11,
+        "total_score": 48.5,
+        "win_pt": 50,
         "growth_pt": 35,
         "join_pt": 65
       },
@@ -1193,14 +1261,14 @@
       "name_en": "edamame3tubu"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "kuu00",
       "rating": 594,
       "current_points": 25,
       "league": {
-        "rank": 11,
-        "total_score": 49.8,
-        "win_pt": 55,
+        "rank": 12,
+        "total_score": 47.8,
+        "win_pt": 50,
         "growth_pt": 40,
         "join_pt": 55
       },
@@ -1310,16 +1378,16 @@
       "name_en": "kuu00"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "xantoz",
       "rating": 401,
       "current_points": 16,
       "league": {
-        "rank": 12,
-        "total_score": 43.3,
-        "win_pt": 55,
-        "growth_pt": 50,
-        "join_pt": 15
+        "rank": 13,
+        "total_score": 38.3,
+        "win_pt": 50,
+        "growth_pt": 45,
+        "join_pt": 10
       },
       "stats": {
         "total_matches": 2,
@@ -1364,63 +1432,9 @@
       "name_en": "xantoz"
     },
     {
-      "rank": 13,
-      "name": "Alte",
-      "rating": 600,
-      "current_points": 25,
-      "league": {
-        "rank": 13,
-        "total_score": 41.5,
-        "win_pt": 55,
-        "growth_pt": 45,
-        "join_pt": 15
-      },
-      "stats": {
-        "total_matches": 2,
-        "win_rate": "50.0%",
-        "record": "1-1-0",
-        "high_low": "600 / 590",
-        "average": "1.750",
-        "high_run": 9,
-        "recent_matches": [
-          {
-            "date": "07/21",
-            "opponent": "96onE",
-            "result": "25-11(○)",
-            "change": "+10.2",
-            "opponent_en": "96onE"
-          },
-          {
-            "date": "07/21",
-            "opponent": "ももかげ",
-            "result": "10-16(×)",
-            "change": "-10.5",
-            "opponent_en": "Momokage"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "ももかげ",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "Momokage"
-          },
-          {
-            "name": "96onE",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "96onE"
-          }
-        ]
-      },
-      "name_en": "Alte"
-    },
-    {
       "rank": 14,
       "name": "eijis",
-      "rating": 438,
+      "rating": 428,
       "current_points": 16,
       "league": {
         "rank": 14,
@@ -1430,13 +1444,20 @@
         "join_pt": 80
       },
       "stats": {
-        "total_matches": 16,
-        "win_rate": "28.1%",
-        "record": "4-11-1",
+        "total_matches": 17,
+        "win_rate": "26.5%",
+        "record": "4-12-1",
         "high_low": "500 / 419",
-        "average": "1.181",
+        "average": "1.142",
         "high_run": 9,
         "recent_matches": [
+          {
+            "date": "07/23",
+            "opponent": "Alte",
+            "result": "7-25(×)",
+            "change": "-9.3",
+            "opponent_en": "Alte"
+          },
           {
             "date": "07/20",
             "opponent": "96onE",
@@ -1499,13 +1520,6 @@
             "result": "11-25(×)",
             "change": "-9.5",
             "opponent_en": "Ruba d6d4"
-          },
-          {
-            "date": "06/30",
-            "opponent": "しそ",
-            "result": "18-20(×)",
-            "change": "-9.7",
-            "opponent_en": "Shiso"
           }
         ],
         "opponents": [
@@ -1578,6 +1592,13 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "96onE"
+          },
+          {
+            "name": "Alte",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Alte"
           }
         ]
       },
@@ -1749,10 +1770,10 @@
       "current_points": 20,
       "league": {
         "rank": 16,
-        "total_score": 24,
+        "total_score": 22.8,
         "win_pt": 30,
         "growth_pt": 20,
-        "join_pt": 20
+        "join_pt": 15
       },
       "stats": {
         "total_matches": 3,
@@ -1934,10 +1955,10 @@
       "current_points": 16,
       "league": {
         "rank": 18,
-        "total_score": 22.3,
+        "total_score": 21,
         "win_pt": 20,
         "growth_pt": 30,
-        "join_pt": 15
+        "join_pt": 10
       },
       "stats": {
         "total_matches": 2,
@@ -2239,10 +2260,10 @@
       "current_points": 16,
       "league": {
         "rank": 23,
-        "total_score": 13,
+        "total_score": 11.8,
         "win_pt": 10,
         "growth_pt": 15,
-        "join_pt": 15
+        "join_pt": 10
       },
       "stats": {
         "total_matches": 2,
