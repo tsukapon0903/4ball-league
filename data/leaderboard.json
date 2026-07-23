@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T14:54:36.412Z",
+  "last_updated": "2026-07-23T15:02:04.767Z",
   "players": [
     {
       "rank": 1,
@@ -791,15 +791,55 @@
     },
     {
       "rank": 6,
+      "name": "Don Matty",
+      "rating": 610,
+      "current_points": 25,
+      "league": {
+        "rank": 6,
+        "total_score": 65.3,
+        "win_pt": 100,
+        "growth_pt": 65,
+        "join_pt": 10
+      },
+      "stats": {
+        "total_matches": 1,
+        "win_rate": "100.0%",
+        "record": "1-0-0",
+        "high_low": "610 / 600",
+        "average": "3.125",
+        "high_run": 10,
+        "recent_matches": [
+          {
+            "date": "07/15",
+            "opponent": "つかぽん",
+            "result": "25-21(○)",
+            "change": "+9.9",
+            "opponent_en": "Tsukapon"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "つかぽん",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Tsukapon"
+          }
+        ]
+      },
+      "name_en": "Don Matty"
+    },
+    {
+      "rank": 7,
       "name": "keitti",
       "rating": 520,
       "current_points": 20,
       "league": {
-        "rank": 6,
-        "total_score": 66.3,
+        "rank": 7,
+        "total_score": 65,
         "win_pt": 75,
         "growth_pt": 75,
-        "join_pt": 40
+        "join_pt": 35
       },
       "stats": {
         "total_matches": 4,
@@ -870,46 +910,6 @@
         ]
       },
       "name_en": "keitti"
-    },
-    {
-      "rank": 7,
-      "name": "Don Matty",
-      "rating": 610,
-      "current_points": 25,
-      "league": {
-        "rank": 7,
-        "total_score": 65.3,
-        "win_pt": 100,
-        "growth_pt": 65,
-        "join_pt": 10
-      },
-      "stats": {
-        "total_matches": 1,
-        "win_rate": "100.0%",
-        "record": "1-0-0",
-        "high_low": "610 / 600",
-        "average": "3.125",
-        "high_run": 10,
-        "recent_matches": [
-          {
-            "date": "07/15",
-            "opponent": "つかぽん",
-            "result": "25-21(○)",
-            "change": "+9.9",
-            "opponent_en": "Tsukapon"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "つかぽん",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Tsukapon"
-          }
-        ]
-      },
-      "name_en": "Don Matty"
     },
     {
       "rank": 8,
@@ -1323,10 +1323,10 @@
       "current_points": 25,
       "league": {
         "rank": 12,
-        "total_score": 47.8,
+        "total_score": 46.5,
         "win_pt": 55,
         "growth_pt": 45,
-        "join_pt": 40
+        "join_pt": 35
       },
       "stats": {
         "total_matches": 4,
@@ -1632,8 +1632,8 @@
       "current_points": 20,
       "league": {
         "rank": 15,
-        "total_score": 28.3,
-        "win_pt": 15,
+        "total_score": 26.3,
+        "win_pt": 10,
         "growth_pt": 10,
         "join_pt": 75
       },
@@ -1786,85 +1786,31 @@
     },
     {
       "rank": 16,
-      "name": "音痴 onti",
-      "rating": 490,
+      "name": "あらたつ",
+      "rating": 556,
       "current_points": 20,
       "league": {
         "rank": 16,
-        "total_score": 22.8,
-        "win_pt": 30,
-        "growth_pt": 20,
-        "join_pt": 15
-      },
-      "stats": {
-        "total_matches": 3,
-        "win_rate": "33.3%",
-        "record": "1-2-0",
-        "high_low": "500 / 489",
-        "average": "1.636",
-        "high_run": 7,
-        "recent_matches": [
-          {
-            "date": "07/19",
-            "opponent": "つかぽん",
-            "result": "18-25(×)",
-            "change": "-9.7",
-            "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "07/04",
-            "opponent": "つかぽん",
-            "result": "20-17(○)",
-            "change": "+10.1",
-            "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "07/04",
-            "opponent": "int mint",
-            "result": "16-25(×)",
-            "change": "-10.7",
-            "opponent_en": "int mint"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "つかぽん",
-            "matches": 2,
-            "record": "1-1-0",
-            "win_rate": "50.0%",
-            "name_en": "Tsukapon"
-          },
-          {
-            "name": "int mint",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "int mint"
-          }
-        ]
-      },
-      "name_en": "Onti"
-    },
-    {
-      "rank": 17,
-      "name": "あらたつ",
-      "rating": 547,
-      "current_points": 20,
-      "league": {
-        "rank": 17,
-        "total_score": 22.5,
-        "win_pt": 10,
+        "total_score": 24.5,
+        "win_pt": 15,
         "growth_pt": 10,
         "join_pt": 60
       },
       "stats": {
-        "total_matches": 8,
-        "win_rate": "12.5%",
-        "record": "1-7-0",
+        "total_matches": 9,
+        "win_rate": "22.2%",
+        "record": "2-7-0",
         "high_low": "600 / 547",
-        "average": "1.165",
+        "average": "1.318",
         "high_run": 8,
         "recent_matches": [
+          {
+            "date": "07/24",
+            "opponent": "Ninohito",
+            "result": "20-10(○)",
+            "change": "+9.0",
+            "opponent_en": "Ninohito"
+          },
           {
             "date": "07/16",
             "opponent": "Ruba d6d4",
@@ -1964,10 +1910,78 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "kuu00"
+          },
+          {
+            "name": "Ninohito",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Ninohito"
           }
         ]
       },
       "name_en": "Aratatsu"
+    },
+    {
+      "rank": 17,
+      "name": "音痴 onti",
+      "rating": 490,
+      "current_points": 20,
+      "league": {
+        "rank": 17,
+        "total_score": 22.8,
+        "win_pt": 30,
+        "growth_pt": 20,
+        "join_pt": 15
+      },
+      "stats": {
+        "total_matches": 3,
+        "win_rate": "33.3%",
+        "record": "1-2-0",
+        "high_low": "500 / 489",
+        "average": "1.636",
+        "high_run": 7,
+        "recent_matches": [
+          {
+            "date": "07/19",
+            "opponent": "つかぽん",
+            "result": "18-25(×)",
+            "change": "-9.7",
+            "opponent_en": "Tsukapon"
+          },
+          {
+            "date": "07/04",
+            "opponent": "つかぽん",
+            "result": "20-17(○)",
+            "change": "+10.1",
+            "opponent_en": "Tsukapon"
+          },
+          {
+            "date": "07/04",
+            "opponent": "int mint",
+            "result": "16-25(×)",
+            "change": "-10.7",
+            "opponent_en": "int mint"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "つかぽん",
+            "matches": 2,
+            "record": "1-1-0",
+            "win_rate": "50.0%",
+            "name_en": "Tsukapon"
+          },
+          {
+            "name": "int mint",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "int mint"
+          }
+        ]
+      },
+      "name_en": "Onti"
     },
     {
       "rank": 18,
@@ -2025,64 +2039,31 @@
     },
     {
       "rank": 19,
-      "name": "raiga321",
-      "rating": 390,
+      "name": "Ninohito",
+      "rating": 356,
       "current_points": 16,
       "league": {
         "rank": 19,
-        "total_score": 15.3,
-        "win_pt": 10,
-        "growth_pt": 25,
-        "join_pt": 10
-      },
-      "stats": {
-        "total_matches": 1,
-        "win_rate": "0.0%",
-        "record": "0-1-0",
-        "high_low": "400 / 390",
-        "average": "0.571",
-        "high_run": 3,
-        "recent_matches": [
-          {
-            "date": "06/26",
-            "opponent": "xantoz",
-            "result": "8-16(×)",
-            "change": "-9.8",
-            "opponent_en": "xantoz"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "xantoz",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "xantoz"
-          }
-        ]
-      },
-      "name_en": "raiga321"
-    },
-    {
-      "rank": 20,
-      "name": "Ninohito",
-      "rating": 365,
-      "current_points": 16,
-      "league": {
-        "rank": 20,
-        "total_score": 15,
+        "total_score": 18.8,
         "win_pt": 10,
         "growth_pt": 10,
-        "join_pt": 30
+        "join_pt": 45
       },
       "stats": {
-        "total_matches": 4,
+        "total_matches": 5,
         "win_rate": "0.0%",
-        "record": "0-4-0",
-        "high_low": "400 / 365",
-        "average": "0.837",
+        "record": "0-5-0",
+        "high_low": "400 / 356",
+        "average": "0.939",
         "high_run": 4,
         "recent_matches": [
+          {
+            "date": "07/24",
+            "opponent": "あらたつ",
+            "result": "10-20(×)",
+            "change": "-9.0",
+            "opponent_en": "Aratatsu"
+          },
           {
             "date": "07/22",
             "opponent": "しそ",
@@ -2133,10 +2114,57 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "Shiso"
+          },
+          {
+            "name": "あらたつ",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Aratatsu"
           }
         ]
       },
       "name_en": "Ninohito"
+    },
+    {
+      "rank": 20,
+      "name": "raiga321",
+      "rating": 390,
+      "current_points": 16,
+      "league": {
+        "rank": 20,
+        "total_score": 15.3,
+        "win_pt": 10,
+        "growth_pt": 25,
+        "join_pt": 10
+      },
+      "stats": {
+        "total_matches": 1,
+        "win_rate": "0.0%",
+        "record": "0-1-0",
+        "high_low": "400 / 390",
+        "average": "0.571",
+        "high_run": 3,
+        "recent_matches": [
+          {
+            "date": "06/26",
+            "opponent": "xantoz",
+            "result": "8-16(×)",
+            "change": "-9.8",
+            "opponent_en": "xantoz"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "xantoz",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "xantoz"
+          }
+        ]
+      },
+      "name_en": "raiga321"
     },
     {
       "rank": 21,
