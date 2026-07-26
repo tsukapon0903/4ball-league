@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T15:28:13.304Z",
+  "last_updated": "2026-07-26T16:09:54.020Z",
   "players": [
     {
       "rank": 1,
@@ -260,7 +260,7 @@
       "rank": 3,
       "name": "しそ",
       "rating": 566,
-      "current_points": 20,
+      "current_points": 25,
       "league": {
         "rank": 3,
         "total_score": 81,
@@ -1788,7 +1788,7 @@
       "rank": 16,
       "name": "あらたつ",
       "rating": 556,
-      "current_points": 20,
+      "current_points": 25,
       "league": {
         "rank": 16,
         "total_score": 24.5,
@@ -2041,7 +2041,7 @@
       "rank": 19,
       "name": "Ninohito",
       "rating": 356,
-      "current_points": 16,
+      "current_points": 14,
       "league": {
         "rank": 19,
         "total_score": 18.8,
