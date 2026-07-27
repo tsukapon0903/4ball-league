@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T14:37:24.027Z",
+  "last_updated": "2026-07-27T15:02:37.416Z",
   "players": [
     {
       "rank": 1,
@@ -170,7 +170,7 @@
     {
       "rank": 2,
       "name": "トリプルセブン",
-      "rating": 539,
+      "rating": 549,
       "current_points": 20,
       "league": {
         "rank": 2,
@@ -180,13 +180,20 @@
         "join_pt": 90
       },
       "stats": {
-        "total_matches": 20,
-        "win_rate": "60.0%",
-        "record": "12-8-0",
-        "high_low": "539 / 453",
-        "average": "1.988",
+        "total_matches": 21,
+        "win_rate": "61.9%",
+        "record": "13-8-0",
+        "high_low": "549 / 453",
+        "average": "2.059",
         "high_run": 18,
         "recent_matches": [
+          {
+            "date": "07/28",
+            "opponent": "あらたつ",
+            "result": "20-13(○)",
+            "change": "+10.3",
+            "opponent_en": "Aratatsu"
+          },
           {
             "date": "07/23",
             "opponent": "Alte",
@@ -249,13 +256,6 @@
             "result": "20-6(○)",
             "change": "+9.2",
             "opponent_en": "Aratatsu"
-          },
-          {
-            "date": "07/09",
-            "opponent": "kuu00",
-            "result": "11-25(×)",
-            "change": "-9.8",
-            "opponent_en": "kuu00"
           }
         ],
         "opponents": [
@@ -265,6 +265,13 @@
             "record": "1-2-0",
             "win_rate": "33.3%",
             "name_en": "edamame3tubu"
+          },
+          {
+            "name": "あらたつ",
+            "matches": 3,
+            "record": "3-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Aratatsu"
           },
           {
             "name": "eijis",
@@ -279,13 +286,6 @@
             "record": "1-2-0",
             "win_rate": "33.3%",
             "name_en": "Tsukapon"
-          },
-          {
-            "name": "あらたつ",
-            "matches": 2,
-            "record": "2-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Aratatsu"
           },
           {
             "name": "kuu00",
@@ -1407,7 +1407,7 @@
     {
       "rank": 10,
       "name": "あらたつ",
-      "rating": 548,
+      "rating": 538,
       "current_points": 25,
       "league": {
         "rank": 10,
@@ -1417,13 +1417,20 @@
         "join_pt": 60
       },
       "stats": {
-        "total_matches": 10,
-        "win_rate": "20.0%",
-        "record": "2-8-0",
-        "high_low": "600 / 547",
-        "average": "1.287",
+        "total_matches": 11,
+        "win_rate": "18.2%",
+        "record": "2-9-0",
+        "high_low": "600 / 538",
+        "average": "1.367",
         "high_run": 8,
         "recent_matches": [
+          {
+            "date": "07/28",
+            "opponent": "トリプルセブン",
+            "result": "13-20(×)",
+            "change": "-10.3",
+            "opponent_en": "TripleSeven"
+          },
           {
             "date": "07/27",
             "opponent": "Ninohito",
@@ -1486,20 +1493,13 @@
             "result": "14-25(×)",
             "change": "-9.6",
             "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "06/18",
-            "opponent": "トリプルセブン",
-            "result": "9-20(×)",
-            "change": "-9.7",
-            "opponent_en": "TripleSeven"
           }
         ],
         "opponents": [
           {
             "name": "トリプルセブン",
-            "matches": 2,
-            "record": "0-2-0",
+            "matches": 3,
+            "record": "0-3-0",
             "win_rate": "0.0%",
             "name_en": "TripleSeven"
           },
