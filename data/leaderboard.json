@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-27T14:28:27.573Z",
+  "last_updated": "2026-07-27T14:37:24.027Z",
   "players": [
     {
       "rank": 1,
       "name": "Ruba d6d4",
-      "rating": 734,
+      "rating": 742,
       "current_points": 30,
       "league": {
         "rank": 1,
@@ -14,13 +14,20 @@
         "join_pt": 85
       },
       "stats": {
-        "total_matches": 20,
-        "win_rate": "87.5%",
-        "record": "17-2-1",
-        "high_low": "734 / 600",
-        "average": "3.714",
+        "total_matches": 21,
+        "win_rate": "88.1%",
+        "record": "18-2-1",
+        "high_low": "742 / 600",
+        "average": "3.600",
         "high_run": 17,
         "recent_matches": [
+          {
+            "date": "07/27",
+            "opponent": "Alte",
+            "result": "30-25(○)",
+            "change": "+8.1",
+            "opponent_en": "Alte"
+          },
           {
             "date": "07/22",
             "opponent": "Ninohito",
@@ -83,13 +90,6 @@
             "result": "30-5(○)",
             "change": "+11.1",
             "opponent_en": "TripleSeven"
-          },
-          {
-            "date": "07/07",
-            "opponent": "int mint",
-            "result": "30-10(○)",
-            "change": "+7.2",
-            "opponent_en": "int mint"
           }
         ],
         "opponents": [
@@ -155,6 +155,13 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "Ninohito"
+          },
+          {
+            "name": "Alte",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Alte"
           }
         ]
       },
@@ -2221,16 +2228,23 @@
     {
       "rank": 9999,
       "name": "Alte",
-      "rating": 600,
+      "rating": 592,
       "current_points": 25,
       "stats": {
-        "total_matches": 5,
-        "win_rate": "50.0%",
-        "record": "2-2-1",
+        "total_matches": 6,
+        "win_rate": "41.7%",
+        "record": "2-3-1",
         "high_low": "609 / 590",
-        "average": "1.873",
+        "average": "1.882",
         "high_run": 16,
         "recent_matches": [
+          {
+            "date": "07/27",
+            "opponent": "Ruba d6d4",
+            "result": "25-30(×)",
+            "change": "-8.1",
+            "opponent_en": "Ruba d6d4"
+          },
           {
             "date": "07/27",
             "opponent": "Ninohito",
@@ -2302,6 +2316,13 @@
             "record": "0-0-1",
             "win_rate": "50.0%",
             "name_en": "Ninohito"
+          },
+          {
+            "name": "Ruba d6d4",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Ruba d6d4"
           }
         ]
       },
