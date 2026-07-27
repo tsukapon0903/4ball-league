@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T16:09:54.020Z",
+  "last_updated": "2026-07-27T12:09:30.154Z",
   "players": [
     {
       "rank": 1,
@@ -8,8 +8,8 @@
       "current_points": 30,
       "league": {
         "rank": 1,
-        "total_score": 90.3,
-        "win_pt": 85,
+        "total_score": 96.3,
+        "win_pt": 100,
         "growth_pt": 100,
         "join_pt": 85
       },
@@ -162,262 +162,14 @@
     },
     {
       "rank": 2,
-      "name": "pen",
-      "rating": 644,
-      "current_points": 25,
-      "league": {
-        "rank": 2,
-        "total_score": 82.3,
-        "win_pt": 100,
-        "growth_pt": 85,
-        "join_pt": 50
-      },
-      "stats": {
-        "total_matches": 5,
-        "win_rate": "100.0%",
-        "record": "5-0-0",
-        "high_low": "644 / 600",
-        "average": "2.315",
-        "high_run": 13,
-        "recent_matches": [
-          {
-            "date": "07/14",
-            "opponent": "int mint",
-            "result": "25-18(○)",
-            "change": "+7.0",
-            "opponent_en": "int mint"
-          },
-          {
-            "date": "07/13",
-            "opponent": "つかぽん",
-            "result": "25-13(○)",
-            "change": "+8.9",
-            "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "07/13",
-            "opponent": "kuu00",
-            "result": "25-19(○)",
-            "change": "+10.0",
-            "opponent_en": "kuu00"
-          },
-          {
-            "date": "06/26",
-            "opponent": "eijis",
-            "result": "25-11(○)",
-            "change": "+8.5",
-            "opponent_en": "eijis"
-          },
-          {
-            "date": "06/25",
-            "opponent": "あらたつ",
-            "result": "25-14(○)",
-            "change": "+9.1",
-            "opponent_en": "Aratatsu"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "あらたつ",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Aratatsu"
-          },
-          {
-            "name": "eijis",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "eijis"
-          },
-          {
-            "name": "kuu00",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "kuu00"
-          },
-          {
-            "name": "つかぽん",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Tsukapon"
-          },
-          {
-            "name": "int mint",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "int mint"
-          }
-        ]
-      },
-      "name_en": "pen"
-    },
-    {
-      "rank": 3,
-      "name": "しそ",
-      "rating": 566,
-      "current_points": 25,
-      "league": {
-        "rank": 3,
-        "total_score": 81,
-        "win_pt": 80,
-        "growth_pt": 90,
-        "join_pt": 70
-      },
-      "stats": {
-        "total_matches": 13,
-        "win_rate": "76.9%",
-        "record": "10-3-0",
-        "high_low": "566 / 500",
-        "average": "1.983",
-        "high_run": 12,
-        "recent_matches": [
-          {
-            "date": "07/23",
-            "opponent": "つかぽん",
-            "result": "20-24(○)",
-            "change": "+12.5",
-            "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "07/22",
-            "opponent": "Ninohito",
-            "result": "20-15(○)",
-            "change": "+9.4",
-            "opponent_en": "Ninohito"
-          },
-          {
-            "date": "07/01",
-            "opponent": "Ruba d6d4",
-            "result": "20-18(○)",
-            "change": "+9.1",
-            "opponent_en": "Ruba d6d4"
-          },
-          {
-            "date": "06/30",
-            "opponent": "トリプルセブン",
-            "result": "20-14(○)",
-            "change": "+8.3",
-            "opponent_en": "TripleSeven"
-          },
-          {
-            "date": "06/30",
-            "opponent": "eijis",
-            "result": "20-18(○)",
-            "change": "+9.6",
-            "opponent_en": "eijis"
-          },
-          {
-            "date": "06/29",
-            "opponent": "つかぽん",
-            "result": "20-3(○)",
-            "change": "+9.1",
-            "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "06/26",
-            "opponent": "eijis",
-            "result": "14-20(×)",
-            "change": "-9.4",
-            "opponent_en": "eijis"
-          },
-          {
-            "date": "06/26",
-            "opponent": "やまだはるか",
-            "result": "20-10(○)",
-            "change": "+9.1",
-            "opponent_en": "HarukaYamada"
-          },
-          {
-            "date": "06/23",
-            "opponent": "int mint",
-            "result": "14-25(×)",
-            "change": "-10.2",
-            "opponent_en": "int mint"
-          },
-          {
-            "date": "06/22",
-            "opponent": "eijis",
-            "result": "20-7(○)",
-            "change": "+9.1",
-            "opponent_en": "eijis"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "つかぽん",
-            "matches": 3,
-            "record": "3-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Tsukapon"
-          },
-          {
-            "name": "eijis",
-            "matches": 3,
-            "record": "2-1-0",
-            "win_rate": "66.7%",
-            "name_en": "eijis"
-          },
-          {
-            "name": "Ruba d6d4",
-            "matches": 2,
-            "record": "1-1-0",
-            "win_rate": "50.0%",
-            "name_en": "Ruba d6d4"
-          },
-          {
-            "name": "edamame3tubu",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "edamame3tubu"
-          },
-          {
-            "name": "int mint",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "int mint"
-          },
-          {
-            "name": "やまだはるか",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "HarukaYamada"
-          },
-          {
-            "name": "トリプルセブン",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "TripleSeven"
-          },
-          {
-            "name": "Ninohito",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Ninohito"
-          }
-        ]
-      },
-      "name_en": "Shiso"
-    },
-    {
-      "rank": 4,
       "name": "トリプルセブン",
       "rating": 539,
       "current_points": 20,
       "league": {
-        "rank": 4,
-        "total_score": 76.5,
-        "win_pt": 65,
-        "growth_pt": 80,
+        "rank": 2,
+        "total_score": 86.3,
+        "win_pt": 85,
+        "growth_pt": 85,
         "join_pt": 90
       },
       "stats": {
@@ -589,15 +341,167 @@
       "name_en": "TripleSeven"
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "name": "しそ",
+      "rating": 566,
+      "current_points": 25,
+      "league": {
+        "rank": 3,
+        "total_score": 85,
+        "win_pt": 90,
+        "growth_pt": 90,
+        "join_pt": 70
+      },
+      "stats": {
+        "total_matches": 13,
+        "win_rate": "76.9%",
+        "record": "10-3-0",
+        "high_low": "566 / 500",
+        "average": "1.983",
+        "high_run": 12,
+        "recent_matches": [
+          {
+            "date": "07/23",
+            "opponent": "つかぽん",
+            "result": "20-24(○)",
+            "change": "+12.5",
+            "opponent_en": "Tsukapon"
+          },
+          {
+            "date": "07/22",
+            "opponent": "Ninohito",
+            "result": "20-15(○)",
+            "change": "+9.4",
+            "opponent_en": "Ninohito"
+          },
+          {
+            "date": "07/01",
+            "opponent": "Ruba d6d4",
+            "result": "20-18(○)",
+            "change": "+9.1",
+            "opponent_en": "Ruba d6d4"
+          },
+          {
+            "date": "06/30",
+            "opponent": "トリプルセブン",
+            "result": "20-14(○)",
+            "change": "+8.3",
+            "opponent_en": "TripleSeven"
+          },
+          {
+            "date": "06/30",
+            "opponent": "eijis",
+            "result": "20-18(○)",
+            "change": "+9.6",
+            "opponent_en": "eijis"
+          },
+          {
+            "date": "06/29",
+            "opponent": "つかぽん",
+            "result": "20-3(○)",
+            "change": "+9.1",
+            "opponent_en": "Tsukapon"
+          },
+          {
+            "date": "06/26",
+            "opponent": "eijis",
+            "result": "14-20(×)",
+            "change": "-9.4",
+            "opponent_en": "eijis"
+          },
+          {
+            "date": "06/26",
+            "opponent": "やまだはるか",
+            "result": "20-10(○)",
+            "change": "+9.1",
+            "opponent_en": "HarukaYamada"
+          },
+          {
+            "date": "06/23",
+            "opponent": "int mint",
+            "result": "14-25(×)",
+            "change": "-10.2",
+            "opponent_en": "int mint"
+          },
+          {
+            "date": "06/22",
+            "opponent": "eijis",
+            "result": "20-7(○)",
+            "change": "+9.1",
+            "opponent_en": "eijis"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "つかぽん",
+            "matches": 3,
+            "record": "3-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Tsukapon"
+          },
+          {
+            "name": "eijis",
+            "matches": 3,
+            "record": "2-1-0",
+            "win_rate": "66.7%",
+            "name_en": "eijis"
+          },
+          {
+            "name": "Ruba d6d4",
+            "matches": 2,
+            "record": "1-1-0",
+            "win_rate": "50.0%",
+            "name_en": "Ruba d6d4"
+          },
+          {
+            "name": "edamame3tubu",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "edamame3tubu"
+          },
+          {
+            "name": "int mint",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "int mint"
+          },
+          {
+            "name": "やまだはるか",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "HarukaYamada"
+          },
+          {
+            "name": "トリプルセブン",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "TripleSeven"
+          },
+          {
+            "name": "Ninohito",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Ninohito"
+          }
+        ]
+      },
+      "name_en": "Shiso"
+    },
+    {
+      "rank": 3,
       "name": "つかぽん",
       "rating": 628,
       "current_points": 25,
       "league": {
-        "rank": 5,
-        "total_score": 75.3,
-        "win_pt": 60,
-        "growth_pt": 75,
+        "rank": 3,
+        "total_score": 85,
+        "win_pt": 80,
+        "growth_pt": 80,
         "join_pt": 100
       },
       "stats": {
@@ -790,280 +694,15 @@
       "name_en": "Tsukapon"
     },
     {
-      "rank": 6,
-      "name": "Don Matty",
-      "rating": 610,
-      "current_points": 25,
-      "league": {
-        "rank": 6,
-        "total_score": 65.3,
-        "win_pt": 100,
-        "growth_pt": 65,
-        "join_pt": 10
-      },
-      "stats": {
-        "total_matches": 1,
-        "win_rate": "100.0%",
-        "record": "1-0-0",
-        "high_low": "610 / 600",
-        "average": "3.125",
-        "high_run": 10,
-        "recent_matches": [
-          {
-            "date": "07/15",
-            "opponent": "つかぽん",
-            "result": "25-21(○)",
-            "change": "+9.9",
-            "opponent_en": "Tsukapon"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "つかぽん",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Tsukapon"
-          }
-        ]
-      },
-      "name_en": "Don Matty"
-    },
-    {
-      "rank": 7,
-      "name": "keitti",
-      "rating": 520,
-      "current_points": 20,
-      "league": {
-        "rank": 7,
-        "total_score": 63.3,
-        "win_pt": 75,
-        "growth_pt": 70,
-        "join_pt": 35
-      },
-      "stats": {
-        "total_matches": 4,
-        "win_rate": "75.0%",
-        "record": "3-1-0",
-        "high_low": "520 / 500",
-        "average": "1.610",
-        "high_run": 6,
-        "recent_matches": [
-          {
-            "date": "07/23",
-            "opponent": "int mint",
-            "result": "20-15(○)",
-            "change": "+10.9",
-            "opponent_en": "int mint"
-          },
-          {
-            "date": "07/02",
-            "opponent": "つかぽん",
-            "result": "6-25(×)",
-            "change": "-10.1",
-            "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "06/25",
-            "opponent": "xantoz",
-            "result": "20-7(○)",
-            "change": "+9.0",
-            "opponent_en": "xantoz"
-          },
-          {
-            "date": "06/25",
-            "opponent": "トリプルセブン",
-            "result": "20-9(○)",
-            "change": "+9.8",
-            "opponent_en": "TripleSeven"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "トリプルセブン",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "TripleSeven"
-          },
-          {
-            "name": "xantoz",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "xantoz"
-          },
-          {
-            "name": "つかぽん",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "Tsukapon"
-          },
-          {
-            "name": "int mint",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "int mint"
-          }
-        ]
-      },
-      "name_en": "keitti"
-    },
-    {
-      "rank": 8,
-      "name": "konachi-",
-      "rating": 508,
-      "current_points": 20,
-      "league": {
-        "rank": 8,
-        "total_score": 53.5,
-        "win_pt": 75,
-        "growth_pt": 60,
-        "join_pt": 10
-      },
-      "stats": {
-        "total_matches": 2,
-        "win_rate": "75.0%",
-        "record": "1-0-1",
-        "high_low": "509 / 500",
-        "average": "1.538",
-        "high_run": 8,
-        "recent_matches": [
-          {
-            "date": "06/25",
-            "opponent": "eijis",
-            "result": "20-20(△)",
-            "change": "-0.9",
-            "opponent_en": "eijis"
-          },
-          {
-            "date": "06/25",
-            "opponent": "ももかげ",
-            "result": "20-11(○)",
-            "change": "+9.3",
-            "opponent_en": "Momokage"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "ももかげ",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Momokage"
-          },
-          {
-            "name": "eijis",
-            "matches": 1,
-            "record": "0-0-1",
-            "win_rate": "50.0%",
-            "name_en": "eijis"
-          }
-        ]
-      },
-      "name_en": "konachi-"
-    },
-    {
-      "rank": 9,
-      "name": "ももかげ",
-      "rating": 402,
-      "current_points": 16,
-      "league": {
-        "rank": 9,
-        "total_score": 52.5,
-        "win_pt": 55,
-        "growth_pt": 55,
-        "join_pt": 45
-      },
-      "stats": {
-        "total_matches": 5,
-        "win_rate": "50.0%",
-        "record": "2-2-1",
-        "high_low": "402 / 391",
-        "average": "1.159",
-        "high_run": 6,
-        "recent_matches": [
-          {
-            "date": "07/21",
-            "opponent": "Alte",
-            "result": "16-10(○)",
-            "change": "+10.4",
-            "opponent_en": "Alte"
-          },
-          {
-            "date": "07/20",
-            "opponent": "つかぽん",
-            "result": "14-25(×)",
-            "change": "-8.9",
-            "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "07/02",
-            "opponent": "やまだはるか",
-            "result": "16-16(△)",
-            "change": "-0.3",
-            "opponent_en": "HarukaYamada"
-          },
-          {
-            "date": "07/02",
-            "opponent": "つかぽん",
-            "result": "16-23(○)",
-            "change": "+10.4",
-            "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "06/25",
-            "opponent": "konachi-",
-            "result": "11-20(×)",
-            "change": "-9.3",
-            "opponent_en": "konachi-"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "つかぽん",
-            "matches": 2,
-            "record": "1-1-0",
-            "win_rate": "50.0%",
-            "name_en": "Tsukapon"
-          },
-          {
-            "name": "konachi-",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "konachi-"
-          },
-          {
-            "name": "やまだはるか",
-            "matches": 1,
-            "record": "0-0-1",
-            "win_rate": "50.0%",
-            "name_en": "HarukaYamada"
-          },
-          {
-            "name": "Alte",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Alte"
-          }
-        ]
-      },
-      "name_en": "Momokage"
-    },
-    {
-      "rank": 10,
+      "rank": 5,
       "name": "edamame3tubu",
       "rating": 593,
       "current_points": 25,
       "league": {
-        "rank": 10,
-        "total_score": 50.5,
-        "win_pt": 55,
-        "growth_pt": 35,
+        "rank": 5,
+        "total_score": 70.8,
+        "win_pt": 75,
+        "growth_pt": 70,
         "join_pt": 65
       },
       "stats": {
@@ -1200,15 +839,15 @@
       "name_en": "edamame3tubu"
     },
     {
-      "rank": 11,
+      "rank": 6,
       "name": "kuu00",
       "rating": 594,
       "current_points": 25,
       "league": {
-        "rank": 11,
-        "total_score": 49.8,
-        "win_pt": 55,
-        "growth_pt": 40,
+        "rank": 6,
+        "total_score": 70,
+        "win_pt": 75,
+        "growth_pt": 75,
         "join_pt": 55
       },
       "stats": {
@@ -1317,151 +956,15 @@
       "name_en": "kuu00"
     },
     {
-      "rank": 12,
-      "name": "Alte",
-      "rating": 600,
-      "current_points": 25,
-      "league": {
-        "rank": 12,
-        "total_score": 46.5,
-        "win_pt": 55,
-        "growth_pt": 45,
-        "join_pt": 35
-      },
-      "stats": {
-        "total_matches": 4,
-        "win_rate": "50.0%",
-        "record": "2-2-0",
-        "high_low": "609 / 590",
-        "average": "1.625",
-        "high_run": 9,
-        "recent_matches": [
-          {
-            "date": "07/23",
-            "opponent": "トリプルセブン",
-            "result": "18-20(×)",
-            "change": "-9.4",
-            "opponent_en": "TripleSeven"
-          },
-          {
-            "date": "07/23",
-            "opponent": "eijis",
-            "result": "25-7(○)",
-            "change": "+9.3",
-            "opponent_en": "eijis"
-          },
-          {
-            "date": "07/21",
-            "opponent": "96onE",
-            "result": "25-11(○)",
-            "change": "+10.2",
-            "opponent_en": "96onE"
-          },
-          {
-            "date": "07/21",
-            "opponent": "ももかげ",
-            "result": "10-16(×)",
-            "change": "-10.4",
-            "opponent_en": "Momokage"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "ももかげ",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "Momokage"
-          },
-          {
-            "name": "96onE",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "96onE"
-          },
-          {
-            "name": "eijis",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "eijis"
-          },
-          {
-            "name": "トリプルセブン",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "TripleSeven"
-          }
-        ]
-      },
-      "name_en": "Alte"
-    },
-    {
-      "rank": 13,
-      "name": "xantoz",
-      "rating": 401,
-      "current_points": 16,
-      "league": {
-        "rank": 13,
-        "total_score": 42,
-        "win_pt": 55,
-        "growth_pt": 50,
-        "join_pt": 10
-      },
-      "stats": {
-        "total_matches": 2,
-        "win_rate": "50.0%",
-        "record": "1-1-0",
-        "high_low": "401 / 391",
-        "average": "0.958",
-        "high_run": 4,
-        "recent_matches": [
-          {
-            "date": "06/26",
-            "opponent": "raiga321",
-            "result": "16-8(○)",
-            "change": "+9.7",
-            "opponent_en": "raiga321"
-          },
-          {
-            "date": "06/25",
-            "opponent": "keitti",
-            "result": "7-20(×)",
-            "change": "-9.0",
-            "opponent_en": "keitti"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "keitti",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "keitti"
-          },
-          {
-            "name": "raiga321",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "raiga321"
-          }
-        ]
-      },
-      "name_en": "xantoz"
-    },
-    {
-      "rank": 14,
+      "rank": 7,
       "name": "eijis",
       "rating": 428,
       "current_points": 16,
       "league": {
-        "rank": 14,
-        "total_score": 33.5,
-        "win_pt": 25,
-        "growth_pt": 10,
+        "rank": 7,
+        "total_score": 67,
+        "win_pt": 65,
+        "growth_pt": 60,
         "join_pt": 80
       },
       "stats": {
@@ -1626,15 +1129,153 @@
       "name_en": "eijis"
     },
     {
-      "rank": 15,
+      "rank": 8,
+      "name": "あらたつ",
+      "rating": 556,
+      "current_points": 25,
+      "league": {
+        "rank": 8,
+        "total_score": 61.8,
+        "win_pt": 60,
+        "growth_pt": 65,
+        "join_pt": 60
+      },
+      "stats": {
+        "total_matches": 9,
+        "win_rate": "22.2%",
+        "record": "2-7-0",
+        "high_low": "600 / 547",
+        "average": "1.318",
+        "high_run": 8,
+        "recent_matches": [
+          {
+            "date": "07/24",
+            "opponent": "Ninohito",
+            "result": "20-10(○)",
+            "change": "+9.0",
+            "opponent_en": "Ninohito"
+          },
+          {
+            "date": "07/16",
+            "opponent": "Ruba d6d4",
+            "result": "3-30(×)",
+            "change": "-7.6",
+            "opponent_en": "Ruba d6d4"
+          },
+          {
+            "date": "07/09",
+            "opponent": "Ruba d6d4",
+            "result": "4-30(×)",
+            "change": "-9.1",
+            "opponent_en": "Ruba d6d4"
+          },
+          {
+            "date": "07/09",
+            "opponent": "kuu00",
+            "result": "17-25(×)",
+            "change": "-8.4",
+            "opponent_en": "kuu00"
+          },
+          {
+            "date": "07/09",
+            "opponent": "トリプルセブン",
+            "result": "6-20(×)",
+            "change": "-9.3",
+            "opponent_en": "TripleSeven"
+          },
+          {
+            "date": "06/25",
+            "opponent": "pen",
+            "result": "14-25(×)",
+            "change": "-9.1",
+            "opponent_en": "pen"
+          },
+          {
+            "date": "06/22",
+            "opponent": "int mint",
+            "result": "25-22(○)",
+            "change": "+10.0",
+            "opponent_en": "int mint"
+          },
+          {
+            "date": "06/22",
+            "opponent": "つかぽん",
+            "result": "14-25(×)",
+            "change": "-9.7",
+            "opponent_en": "Tsukapon"
+          },
+          {
+            "date": "06/18",
+            "opponent": "トリプルセブン",
+            "result": "9-20(×)",
+            "change": "-9.7",
+            "opponent_en": "TripleSeven"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "トリプルセブン",
+            "matches": 2,
+            "record": "0-2-0",
+            "win_rate": "0.0%",
+            "name_en": "TripleSeven"
+          },
+          {
+            "name": "Ruba d6d4",
+            "matches": 2,
+            "record": "0-2-0",
+            "win_rate": "0.0%",
+            "name_en": "Ruba d6d4"
+          },
+          {
+            "name": "つかぽん",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Tsukapon"
+          },
+          {
+            "name": "int mint",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "int mint"
+          },
+          {
+            "name": "pen",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "pen"
+          },
+          {
+            "name": "kuu00",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "kuu00"
+          },
+          {
+            "name": "Ninohito",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Ninohito"
+          }
+        ]
+      },
+      "name_en": "Aratatsu"
+    },
+    {
+      "rank": 9,
       "name": "int mint",
       "rating": 514,
       "current_points": 20,
       "league": {
-        "rank": 15,
-        "total_score": 26.3,
-        "win_pt": 10,
-        "growth_pt": 10,
+        "rank": 9,
+        "total_score": 60,
+        "win_pt": 55,
+        "growth_pt": 55,
         "join_pt": 75
       },
       "stats": {
@@ -1785,103 +1426,190 @@
       "name_en": "int mint"
     },
     {
-      "rank": 16,
-      "name": "あらたつ",
-      "rating": 556,
-      "current_points": 25,
-      "league": {
-        "rank": 16,
-        "total_score": 24.5,
-        "win_pt": 15,
-        "growth_pt": 10,
-        "join_pt": 60
-      },
+      "rank": 9999,
+      "name": "konachi-",
+      "rating": 508,
+      "current_points": 20,
       "stats": {
-        "total_matches": 9,
-        "win_rate": "22.2%",
-        "record": "2-7-0",
-        "high_low": "600 / 547",
-        "average": "1.318",
+        "total_matches": 2,
+        "win_rate": "75.0%",
+        "record": "1-0-1",
+        "high_low": "509 / 500",
+        "average": "1.538",
         "high_run": 8,
         "recent_matches": [
           {
-            "date": "07/24",
-            "opponent": "Ninohito",
-            "result": "20-10(○)",
-            "change": "+9.0",
-            "opponent_en": "Ninohito"
-          },
-          {
-            "date": "07/16",
-            "opponent": "Ruba d6d4",
-            "result": "3-30(×)",
-            "change": "-7.6",
-            "opponent_en": "Ruba d6d4"
-          },
-          {
-            "date": "07/09",
-            "opponent": "Ruba d6d4",
-            "result": "4-30(×)",
-            "change": "-9.1",
-            "opponent_en": "Ruba d6d4"
-          },
-          {
-            "date": "07/09",
-            "opponent": "kuu00",
-            "result": "17-25(×)",
-            "change": "-8.4",
-            "opponent_en": "kuu00"
-          },
-          {
-            "date": "07/09",
-            "opponent": "トリプルセブン",
-            "result": "6-20(×)",
-            "change": "-9.3",
-            "opponent_en": "TripleSeven"
+            "date": "06/25",
+            "opponent": "eijis",
+            "result": "20-20(△)",
+            "change": "-0.9",
+            "opponent_en": "eijis"
           },
           {
             "date": "06/25",
-            "opponent": "pen",
-            "result": "14-25(×)",
-            "change": "-9.1",
-            "opponent_en": "pen"
+            "opponent": "ももかげ",
+            "result": "20-11(○)",
+            "change": "+9.3",
+            "opponent_en": "Momokage"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "ももかげ",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Momokage"
           },
           {
-            "date": "06/22",
-            "opponent": "int mint",
-            "result": "25-22(○)",
-            "change": "+10.0",
-            "opponent_en": "int mint"
+            "name": "eijis",
+            "matches": 1,
+            "record": "0-0-1",
+            "win_rate": "50.0%",
+            "name_en": "eijis"
+          }
+        ]
+      },
+      "name_en": "konachi-"
+    },
+    {
+      "rank": 9999,
+      "name": "ももかげ",
+      "rating": 402,
+      "current_points": 16,
+      "stats": {
+        "total_matches": 5,
+        "win_rate": "50.0%",
+        "record": "2-2-1",
+        "high_low": "402 / 391",
+        "average": "1.159",
+        "high_run": 6,
+        "recent_matches": [
+          {
+            "date": "07/21",
+            "opponent": "Alte",
+            "result": "16-10(○)",
+            "change": "+10.4",
+            "opponent_en": "Alte"
           },
           {
-            "date": "06/22",
+            "date": "07/20",
             "opponent": "つかぽん",
             "result": "14-25(×)",
-            "change": "-9.7",
+            "change": "-8.9",
             "opponent_en": "Tsukapon"
           },
           {
-            "date": "06/18",
+            "date": "07/02",
+            "opponent": "やまだはるか",
+            "result": "16-16(△)",
+            "change": "-0.3",
+            "opponent_en": "HarukaYamada"
+          },
+          {
+            "date": "07/02",
+            "opponent": "つかぽん",
+            "result": "16-23(○)",
+            "change": "+10.4",
+            "opponent_en": "Tsukapon"
+          },
+          {
+            "date": "06/25",
+            "opponent": "konachi-",
+            "result": "11-20(×)",
+            "change": "-9.3",
+            "opponent_en": "konachi-"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "つかぽん",
+            "matches": 2,
+            "record": "1-1-0",
+            "win_rate": "50.0%",
+            "name_en": "Tsukapon"
+          },
+          {
+            "name": "konachi-",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "konachi-"
+          },
+          {
+            "name": "やまだはるか",
+            "matches": 1,
+            "record": "0-0-1",
+            "win_rate": "50.0%",
+            "name_en": "HarukaYamada"
+          },
+          {
+            "name": "Alte",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Alte"
+          }
+        ]
+      },
+      "name_en": "Momokage"
+    },
+    {
+      "rank": 9999,
+      "name": "keitti",
+      "rating": 520,
+      "current_points": 20,
+      "stats": {
+        "total_matches": 4,
+        "win_rate": "75.0%",
+        "record": "3-1-0",
+        "high_low": "520 / 500",
+        "average": "1.610",
+        "high_run": 6,
+        "recent_matches": [
+          {
+            "date": "07/23",
+            "opponent": "int mint",
+            "result": "20-15(○)",
+            "change": "+10.9",
+            "opponent_en": "int mint"
+          },
+          {
+            "date": "07/02",
+            "opponent": "つかぽん",
+            "result": "6-25(×)",
+            "change": "-10.1",
+            "opponent_en": "Tsukapon"
+          },
+          {
+            "date": "06/25",
+            "opponent": "xantoz",
+            "result": "20-7(○)",
+            "change": "+9.0",
+            "opponent_en": "xantoz"
+          },
+          {
+            "date": "06/25",
             "opponent": "トリプルセブン",
-            "result": "9-20(×)",
-            "change": "-9.7",
+            "result": "20-9(○)",
+            "change": "+9.8",
             "opponent_en": "TripleSeven"
           }
         ],
         "opponents": [
           {
             "name": "トリプルセブン",
-            "matches": 2,
-            "record": "0-2-0",
-            "win_rate": "0.0%",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
             "name_en": "TripleSeven"
           },
           {
-            "name": "Ruba d6d4",
-            "matches": 2,
-            "record": "0-2-0",
-            "win_rate": "0.0%",
-            "name_en": "Ruba d6d4"
+            "name": "xantoz",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "xantoz"
           },
           {
             "name": "つかぽん",
@@ -1896,44 +1624,246 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "int mint"
+          }
+        ]
+      },
+      "name_en": "keitti"
+    },
+    {
+      "rank": 9999,
+      "name": "xantoz",
+      "rating": 401,
+      "current_points": 16,
+      "stats": {
+        "total_matches": 2,
+        "win_rate": "50.0%",
+        "record": "1-1-0",
+        "high_low": "401 / 391",
+        "average": "0.958",
+        "high_run": 4,
+        "recent_matches": [
+          {
+            "date": "06/26",
+            "opponent": "raiga321",
+            "result": "16-8(○)",
+            "change": "+9.7",
+            "opponent_en": "raiga321"
           },
           {
-            "name": "pen",
+            "date": "06/25",
+            "opponent": "keitti",
+            "result": "7-20(×)",
+            "change": "-9.0",
+            "opponent_en": "keitti"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "keitti",
             "matches": 1,
             "record": "0-1-0",
             "win_rate": "0.0%",
-            "name_en": "pen"
+            "name_en": "keitti"
+          },
+          {
+            "name": "raiga321",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "raiga321"
+          }
+        ]
+      },
+      "name_en": "xantoz"
+    },
+    {
+      "rank": 9999,
+      "name": "pen",
+      "rating": 644,
+      "current_points": 25,
+      "stats": {
+        "total_matches": 5,
+        "win_rate": "100.0%",
+        "record": "5-0-0",
+        "high_low": "644 / 600",
+        "average": "2.315",
+        "high_run": 13,
+        "recent_matches": [
+          {
+            "date": "07/14",
+            "opponent": "int mint",
+            "result": "25-18(○)",
+            "change": "+7.0",
+            "opponent_en": "int mint"
+          },
+          {
+            "date": "07/13",
+            "opponent": "つかぽん",
+            "result": "25-13(○)",
+            "change": "+8.9",
+            "opponent_en": "Tsukapon"
+          },
+          {
+            "date": "07/13",
+            "opponent": "kuu00",
+            "result": "25-19(○)",
+            "change": "+10.0",
+            "opponent_en": "kuu00"
+          },
+          {
+            "date": "06/26",
+            "opponent": "eijis",
+            "result": "25-11(○)",
+            "change": "+8.5",
+            "opponent_en": "eijis"
+          },
+          {
+            "date": "06/25",
+            "opponent": "あらたつ",
+            "result": "25-14(○)",
+            "change": "+9.1",
+            "opponent_en": "Aratatsu"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "あらたつ",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Aratatsu"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "eijis"
           },
           {
             "name": "kuu00",
             "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
+            "record": "1-0-0",
+            "win_rate": "100.0%",
             "name_en": "kuu00"
           },
           {
-            "name": "Ninohito",
+            "name": "つかぽん",
             "matches": 1,
             "record": "1-0-0",
             "win_rate": "100.0%",
-            "name_en": "Ninohito"
+            "name_en": "Tsukapon"
+          },
+          {
+            "name": "int mint",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "int mint"
           }
         ]
       },
-      "name_en": "Aratatsu"
+      "name_en": "pen"
     },
     {
-      "rank": 17,
+      "rank": 9999,
+      "name": "やまだはるか",
+      "rating": 382,
+      "current_points": 16,
+      "stats": {
+        "total_matches": 3,
+        "win_rate": "16.7%",
+        "record": "0-2-1",
+        "high_low": "400 / 382",
+        "average": "0.875",
+        "high_run": 5,
+        "recent_matches": [
+          {
+            "date": "07/17",
+            "opponent": "eijis",
+            "result": "9-16(×)",
+            "change": "-8.9",
+            "opponent_en": "eijis"
+          },
+          {
+            "date": "07/02",
+            "opponent": "ももかげ",
+            "result": "16-16(△)",
+            "change": "+0.3",
+            "opponent_en": "Momokage"
+          },
+          {
+            "date": "06/26",
+            "opponent": "しそ",
+            "result": "10-20(×)",
+            "change": "-9.1",
+            "opponent_en": "Shiso"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "しそ",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Shiso"
+          },
+          {
+            "name": "ももかげ",
+            "matches": 1,
+            "record": "0-0-1",
+            "win_rate": "50.0%",
+            "name_en": "Momokage"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "eijis"
+          }
+        ]
+      },
+      "name_en": "HarukaYamada"
+    },
+    {
+      "rank": 9999,
+      "name": "raiga321",
+      "rating": 390,
+      "current_points": 16,
+      "stats": {
+        "total_matches": 1,
+        "win_rate": "0.0%",
+        "record": "0-1-0",
+        "high_low": "400 / 390",
+        "average": "0.571",
+        "high_run": 3,
+        "recent_matches": [
+          {
+            "date": "06/26",
+            "opponent": "xantoz",
+            "result": "8-16(×)",
+            "change": "-9.7",
+            "opponent_en": "xantoz"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "xantoz",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "xantoz"
+          }
+        ]
+      },
+      "name_en": "raiga321"
+    },
+    {
+      "rank": 9999,
       "name": "音痴 onti",
       "rating": 490,
       "current_points": 20,
-      "league": {
-        "rank": 17,
-        "total_score": 22.8,
-        "win_pt": 30,
-        "growth_pt": 20,
-        "join_pt": 15
-      },
       "stats": {
         "total_matches": 3,
         "win_rate": "33.3%",
@@ -1984,17 +1914,10 @@
       "name_en": "Onti"
     },
     {
-      "rank": 18,
+      "rank": 9999,
       "name": "リココ_VRC",
       "rating": 391,
       "current_points": 16,
-      "league": {
-        "rank": 18,
-        "total_score": 21,
-        "win_pt": 20,
-        "growth_pt": 30,
-        "join_pt": 10
-      },
       "stats": {
         "total_matches": 2,
         "win_rate": "25.0%",
@@ -2038,17 +1961,10 @@
       "name_en": ""
     },
     {
-      "rank": 19,
+      "rank": 9999,
       "name": "Ninohito",
       "rating": 356,
       "current_points": 14,
-      "league": {
-        "rank": 19,
-        "total_score": 18.8,
-        "win_pt": 10,
-        "growth_pt": 10,
-        "join_pt": 45
-      },
       "stats": {
         "total_matches": 5,
         "win_rate": "0.0%",
@@ -2127,125 +2043,90 @@
       "name_en": "Ninohito"
     },
     {
-      "rank": 20,
-      "name": "やまだはるか",
+      "rank": 9999,
+      "name": "Don Matty",
+      "rating": 610,
+      "current_points": 25,
+      "stats": {
+        "total_matches": 1,
+        "win_rate": "100.0%",
+        "record": "1-0-0",
+        "high_low": "610 / 600",
+        "average": "3.125",
+        "high_run": 10,
+        "recent_matches": [
+          {
+            "date": "07/15",
+            "opponent": "つかぽん",
+            "result": "25-21(○)",
+            "change": "+9.9",
+            "opponent_en": "Tsukapon"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "つかぽん",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Tsukapon"
+          }
+        ]
+      },
+      "name_en": "Don Matty"
+    },
+    {
+      "rank": 9999,
+      "name": "星さん［Hoshi-san］",
       "rating": 382,
       "current_points": 16,
-      "league": {
-        "rank": 20,
-        "total_score": 15.5,
-        "win_pt": 10,
-        "growth_pt": 15,
-        "join_pt": 25
-      },
       "stats": {
-        "total_matches": 3,
-        "win_rate": "16.7%",
-        "record": "0-2-1",
+        "total_matches": 2,
+        "win_rate": "0.0%",
+        "record": "0-2-0",
         "high_low": "400 / 382",
-        "average": "0.875",
-        "high_run": 5,
+        "average": "1.857",
+        "high_run": 9,
         "recent_matches": [
           {
             "date": "07/17",
-            "opponent": "eijis",
-            "result": "9-16(×)",
-            "change": "-8.9",
-            "opponent_en": "eijis"
+            "opponent": "Ruba d6d4",
+            "result": "14-30(×)",
+            "change": "-8.3",
+            "opponent_en": "Ruba d6d4"
           },
           {
-            "date": "07/02",
-            "opponent": "ももかげ",
-            "result": "16-16(△)",
-            "change": "+0.3",
-            "opponent_en": "Momokage"
-          },
-          {
-            "date": "06/26",
-            "opponent": "しそ",
-            "result": "10-20(×)",
-            "change": "-9.1",
-            "opponent_en": "Shiso"
+            "date": "07/16",
+            "opponent": "トリプルセブン",
+            "result": "12-20(×)",
+            "change": "-9.4",
+            "opponent_en": "TripleSeven"
           }
         ],
         "opponents": [
           {
-            "name": "しそ",
+            "name": "トリプルセブン",
             "matches": 1,
             "record": "0-1-0",
             "win_rate": "0.0%",
-            "name_en": "Shiso"
+            "name_en": "TripleSeven"
           },
           {
-            "name": "ももかげ",
-            "matches": 1,
-            "record": "0-0-1",
-            "win_rate": "50.0%",
-            "name_en": "Momokage"
-          },
-          {
-            "name": "eijis",
+            "name": "Ruba d6d4",
             "matches": 1,
             "record": "0-1-0",
             "win_rate": "0.0%",
-            "name_en": "eijis"
+            "name_en": "Ruba d6d4"
           }
         ]
       },
-      "name_en": "HarukaYamada"
+      "name_en": ""
     },
     {
-      "rank": 21,
-      "name": "raiga321",
-      "rating": 390,
-      "current_points": 16,
-      "league": {
-        "rank": 21,
-        "total_score": 15.3,
-        "win_pt": 10,
-        "growth_pt": 25,
-        "join_pt": 10
-      },
-      "stats": {
-        "total_matches": 1,
-        "win_rate": "0.0%",
-        "record": "0-1-0",
-        "high_low": "400 / 390",
-        "average": "0.571",
-        "high_run": 3,
-        "recent_matches": [
-          {
-            "date": "06/26",
-            "opponent": "xantoz",
-            "result": "8-16(×)",
-            "change": "-9.7",
-            "opponent_en": "xantoz"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "xantoz",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "xantoz"
-          }
-        ]
-      },
-      "name_en": "raiga321"
-    },
-    {
-      "rank": 22,
+      "rank": 9999,
       "name": "96onE",
       "rating": 270,
       "current_points": 12,
-      "league": {
-        "rank": 22,
-        "total_score": 13.8,
-        "win_pt": 10,
-        "growth_pt": 10,
-        "join_pt": 25
-      },
       "stats": {
         "total_matches": 3,
         "win_rate": "0.0%",
@@ -2303,58 +2184,79 @@
       "name_en": "96onE"
     },
     {
-      "rank": 23,
-      "name": "星さん［Hoshi-san］",
-      "rating": 382,
-      "current_points": 16,
-      "league": {
-        "rank": 23,
-        "total_score": 10,
-        "win_pt": 10,
-        "growth_pt": 10,
-        "join_pt": 10
-      },
+      "rank": 9999,
+      "name": "Alte",
+      "rating": 600,
+      "current_points": 25,
       "stats": {
-        "total_matches": 2,
-        "win_rate": "0.0%",
-        "record": "0-2-0",
-        "high_low": "400 / 382",
-        "average": "1.857",
+        "total_matches": 4,
+        "win_rate": "50.0%",
+        "record": "2-2-0",
+        "high_low": "609 / 590",
+        "average": "1.625",
         "high_run": 9,
         "recent_matches": [
           {
-            "date": "07/17",
-            "opponent": "Ruba d6d4",
-            "result": "14-30(×)",
-            "change": "-8.3",
-            "opponent_en": "Ruba d6d4"
-          },
-          {
-            "date": "07/16",
+            "date": "07/23",
             "opponent": "トリプルセブン",
-            "result": "12-20(×)",
+            "result": "18-20(×)",
             "change": "-9.4",
             "opponent_en": "TripleSeven"
+          },
+          {
+            "date": "07/23",
+            "opponent": "eijis",
+            "result": "25-7(○)",
+            "change": "+9.3",
+            "opponent_en": "eijis"
+          },
+          {
+            "date": "07/21",
+            "opponent": "96onE",
+            "result": "25-11(○)",
+            "change": "+10.2",
+            "opponent_en": "96onE"
+          },
+          {
+            "date": "07/21",
+            "opponent": "ももかげ",
+            "result": "10-16(×)",
+            "change": "-10.4",
+            "opponent_en": "Momokage"
           }
         ],
         "opponents": [
+          {
+            "name": "ももかげ",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Momokage"
+          },
+          {
+            "name": "96onE",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "96onE"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "eijis"
+          },
           {
             "name": "トリプルセブン",
             "matches": 1,
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "TripleSeven"
-          },
-          {
-            "name": "Ruba d6d4",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "Ruba d6d4"
           }
         ]
       },
-      "name_en": ""
+      "name_en": "Alte"
     }
   ]
 }
