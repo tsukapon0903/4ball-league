@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-27T15:07:20.992Z",
+  "last_updated": "2026-07-27T16:09:45.226Z",
   "players": [
     {
       "rank": 1,
       "name": "Ruba d6d4",
-      "rating": 742,
+      "rating": 732,
       "current_points": 30,
       "league": {
         "rank": 1,
@@ -15,17 +15,17 @@
       },
       "stats": {
         "total_matches": 21,
-        "win_rate": "88.1%",
-        "record": "18-2-1",
-        "high_low": "742 / 600",
+        "win_rate": "85.7%",
+        "record": "17-2-2",
+        "high_low": "734 / 600",
         "average": "3.600",
         "high_run": 17,
         "recent_matches": [
           {
             "date": "07/27",
             "opponent": "Alte",
-            "result": "30-25(○)",
-            "change": "+8.1",
+            "result": "30-25(△)",
+            "change": "-1.9",
             "opponent_en": "Alte"
           },
           {
@@ -159,8 +159,8 @@
           {
             "name": "Alte",
             "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
+            "record": "0-0-1",
+            "win_rate": "50.0%",
             "name_en": "Alte"
           }
         ]
@@ -794,7 +794,7 @@
             "date": "06/29",
             "opponent": "つかぽん",
             "result": "18-25(×)",
-            "change": "-10.1",
+            "change": "-10.0",
             "opponent_en": "Tsukapon"
           }
         ],
@@ -1255,7 +1255,7 @@
     {
       "rank": 9,
       "name": "int mint",
-      "rating": 514,
+      "rating": 515,
       "current_points": 20,
       "league": {
         "rank": 9,
@@ -1268,7 +1268,7 @@
         "total_matches": 17,
         "win_rate": "20.6%",
         "record": "3-13-1",
-        "high_low": "600 / 514",
+        "high_low": "600 / 515",
         "average": "1.840",
         "high_run": 18,
         "recent_matches": [
@@ -2235,12 +2235,12 @@
     {
       "rank": 9999,
       "name": "Alte",
-      "rating": 592,
+      "rating": 602,
       "current_points": 25,
       "stats": {
         "total_matches": 6,
-        "win_rate": "41.7%",
-        "record": "2-3-1",
+        "win_rate": "50.0%",
+        "record": "2-2-2",
         "high_low": "609 / 590",
         "average": "1.882",
         "high_run": 16,
@@ -2248,8 +2248,8 @@
           {
             "date": "07/27",
             "opponent": "Ruba d6d4",
-            "result": "25-30(×)",
-            "change": "-8.1",
+            "result": "25-30(△)",
+            "change": "+1.9",
             "opponent_en": "Ruba d6d4"
           },
           {
@@ -2327,8 +2327,8 @@
           {
             "name": "Ruba d6d4",
             "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
+            "record": "0-0-1",
+            "win_rate": "50.0%",
             "name_en": "Ruba d6d4"
           }
         ]
