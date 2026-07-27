@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T15:02:37.416Z",
+  "last_updated": "2026-07-27T15:07:20.992Z",
   "players": [
     {
       "rank": 1,
@@ -502,7 +502,7 @@
     {
       "rank": 3,
       "name": "つかぽん",
-      "rating": 628,
+      "rating": 637,
       "current_points": 25,
       "league": {
         "rank": 3,
@@ -512,13 +512,20 @@
         "join_pt": 100
       },
       "stats": {
-        "total_matches": 28,
-        "win_rate": "55.4%",
-        "record": "15-12-1",
-        "high_low": "632 / 582",
-        "average": "2.244",
+        "total_matches": 29,
+        "win_rate": "56.9%",
+        "record": "16-12-1",
+        "high_low": "637 / 582",
+        "average": "2.262",
         "high_run": 14,
         "recent_matches": [
+          {
+            "date": "07/28",
+            "opponent": "kinkus",
+            "result": "25-16(○)",
+            "change": "+9.0",
+            "opponent_en": "kinkus"
+          },
           {
             "date": "07/26",
             "opponent": "int mint",
@@ -581,13 +588,6 @@
             "result": "21-25(×)",
             "change": "-9.8",
             "opponent_en": "Don Matty"
-          },
-          {
-            "date": "07/14",
-            "opponent": "Ninohito",
-            "result": "25-5(○)",
-            "change": "+9.8",
-            "opponent_en": "Ninohito"
           }
         ],
         "opponents": [
@@ -695,6 +695,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "Don Matty"
+          },
+          {
+            "name": "kinkus",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "kinkus"
           }
         ]
       },
@@ -2327,6 +2334,39 @@
         ]
       },
       "name_en": "Alte"
+    },
+    {
+      "rank": 9999,
+      "name": "kinkus",
+      "rating": 591,
+      "current_points": 25,
+      "stats": {
+        "total_matches": 1,
+        "win_rate": "0.0%",
+        "record": "0-1-0",
+        "high_low": "600 / 591",
+        "average": "1.778",
+        "high_run": 6,
+        "recent_matches": [
+          {
+            "date": "07/28",
+            "opponent": "つかぽん",
+            "result": "16-25(×)",
+            "change": "-9.0",
+            "opponent_en": "Tsukapon"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "つかぽん",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Tsukapon"
+          }
+        ]
+      },
+      "name_en": "kinkus"
     }
   ]
 }
