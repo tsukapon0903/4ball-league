@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T15:24:50.967Z",
+  "last_updated": "2026-07-28T15:57:58.170Z",
   "players": [
     {
       "rank": 1,
@@ -169,14 +169,222 @@
     },
     {
       "rank": 2,
+      "name": "つかぽん",
+      "rating": 664,
+      "current_points": 25,
+      "league": {
+        "rank": 2,
+        "total_score": 88.5,
+        "win_pt": 80,
+        "growth_pt": 90,
+        "join_pt": 100
+      },
+      "stats": {
+        "total_matches": 32,
+        "win_rate": "60.9%",
+        "record": "19-12-1",
+        "high_low": "664 / 582",
+        "average": "2.325",
+        "high_run": 14,
+        "recent_matches": [
+          {
+            "date": "07/29",
+            "opponent": "あらたつ",
+            "result": "25-23(○)",
+            "change": "+12.1",
+            "opponent_en": "Aratatsu"
+          },
+          {
+            "date": "07/29",
+            "opponent": "しそ",
+            "result": "25-20(○)",
+            "change": "+7.1",
+            "opponent_en": "Shiso"
+          },
+          {
+            "date": "07/28",
+            "opponent": "しそ",
+            "result": "25-12(○)",
+            "change": "+7.6",
+            "opponent_en": "Shiso"
+          },
+          {
+            "date": "07/28",
+            "opponent": "kinkus",
+            "result": "25-16(○)",
+            "change": "+9.0",
+            "opponent_en": "kinkus"
+          },
+          {
+            "date": "07/26",
+            "opponent": "int mint",
+            "result": "25-1(○)",
+            "change": "+10.1",
+            "opponent_en": "int mint"
+          },
+          {
+            "date": "07/23",
+            "opponent": "しそ",
+            "result": "24-20(×)",
+            "change": "-12.5",
+            "opponent_en": "Shiso"
+          },
+          {
+            "date": "07/22",
+            "opponent": "Ninohito",
+            "result": "25-12(○)",
+            "change": "+8.3",
+            "opponent_en": "Ninohito"
+          },
+          {
+            "date": "07/22",
+            "opponent": "Ruba d6d4",
+            "result": "10-30(×)",
+            "change": "-9.7",
+            "opponent_en": "Ruba d6d4"
+          },
+          {
+            "date": "07/20",
+            "opponent": "ももかげ",
+            "result": "25-14(○)",
+            "change": "+8.9",
+            "opponent_en": "Momokage"
+          },
+          {
+            "date": "07/19",
+            "opponent": "int mint",
+            "result": "25-12(○)",
+            "change": "+10.9",
+            "opponent_en": "int mint"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "しそ",
+            "matches": 5,
+            "record": "2-3-0",
+            "win_rate": "40.0%",
+            "name_en": "Shiso"
+          },
+          {
+            "name": "int mint",
+            "matches": 3,
+            "record": "2-1-0",
+            "win_rate": "66.7%",
+            "name_en": "int mint"
+          },
+          {
+            "name": "トリプルセブン",
+            "matches": 3,
+            "record": "2-1-0",
+            "win_rate": "66.7%",
+            "name_en": "TripleSeven"
+          },
+          {
+            "name": "Ruba d6d4",
+            "matches": 3,
+            "record": "0-2-1",
+            "win_rate": "16.7%",
+            "name_en": "Ruba d6d4"
+          },
+          {
+            "name": "kuu00",
+            "matches": 3,
+            "record": "2-1-0",
+            "win_rate": "66.7%",
+            "name_en": "kuu00"
+          },
+          {
+            "name": "あらたつ",
+            "matches": 2,
+            "record": "2-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Aratatsu"
+          },
+          {
+            "name": "ももかげ",
+            "matches": 2,
+            "record": "1-1-0",
+            "win_rate": "50.0%",
+            "name_en": "Momokage"
+          },
+          {
+            "name": "音痴 onti",
+            "matches": 2,
+            "record": "1-1-0",
+            "win_rate": "50.0%",
+            "name_en": "Onti"
+          },
+          {
+            "name": "Ninohito",
+            "matches": 2,
+            "record": "2-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Ninohito"
+          },
+          {
+            "name": "edamame3tubu",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "edamame3tubu"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "eijis"
+          },
+          {
+            "name": "keitti",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "keitti"
+          },
+          {
+            "name": "リココ_VRC",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": ""
+          },
+          {
+            "name": "pen",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "pen"
+          },
+          {
+            "name": "Don Matty",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Don Matty"
+          },
+          {
+            "name": "kinkus",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "kinkus"
+          }
+        ]
+      },
+      "name_en": "Tsukapon"
+    },
+    {
+      "rank": 3,
       "name": "トリプルセブン",
       "rating": 558,
       "current_points": 20,
       "league": {
-        "rank": 2,
-        "total_score": 88,
+        "rank": 3,
+        "total_score": 86.3,
         "win_pt": 85,
-        "growth_pt": 90,
+        "growth_pt": 85,
         "join_pt": 90
       },
       "stats": {
@@ -346,214 +554,6 @@
         ]
       },
       "name_en": "TripleSeven"
-    },
-    {
-      "rank": 3,
-      "name": "つかぽん",
-      "rating": 652,
-      "current_points": 25,
-      "league": {
-        "rank": 3,
-        "total_score": 86.8,
-        "win_pt": 80,
-        "growth_pt": 85,
-        "join_pt": 100
-      },
-      "stats": {
-        "total_matches": 31,
-        "win_rate": "59.7%",
-        "record": "18-12-1",
-        "high_low": "652 / 582",
-        "average": "2.311",
-        "high_run": 14,
-        "recent_matches": [
-          {
-            "date": "07/29",
-            "opponent": "しそ",
-            "result": "25-20(○)",
-            "change": "+7.1",
-            "opponent_en": "Shiso"
-          },
-          {
-            "date": "07/28",
-            "opponent": "しそ",
-            "result": "25-12(○)",
-            "change": "+7.6",
-            "opponent_en": "Shiso"
-          },
-          {
-            "date": "07/28",
-            "opponent": "kinkus",
-            "result": "25-16(○)",
-            "change": "+9.0",
-            "opponent_en": "kinkus"
-          },
-          {
-            "date": "07/26",
-            "opponent": "int mint",
-            "result": "25-1(○)",
-            "change": "+10.1",
-            "opponent_en": "int mint"
-          },
-          {
-            "date": "07/23",
-            "opponent": "しそ",
-            "result": "24-20(×)",
-            "change": "-12.5",
-            "opponent_en": "Shiso"
-          },
-          {
-            "date": "07/22",
-            "opponent": "Ninohito",
-            "result": "25-12(○)",
-            "change": "+8.3",
-            "opponent_en": "Ninohito"
-          },
-          {
-            "date": "07/22",
-            "opponent": "Ruba d6d4",
-            "result": "10-30(×)",
-            "change": "-9.7",
-            "opponent_en": "Ruba d6d4"
-          },
-          {
-            "date": "07/20",
-            "opponent": "ももかげ",
-            "result": "25-14(○)",
-            "change": "+8.9",
-            "opponent_en": "Momokage"
-          },
-          {
-            "date": "07/19",
-            "opponent": "int mint",
-            "result": "25-12(○)",
-            "change": "+10.9",
-            "opponent_en": "int mint"
-          },
-          {
-            "date": "07/19",
-            "opponent": "音痴 onti",
-            "result": "25-18(○)",
-            "change": "+9.6",
-            "opponent_en": "Onti"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "しそ",
-            "matches": 5,
-            "record": "2-3-0",
-            "win_rate": "40.0%",
-            "name_en": "Shiso"
-          },
-          {
-            "name": "int mint",
-            "matches": 3,
-            "record": "2-1-0",
-            "win_rate": "66.7%",
-            "name_en": "int mint"
-          },
-          {
-            "name": "トリプルセブン",
-            "matches": 3,
-            "record": "2-1-0",
-            "win_rate": "66.7%",
-            "name_en": "TripleSeven"
-          },
-          {
-            "name": "Ruba d6d4",
-            "matches": 3,
-            "record": "0-2-1",
-            "win_rate": "16.7%",
-            "name_en": "Ruba d6d4"
-          },
-          {
-            "name": "kuu00",
-            "matches": 3,
-            "record": "2-1-0",
-            "win_rate": "66.7%",
-            "name_en": "kuu00"
-          },
-          {
-            "name": "ももかげ",
-            "matches": 2,
-            "record": "1-1-0",
-            "win_rate": "50.0%",
-            "name_en": "Momokage"
-          },
-          {
-            "name": "音痴 onti",
-            "matches": 2,
-            "record": "1-1-0",
-            "win_rate": "50.0%",
-            "name_en": "Onti"
-          },
-          {
-            "name": "Ninohito",
-            "matches": 2,
-            "record": "2-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Ninohito"
-          },
-          {
-            "name": "あらたつ",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Aratatsu"
-          },
-          {
-            "name": "edamame3tubu",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "edamame3tubu"
-          },
-          {
-            "name": "eijis",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "eijis"
-          },
-          {
-            "name": "keitti",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "keitti"
-          },
-          {
-            "name": "リココ_VRC",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": ""
-          },
-          {
-            "name": "pen",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "pen"
-          },
-          {
-            "name": "Don Matty",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "Don Matty"
-          },
-          {
-            "name": "kinkus",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "kinkus"
-          }
-        ]
-      },
-      "name_en": "Tsukapon"
     },
     {
       "rank": 4,
@@ -1107,9 +1107,9 @@
       "current_points": 16,
       "league": {
         "rank": 8,
-        "total_score": 61.5,
+        "total_score": 63.3,
         "win_pt": 60,
-        "growth_pt": 50,
+        "growth_pt": 55,
         "join_pt": 80
       },
       "stats": {
@@ -1360,7 +1360,7 @@
             "date": "07/04",
             "opponent": "音痴 onti",
             "result": "25-16(○)",
-            "change": "+10.6",
+            "change": "+10.5",
             "opponent_en": "Onti"
           }
         ],
@@ -1545,23 +1545,30 @@
     {
       "rank": 11,
       "name": "あらたつ",
-      "rating": 538,
+      "rating": 526,
       "current_points": 25,
       "league": {
         "rank": 11,
-        "total_score": 52.3,
+        "total_score": 51.8,
         "win_pt": 45,
-        "growth_pt": 55,
-        "join_pt": 60
+        "growth_pt": 50,
+        "join_pt": 65
       },
       "stats": {
-        "total_matches": 11,
-        "win_rate": "18.2%",
-        "record": "2-9-0",
-        "high_low": "600 / 538",
-        "average": "1.367",
+        "total_matches": 12,
+        "win_rate": "16.7%",
+        "record": "2-10-0",
+        "high_low": "600 / 526",
+        "average": "1.467",
         "high_run": 8,
         "recent_matches": [
+          {
+            "date": "07/29",
+            "opponent": "つかぽん",
+            "result": "23-25(×)",
+            "change": "-12.1",
+            "opponent_en": "Tsukapon"
+          },
           {
             "date": "07/28",
             "opponent": "トリプルセブン",
@@ -1624,13 +1631,6 @@
             "result": "25-22(○)",
             "change": "+10.0",
             "opponent_en": "int mint"
-          },
-          {
-            "date": "06/22",
-            "opponent": "つかぽん",
-            "result": "14-25(×)",
-            "change": "-9.6",
-            "opponent_en": "Tsukapon"
           }
         ],
         "opponents": [
@@ -1640,6 +1640,13 @@
             "record": "0-3-0",
             "win_rate": "0.0%",
             "name_en": "TripleSeven"
+          },
+          {
+            "name": "つかぽん",
+            "matches": 2,
+            "record": "0-2-0",
+            "win_rate": "0.0%",
+            "name_en": "Tsukapon"
           },
           {
             "name": "Ruba d6d4",
@@ -1654,13 +1661,6 @@
             "record": "1-1-0",
             "win_rate": "50.0%",
             "name_en": "Ninohito"
-          },
-          {
-            "name": "つかぽん",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "Tsukapon"
           },
           {
             "name": "int mint",
@@ -2152,7 +2152,7 @@
             "date": "07/04",
             "opponent": "int mint",
             "result": "16-25(×)",
-            "change": "-10.6",
+            "change": "-10.5",
             "opponent_en": "int mint"
           }
         ],
