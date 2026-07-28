@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T16:09:45.226Z",
+  "last_updated": "2026-07-28T14:44:54.647Z",
   "players": [
     {
       "rank": 1,
@@ -46,14 +46,14 @@
             "date": "07/17",
             "opponent": "星さん［Hoshi-san］",
             "result": "30-14(○)",
-            "change": "+8.3",
+            "change": "+8.2",
             "opponent_en": ""
           },
           {
             "date": "07/16",
             "opponent": "あらたつ",
             "result": "30-3(○)",
-            "change": "+7.6",
+            "change": "+7.5",
             "opponent_en": "Aratatsu"
           },
           {
@@ -88,7 +88,7 @@
             "date": "07/07",
             "opponent": "トリプルセブン",
             "result": "30-5(○)",
-            "change": "+11.1",
+            "change": "+11.0",
             "opponent_en": "TripleSeven"
           }
         ],
@@ -226,7 +226,7 @@
             "date": "07/13",
             "opponent": "int mint",
             "result": "20-23(○)",
-            "change": "+8.9",
+            "change": "+8.8",
             "opponent_en": "int mint"
           },
           {
@@ -247,7 +247,7 @@
             "date": "07/09",
             "opponent": "eijis",
             "result": "20-17(○)",
-            "change": "+9.2",
+            "change": "+9.1",
             "opponent_en": "eijis"
           },
           {
@@ -350,7 +350,7 @@
     {
       "rank": 3,
       "name": "しそ",
-      "rating": 566,
+      "rating": 558,
       "current_points": 25,
       "league": {
         "rank": 3,
@@ -360,13 +360,20 @@
         "join_pt": 70
       },
       "stats": {
-        "total_matches": 13,
-        "win_rate": "76.9%",
-        "record": "10-3-0",
+        "total_matches": 14,
+        "win_rate": "71.4%",
+        "record": "10-4-0",
         "high_low": "566 / 500",
-        "average": "1.983",
+        "average": "1.952",
         "high_run": 12,
         "recent_matches": [
+          {
+            "date": "07/28",
+            "opponent": "つかぽん",
+            "result": "12-25(×)",
+            "change": "-7.6",
+            "opponent_en": "Tsukapon"
+          },
           {
             "date": "07/23",
             "opponent": "つかぽん",
@@ -427,23 +434,16 @@
             "date": "06/23",
             "opponent": "int mint",
             "result": "14-25(×)",
-            "change": "-10.2",
+            "change": "-10.1",
             "opponent_en": "int mint"
-          },
-          {
-            "date": "06/22",
-            "opponent": "eijis",
-            "result": "20-7(○)",
-            "change": "+9.1",
-            "opponent_en": "eijis"
           }
         ],
         "opponents": [
           {
             "name": "つかぽん",
-            "matches": 3,
-            "record": "3-0-0",
-            "win_rate": "100.0%",
+            "matches": 4,
+            "record": "3-1-0",
+            "win_rate": "75.0%",
             "name_en": "Tsukapon"
           },
           {
@@ -502,7 +502,7 @@
     {
       "rank": 3,
       "name": "つかぽん",
-      "rating": 637,
+      "rating": 645,
       "current_points": 25,
       "league": {
         "rank": 3,
@@ -512,13 +512,20 @@
         "join_pt": 100
       },
       "stats": {
-        "total_matches": 29,
-        "win_rate": "56.9%",
-        "record": "16-12-1",
-        "high_low": "637 / 582",
-        "average": "2.262",
+        "total_matches": 30,
+        "win_rate": "58.3%",
+        "record": "17-12-1",
+        "high_low": "645 / 582",
+        "average": "2.287",
         "high_run": 14,
         "recent_matches": [
+          {
+            "date": "07/28",
+            "opponent": "しそ",
+            "result": "25-12(○)",
+            "change": "+7.6",
+            "opponent_en": "Shiso"
+          },
           {
             "date": "07/28",
             "opponent": "kinkus",
@@ -581,21 +588,14 @@
             "result": "25-8(○)",
             "change": "+10.2",
             "opponent_en": "kuu00"
-          },
-          {
-            "date": "07/15",
-            "opponent": "Don Matty",
-            "result": "21-25(×)",
-            "change": "-9.8",
-            "opponent_en": "Don Matty"
           }
         ],
         "opponents": [
           {
             "name": "しそ",
-            "matches": 3,
-            "record": "0-3-0",
-            "win_rate": "0.0%",
+            "matches": 4,
+            "record": "1-3-0",
+            "win_rate": "25.0%",
             "name_en": "Shiso"
           },
           {
@@ -780,7 +780,7 @@
             "date": "07/06",
             "opponent": "int mint",
             "result": "25-7(○)",
-            "change": "+8.9",
+            "change": "+8.8",
             "opponent_en": "int mint"
           },
           {
@@ -890,7 +890,7 @@
             "date": "07/13",
             "opponent": "pen",
             "result": "19-25(×)",
-            "change": "-10.0",
+            "change": "-9.9",
             "opponent_en": "pen"
           },
           {
@@ -911,7 +911,7 @@
             "date": "07/09",
             "opponent": "つかぽん",
             "result": "25-19(○)",
-            "change": "+9.1",
+            "change": "+9.0",
             "opponent_en": "Tsukapon"
           },
           {
@@ -1028,7 +1028,7 @@
             "date": "07/09",
             "opponent": "トリプルセブン",
             "result": "17-20(×)",
-            "change": "-9.2",
+            "change": "-9.1",
             "opponent_en": "TripleSeven"
           },
           {
@@ -1180,7 +1180,7 @@
             "date": "07/24",
             "opponent": "あらたつ",
             "result": "10-20(×)",
-            "change": "-9.0",
+            "change": "-8.9",
             "opponent_en": "Aratatsu"
           },
           {
@@ -1304,7 +1304,7 @@
             "date": "07/13",
             "opponent": "トリプルセブン",
             "result": "23-20(×)",
-            "change": "-8.9",
+            "change": "-8.8",
             "opponent_en": "TripleSeven"
           },
           {
@@ -1325,7 +1325,7 @@
             "date": "07/06",
             "opponent": "edamame3tubu",
             "result": "7-25(×)",
-            "change": "-8.9",
+            "change": "-8.8",
             "opponent_en": "edamame3tubu"
           },
           {
@@ -1449,14 +1449,14 @@
             "date": "07/24",
             "opponent": "Ninohito",
             "result": "20-10(○)",
-            "change": "+9.0",
+            "change": "+8.9",
             "opponent_en": "Ninohito"
           },
           {
             "date": "07/16",
             "opponent": "Ruba d6d4",
             "result": "3-30(×)",
-            "change": "-7.6",
+            "change": "-7.5",
             "opponent_en": "Ruba d6d4"
           },
           {
@@ -1688,13 +1688,13 @@
     {
       "rank": 9999,
       "name": "keitti",
-      "rating": 520,
+      "rating": 519,
       "current_points": 20,
       "stats": {
         "total_matches": 4,
         "win_rate": "75.0%",
         "record": "3-1-0",
-        "high_low": "520 / 500",
+        "high_low": "519 / 500",
         "average": "1.610",
         "high_run": 6,
         "recent_matches": [
@@ -1831,14 +1831,14 @@
             "date": "07/13",
             "opponent": "つかぽん",
             "result": "25-13(○)",
-            "change": "+8.9",
+            "change": "+8.8",
             "opponent_en": "Tsukapon"
           },
           {
             "date": "07/13",
             "opponent": "kuu00",
             "result": "25-19(○)",
-            "change": "+10.0",
+            "change": "+9.9",
             "opponent_en": "kuu00"
           },
           {
@@ -2014,7 +2014,7 @@
             "date": "07/04",
             "opponent": "つかぽん",
             "result": "20-17(○)",
-            "change": "+10.1",
+            "change": "+10.0",
             "opponent_en": "Tsukapon"
           },
           {
@@ -2141,7 +2141,7 @@
             "date": "07/17",
             "opponent": "Ruba d6d4",
             "result": "14-30(×)",
-            "change": "-8.3",
+            "change": "-8.2",
             "opponent_en": "Ruba d6d4"
           },
           {
@@ -2188,7 +2188,7 @@
             "date": "07/21",
             "opponent": "Alte",
             "result": "11-25(×)",
-            "change": "-10.2",
+            "change": "-10.1",
             "opponent_en": "Alte"
           },
           {
@@ -2277,7 +2277,7 @@
             "date": "07/21",
             "opponent": "96onE",
             "result": "25-11(○)",
-            "change": "+10.2",
+            "change": "+10.1",
             "opponent_en": "96onE"
           },
           {
