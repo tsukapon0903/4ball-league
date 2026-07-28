@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T14:44:54.647Z",
+  "last_updated": "2026-07-28T15:16:00.070Z",
   "players": [
     {
       "rank": 1,
@@ -170,7 +170,7 @@
     {
       "rank": 2,
       "name": "トリプルセブン",
-      "rating": 549,
+      "rating": 558,
       "current_points": 20,
       "league": {
         "rank": 2,
@@ -180,13 +180,20 @@
         "join_pt": 90
       },
       "stats": {
-        "total_matches": 21,
-        "win_rate": "61.9%",
-        "record": "13-8-0",
-        "high_low": "549 / 453",
-        "average": "2.059",
+        "total_matches": 22,
+        "win_rate": "63.6%",
+        "record": "14-8-0",
+        "high_low": "558 / 453",
+        "average": "2.022",
         "high_run": 18,
         "recent_matches": [
+          {
+            "date": "07/29",
+            "opponent": "int mint",
+            "result": "20-7(○)",
+            "change": "+8.8",
+            "opponent_en": "int mint"
+          },
           {
             "date": "07/28",
             "opponent": "あらたつ",
@@ -249,13 +256,6 @@
             "result": "20-17(○)",
             "change": "+9.1",
             "opponent_en": "eijis"
-          },
-          {
-            "date": "07/09",
-            "opponent": "あらたつ",
-            "result": "20-6(○)",
-            "change": "+9.2",
-            "opponent_en": "Aratatsu"
           }
         ],
         "opponents": [
@@ -295,6 +295,13 @@
             "name_en": "kuu00"
           },
           {
+            "name": "int mint",
+            "matches": 2,
+            "record": "2-0-0",
+            "win_rate": "100.0%",
+            "name_en": "int mint"
+          },
+          {
             "name": "keitti",
             "matches": 1,
             "record": "0-1-0",
@@ -314,13 +321,6 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "Ruba d6d4"
-          },
-          {
-            "name": "int mint",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "int mint"
           },
           {
             "name": "星さん［Hoshi-san］",
@@ -1255,7 +1255,7 @@
     {
       "rank": 9,
       "name": "int mint",
-      "rating": 515,
+      "rating": 506,
       "current_points": 20,
       "league": {
         "rank": 9,
@@ -1265,13 +1265,20 @@
         "join_pt": 75
       },
       "stats": {
-        "total_matches": 17,
-        "win_rate": "20.6%",
-        "record": "3-13-1",
-        "high_low": "600 / 515",
-        "average": "1.840",
+        "total_matches": 18,
+        "win_rate": "19.4%",
+        "record": "3-14-1",
+        "high_low": "600 / 506",
+        "average": "1.740",
         "high_run": 18,
         "recent_matches": [
+          {
+            "date": "07/29",
+            "opponent": "トリプルセブン",
+            "result": "7-20(×)",
+            "change": "-8.8",
+            "opponent_en": "TripleSeven"
+          },
           {
             "date": "07/26",
             "opponent": "つかぽん",
@@ -1334,13 +1341,6 @@
             "result": "25-16(○)",
             "change": "+10.6",
             "opponent_en": "Onti"
-          },
-          {
-            "date": "07/03",
-            "opponent": "Ruba d6d4",
-            "result": "19-25(×)",
-            "change": "-7.5",
-            "opponent_en": "Ruba d6d4"
           }
         ],
         "opponents": [
@@ -1366,6 +1366,13 @@
             "name_en": "edamame3tubu"
           },
           {
+            "name": "トリプルセブン",
+            "matches": 2,
+            "record": "0-2-0",
+            "win_rate": "0.0%",
+            "name_en": "TripleSeven"
+          },
+          {
             "name": "あらたつ",
             "matches": 1,
             "record": "0-1-0",
@@ -1385,13 +1392,6 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "Onti"
-          },
-          {
-            "name": "トリプルセブン",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "TripleSeven"
           },
           {
             "name": "pen",
