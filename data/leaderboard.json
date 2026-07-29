@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T16:50:27.310Z",
+  "last_updated": "2026-07-29T15:28:09.285Z",
   "players": [
     {
       "rank": 1,
@@ -170,7 +170,7 @@
     {
       "rank": 2,
       "name": "つかぽん",
-      "rating": 664,
+      "rating": 675,
       "current_points": 25,
       "league": {
         "rank": 2,
@@ -180,13 +180,20 @@
         "join_pt": 100
       },
       "stats": {
-        "total_matches": 32,
-        "win_rate": "60.9%",
-        "record": "19-12-1",
-        "high_low": "664 / 582",
-        "average": "2.325",
+        "total_matches": 33,
+        "win_rate": "62.1%",
+        "record": "20-12-1",
+        "high_low": "675 / 582",
+        "average": "2.378",
         "high_run": 14,
         "recent_matches": [
+          {
+            "date": "07/30",
+            "opponent": "Ninohito",
+            "result": "25-4(○)",
+            "change": "+11.0",
+            "opponent_en": "Ninohito"
+          },
           {
             "date": "07/29",
             "opponent": "あらたつ",
@@ -219,7 +226,7 @@
             "date": "07/26",
             "opponent": "int mint",
             "result": "25-1(○)",
-            "change": "+10.1",
+            "change": "+10.0",
             "opponent_en": "int mint"
           },
           {
@@ -247,15 +254,8 @@
             "date": "07/20",
             "opponent": "ももかげ",
             "result": "25-14(○)",
-            "change": "+8.9",
+            "change": "+8.8",
             "opponent_en": "Momokage"
-          },
-          {
-            "date": "07/19",
-            "opponent": "int mint",
-            "result": "25-12(○)",
-            "change": "+10.8",
-            "opponent_en": "int mint"
           }
         ],
         "opponents": [
@@ -295,6 +295,13 @@
             "name_en": "kuu00"
           },
           {
+            "name": "Ninohito",
+            "matches": 3,
+            "record": "3-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Ninohito"
+          },
+          {
             "name": "あらたつ",
             "matches": 2,
             "record": "2-0-0",
@@ -314,13 +321,6 @@
             "record": "1-1-0",
             "win_rate": "50.0%",
             "name_en": "Onti"
-          },
-          {
-            "name": "Ninohito",
-            "matches": 2,
-            "record": "2-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Ninohito"
           },
           {
             "name": "edamame3tubu",
@@ -420,7 +420,7 @@
             "date": "07/20",
             "opponent": "96onE",
             "result": "20-6(○)",
-            "change": "+9.6",
+            "change": "+9.5",
             "opponent_en": "96onE"
           },
           {
@@ -558,7 +558,7 @@
     {
       "rank": 4,
       "name": "しそ",
-      "rating": 543,
+      "rating": 539,
       "current_points": 25,
       "league": {
         "rank": 4,
@@ -579,7 +579,7 @@
             "date": "07/29",
             "opponent": "Alte",
             "result": "10-25(×)",
-            "change": "-8.3",
+            "change": "-11.6",
             "opponent_en": "Alte"
           },
           {
@@ -717,7 +717,7 @@
     {
       "rank": 5,
       "name": "Alte",
-      "rating": 610,
+      "rating": 613,
       "current_points": 25,
       "league": {
         "rank": 5,
@@ -730,7 +730,7 @@
         "total_matches": 9,
         "win_rate": "55.6%",
         "record": "4-3-2",
-        "high_low": "610 / 590",
+        "high_low": "613 / 590",
         "average": "2.231",
         "high_run": 16,
         "recent_matches": [
@@ -738,7 +738,7 @@
             "date": "07/29",
             "opponent": "しそ",
             "result": "25-10(○)",
-            "change": "+8.3",
+            "change": "+11.6",
             "opponent_en": "Shiso"
           },
           {
@@ -766,7 +766,7 @@
             "date": "07/27",
             "opponent": "Ninohito",
             "result": "25-14(△)",
-            "change": "+0.2",
+            "change": "+0.3",
             "opponent_en": "Ninohito"
           },
           {
@@ -794,7 +794,7 @@
             "date": "07/21",
             "opponent": "ももかげ",
             "result": "10-16(×)",
-            "change": "-10.4",
+            "change": "-10.3",
             "opponent_en": "Momokage"
           }
         ],
@@ -875,7 +875,7 @@
         "total_matches": 12,
         "win_rate": "50.0%",
         "record": "5-5-2",
-        "high_low": "625 / 589",
+        "high_low": "624 / 589",
         "average": "2.367",
         "high_run": 14,
         "recent_matches": [
@@ -911,14 +911,14 @@
             "date": "07/09",
             "opponent": "eijis",
             "result": "25-8(○)",
-            "change": "+9.1",
+            "change": "+9.0",
             "opponent_en": "eijis"
           },
           {
             "date": "07/06",
             "opponent": "トリプルセブン",
             "result": "25-16(○)",
-            "change": "+8.7",
+            "change": "+8.6",
             "opponent_en": "TripleSeven"
           },
           {
@@ -1028,7 +1028,7 @@
             "date": "07/16",
             "opponent": "つかぽん",
             "result": "8-25(×)",
-            "change": "-10.2",
+            "change": "-10.1",
             "opponent_en": "Tsukapon"
           },
           {
@@ -1137,7 +1137,7 @@
         "total_matches": 17,
         "win_rate": "26.5%",
         "record": "4-12-1",
-        "high_low": "500 / 419",
+        "high_low": "500 / 420",
         "average": "1.142",
         "high_run": 9,
         "recent_matches": [
@@ -1187,7 +1187,7 @@
             "date": "07/09",
             "opponent": "edamame3tubu",
             "result": "8-25(×)",
-            "change": "-9.1",
+            "change": "-9.0",
             "opponent_en": "edamame3tubu"
           },
           {
@@ -1301,8 +1301,8 @@
       "current_points": 20,
       "league": {
         "rank": 9,
-        "total_score": 54.5,
-        "win_pt": 50,
+        "total_score": 56.5,
+        "win_pt": 55,
         "growth_pt": 45,
         "join_pt": 75
       },
@@ -1325,7 +1325,7 @@
             "date": "07/26",
             "opponent": "つかぽん",
             "result": "1-25(×)",
-            "change": "-10.1",
+            "change": "-10.0",
             "opponent_en": "Tsukapon"
           },
           {
@@ -1456,35 +1456,42 @@
     {
       "rank": 10,
       "name": "Ninohito",
-      "rating": 364,
+      "rating": 353,
       "current_points": 14,
       "league": {
         "rank": 10,
-        "total_score": 54.3,
-        "win_pt": 55,
+        "total_score": 53.5,
+        "win_pt": 50,
         "growth_pt": 60,
-        "join_pt": 45
+        "join_pt": 50
       },
       "stats": {
-        "total_matches": 7,
-        "win_rate": "21.4%",
-        "record": "1-5-1",
-        "high_low": "400 / 356",
-        "average": "1.138",
+        "total_matches": 8,
+        "win_rate": "18.8%",
+        "record": "1-6-1",
+        "high_low": "400 / 353",
+        "average": "1.130",
         "high_run": 6,
         "recent_matches": [
+          {
+            "date": "07/30",
+            "opponent": "つかぽん",
+            "result": "4-25(×)",
+            "change": "-11.0",
+            "opponent_en": "Tsukapon"
+          },
           {
             "date": "07/27",
             "opponent": "あらたつ",
             "result": "14-9(○)",
-            "change": "+8.3",
+            "change": "+8.2",
             "opponent_en": "Aratatsu"
           },
           {
             "date": "07/27",
             "opponent": "Alte",
             "result": "14-25(△)",
-            "change": "-0.2",
+            "change": "-0.3",
             "opponent_en": "Alte"
           },
           {
@@ -1519,15 +1526,15 @@
             "date": "07/14",
             "opponent": "つかぽん",
             "result": "5-25(×)",
-            "change": "-9.8",
+            "change": "-9.7",
             "opponent_en": "Tsukapon"
           }
         ],
         "opponents": [
           {
             "name": "つかぽん",
-            "matches": 2,
-            "record": "0-2-0",
+            "matches": 3,
+            "record": "0-3-0",
             "win_rate": "0.0%",
             "name_en": "Tsukapon"
           },
@@ -1601,7 +1608,7 @@
             "date": "07/27",
             "opponent": "Ninohito",
             "result": "9-14(×)",
-            "change": "-8.3",
+            "change": "-8.2",
             "opponent_en": "Ninohito"
           },
           {
@@ -1650,7 +1657,7 @@
             "date": "06/22",
             "opponent": "int mint",
             "result": "25-22(○)",
-            "change": "+10.0",
+            "change": "+9.9",
             "opponent_en": "int mint"
           }
         ],
@@ -1772,14 +1779,14 @@
             "date": "07/21",
             "opponent": "Alte",
             "result": "16-10(○)",
-            "change": "+10.4",
+            "change": "+10.3",
             "opponent_en": "Alte"
           },
           {
             "date": "07/20",
             "opponent": "つかぽん",
             "result": "14-25(×)",
-            "change": "-8.9",
+            "change": "-8.8",
             "opponent_en": "Tsukapon"
           },
           {
@@ -1868,7 +1875,7 @@
             "date": "06/25",
             "opponent": "xantoz",
             "result": "20-7(○)",
-            "change": "+9.0",
+            "change": "+8.9",
             "opponent_en": "xantoz"
           },
           {
@@ -1936,7 +1943,7 @@
             "date": "06/25",
             "opponent": "keitti",
             "result": "7-20(×)",
-            "change": "-9.0",
+            "change": "-8.9",
             "opponent_en": "keitti"
           }
         ],
@@ -2051,13 +2058,13 @@
     {
       "rank": 9999,
       "name": "やまだはるか",
-      "rating": 382,
+      "rating": 383,
       "current_points": 16,
       "stats": {
         "total_matches": 3,
         "win_rate": "16.7%",
         "record": "0-2-1",
-        "high_low": "400 / 382",
+        "high_low": "400 / 383",
         "average": "0.875",
         "high_run": 5,
         "recent_matches": [
@@ -2213,7 +2220,7 @@
             "date": "07/10",
             "opponent": "つかぽん",
             "result": "6-25(×)",
-            "change": "-9.8",
+            "change": "-9.7",
             "opponent_en": "Tsukapon"
           },
           {
@@ -2347,7 +2354,7 @@
             "date": "07/20",
             "opponent": "トリプルセブン",
             "result": "6-20(×)",
-            "change": "-9.6",
+            "change": "-9.5",
             "opponent_en": "TripleSeven"
           },
           {
