@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T15:18:54.395Z",
+  "last_updated": "2026-07-30T15:30:40.451Z",
   "players": [
     {
       "rank": 1,
@@ -866,10 +866,10 @@
       "current_points": 25,
       "league": {
         "rank": 6,
-        "total_score": 67,
+        "total_score": 65.8,
         "win_pt": 70,
         "growth_pt": 65,
-        "join_pt": 65
+        "join_pt": 60
       },
       "stats": {
         "total_matches": 12,
@@ -1128,9 +1128,9 @@
       "current_points": 16,
       "league": {
         "rank": 8,
-        "total_score": 62,
+        "total_score": 60.3,
         "win_pt": 60,
-        "growth_pt": 55,
+        "growth_pt": 50,
         "join_pt": 75
       },
       "stats": {
@@ -1456,23 +1456,30 @@
     {
       "rank": 10,
       "name": "あらたつ",
-      "rating": 526,
+      "rating": 535,
       "current_points": 25,
       "league": {
         "rank": 10,
-        "total_score": 53.8,
+        "total_score": 55.5,
         "win_pt": 50,
-        "growth_pt": 50,
+        "growth_pt": 55,
         "join_pt": 65
       },
       "stats": {
-        "total_matches": 12,
-        "win_rate": "16.7%",
-        "record": "2-10-0",
+        "total_matches": 13,
+        "win_rate": "23.1%",
+        "record": "3-10-0",
         "high_low": "600 / 526",
-        "average": "1.467",
+        "average": "1.517",
         "high_run": 8,
         "recent_matches": [
+          {
+            "date": "07/31",
+            "opponent": "リココ_VRC",
+            "result": "25-7(○)",
+            "change": "+8.7",
+            "opponent_en": ""
+          },
           {
             "date": "07/29",
             "opponent": "つかぽん",
@@ -1535,13 +1542,6 @@
             "result": "14-25(×)",
             "change": "-9.1",
             "opponent_en": "pen"
-          },
-          {
-            "date": "06/22",
-            "opponent": "int mint",
-            "result": "25-22(○)",
-            "change": "+9.9",
-            "opponent_en": "int mint"
           }
         ],
         "opponents": [
@@ -1593,6 +1593,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "kuu00"
+          },
+          {
+            "name": "リココ_VRC",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": ""
           }
         ]
       },
@@ -1605,8 +1612,8 @@
       "current_points": 14,
       "league": {
         "rank": 11,
-        "total_score": 53.5,
-        "win_pt": 50,
+        "total_score": 51.5,
+        "win_pt": 45,
         "growth_pt": 60,
         "join_pt": 50
       },
@@ -2213,16 +2220,23 @@
     {
       "rank": 9999,
       "name": "リココ_VRC",
-      "rating": 391,
+      "rating": 383,
       "current_points": 16,
       "stats": {
-        "total_matches": 2,
-        "win_rate": "25.0%",
-        "record": "0-1-1",
-        "high_low": "401 / 391",
-        "average": "1.100",
+        "total_matches": 3,
+        "win_rate": "16.7%",
+        "record": "0-2-1",
+        "high_low": "401 / 383",
+        "average": "0.879",
         "high_run": 4,
         "recent_matches": [
+          {
+            "date": "07/31",
+            "opponent": "あらたつ",
+            "result": "7-25(×)",
+            "change": "-8.7",
+            "opponent_en": "Aratatsu"
+          },
           {
             "date": "07/10",
             "opponent": "つかぽん",
@@ -2252,6 +2266,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "Tsukapon"
+          },
+          {
+            "name": "あらたつ",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Aratatsu"
           }
         ]
       },
