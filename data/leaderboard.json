@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T15:44:12.672Z",
+  "last_updated": "2026-08-03T15:59:55.769Z",
   "players": [
     {
       "rank": 1,
@@ -376,7 +376,7 @@
         "recent_matches": [
           {
             "date": "08/04",
-            "opponent": "虎猫ゆう／KotoraYou",
+            "opponent": "虎猫ゆう／ToranekoYou",
             "result": "22-16(×)",
             "change": "-10.1",
             "opponent_en": ""
@@ -559,7 +559,7 @@
             "name_en": "kinkus"
           },
           {
-            "name": "虎猫ゆう／KotoraYou",
+            "name": "虎猫ゆう／ToranekoYou",
             "matches": 1,
             "record": "0-1-0",
             "win_rate": "0.0%",
@@ -2550,9 +2550,9 @@
     },
     {
       "rank": 9999,
-      "name": "虎猫ゆう／KotoraYou",
+      "name": "虎猫ゆう／ToranekoYou",
       "rating": 410,
-      "current_points": 0,
+      "current_points": 16,
       "stats": {
         "total_matches": 1,
         "win_rate": "100.0%",
