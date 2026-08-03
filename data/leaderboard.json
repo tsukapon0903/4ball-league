@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T15:59:55.769Z",
+  "last_updated": "2026-08-03T16:15:15.945Z",
   "players": [
     {
       "rank": 1,
@@ -2551,16 +2551,23 @@
     {
       "rank": 9999,
       "name": "虎猫ゆう／ToranekoYou",
-      "rating": 410,
+      "rating": 400,
       "current_points": 16,
       "stats": {
-        "total_matches": 1,
-        "win_rate": "100.0%",
-        "record": "1-0-0",
+        "total_matches": 2,
+        "win_rate": "50.0%",
+        "record": "1-1-0",
         "high_low": "410 / 400",
-        "average": "1.455",
+        "average": "0.857",
         "high_run": 6,
         "recent_matches": [
+          {
+            "date": "08/04",
+            "opponent": "nekomonaka",
+            "result": "8-16(×)",
+            "change": "-10.4",
+            "opponent_en": "nekomonaka"
+          },
           {
             "date": "08/04",
             "opponent": "つかぽん",
@@ -2576,10 +2583,50 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "Tsukapon"
+          },
+          {
+            "name": "nekomonaka",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "nekomonaka"
           }
         ]
       },
       "name_en": ""
+    },
+    {
+      "rank": 9999,
+      "name": "nekomonaka",
+      "rating": 410,
+      "current_points": 16,
+      "stats": {
+        "total_matches": 1,
+        "win_rate": "100.0%",
+        "record": "1-0-0",
+        "high_low": "410 / 400",
+        "average": "0.941",
+        "high_run": 4,
+        "recent_matches": [
+          {
+            "date": "08/04",
+            "opponent": "虎猫ゆう／ToranekoYou",
+            "result": "16-8(○)",
+            "change": "+10.4",
+            "opponent_en": ""
+          }
+        ],
+        "opponents": [
+          {
+            "name": "虎猫ゆう／ToranekoYou",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": ""
+          }
+        ]
+      },
+      "name_en": "nekomonaka"
     }
   ]
 }
