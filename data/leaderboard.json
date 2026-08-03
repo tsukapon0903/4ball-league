@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T16:37:38.902Z",
+  "last_updated": "2026-08-03T16:52:54.555Z",
   "players": [
     {
       "rank": 1,
@@ -2551,16 +2551,23 @@
     {
       "rank": 9999,
       "name": "虎猫ゆう／ToranekoYou",
-      "rating": 390,
+      "rating": 401,
       "current_points": 16,
       "stats": {
-        "total_matches": 3,
-        "win_rate": "33.3%",
-        "record": "1-2-0",
+        "total_matches": 4,
+        "win_rate": "50.0%",
+        "record": "2-2-0",
         "high_low": "410 / 390",
-        "average": "0.878",
-        "high_run": 6,
+        "average": "1.040",
+        "high_run": 7,
         "recent_matches": [
+          {
+            "date": "08/04",
+            "opponent": "nekomonaka",
+            "result": "16-3(○)",
+            "change": "+11.0",
+            "opponent_en": "nekomonaka"
+          },
           {
             "date": "08/04",
             "opponent": "nekomonaka",
@@ -2586,9 +2593,9 @@
         "opponents": [
           {
             "name": "nekomonaka",
-            "matches": 2,
-            "record": "0-2-0",
-            "win_rate": "0.0%",
+            "matches": 3,
+            "record": "1-2-0",
+            "win_rate": "33.3%",
             "name_en": "nekomonaka"
           },
           {
@@ -2605,16 +2612,23 @@
     {
       "rank": 9999,
       "name": "nekomonaka",
-      "rating": 420,
+      "rating": 409,
       "current_points": 16,
       "stats": {
-        "total_matches": 2,
-        "win_rate": "100.0%",
-        "record": "2-0-0",
+        "total_matches": 3,
+        "win_rate": "66.7%",
+        "record": "2-1-0",
         "high_low": "420 / 400",
-        "average": "1.067",
+        "average": "0.897",
         "high_run": 4,
         "recent_matches": [
+          {
+            "date": "08/04",
+            "opponent": "虎猫ゆう／ToranekoYou",
+            "result": "3-16(×)",
+            "change": "-11.0",
+            "opponent_en": ""
+          },
           {
             "date": "08/04",
             "opponent": "虎猫ゆう／ToranekoYou",
@@ -2633,9 +2647,9 @@
         "opponents": [
           {
             "name": "虎猫ゆう／ToranekoYou",
-            "matches": 2,
-            "record": "2-0-0",
-            "win_rate": "100.0%",
+            "matches": 3,
+            "record": "2-1-0",
+            "win_rate": "66.7%",
             "name_en": ""
           }
         ]
