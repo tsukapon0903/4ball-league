@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T14:19:55.268Z",
+  "last_updated": "2026-08-03T14:26:21.545Z",
   "players": [
     {
       "rank": 1,
@@ -724,7 +724,7 @@
     {
       "rank": 5,
       "name": "Alte",
-      "rating": 613,
+      "rating": 623,
       "current_points": 25,
       "league": {
         "rank": 5,
@@ -734,13 +734,20 @@
         "join_pt": 55
       },
       "stats": {
-        "total_matches": 9,
-        "win_rate": "55.6%",
-        "record": "4-3-2",
-        "high_low": "613 / 590",
-        "average": "2.231",
+        "total_matches": 10,
+        "win_rate": "60.0%",
+        "record": "5-3-2",
+        "high_low": "623 / 590",
+        "average": "2.280",
         "high_run": 16,
         "recent_matches": [
+          {
+            "date": "08/03",
+            "opponent": "Ninohito",
+            "result": "25-9(○)",
+            "change": "+9.4",
+            "opponent_en": "Ninohito"
+          },
           {
             "date": "07/29",
             "opponent": "しそ",
@@ -752,14 +759,14 @@
             "date": "07/29",
             "opponent": "Alte",
             "result": "25-2(×)",
-            "change": "0.0",
+            "change": "-0.0",
             "opponent_en": "Alte"
           },
           {
             "date": "07/29",
             "opponent": "Alte",
             "result": "25-2(○)",
-            "change": "0.0",
+            "change": "-0.0",
             "opponent_en": "Alte"
           },
           {
@@ -807,6 +814,13 @@
         ],
         "opponents": [
           {
+            "name": "Ninohito",
+            "matches": 2,
+            "record": "1-0-1",
+            "win_rate": "75.0%",
+            "name_en": "Ninohito"
+          },
+          {
             "name": "Alte",
             "matches": 2,
             "record": "1-1-0",
@@ -840,13 +854,6 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "TripleSeven"
-          },
-          {
-            "name": "Ninohito",
-            "matches": 1,
-            "record": "0-0-1",
-            "win_rate": "50.0%",
-            "name_en": "Ninohito"
           },
           {
             "name": "Ruba d6d4",
@@ -1615,7 +1622,7 @@
     {
       "rank": 11,
       "name": "Ninohito",
-      "rating": 344,
+      "rating": 335,
       "current_points": 14,
       "league": {
         "rank": 11,
@@ -1625,13 +1632,20 @@
         "join_pt": 50
       },
       "stats": {
-        "total_matches": 9,
-        "win_rate": "16.7%",
-        "record": "1-7-1",
-        "high_low": "400 / 344",
-        "average": "1.060",
+        "total_matches": 10,
+        "win_rate": "15.0%",
+        "record": "1-8-1",
+        "high_low": "400 / 335",
+        "average": "1.054",
         "high_run": 6,
         "recent_matches": [
+          {
+            "date": "08/03",
+            "opponent": "Alte",
+            "result": "9-25(×)",
+            "change": "-9.4",
+            "opponent_en": "Alte"
+          },
           {
             "date": "07/30",
             "opponent": "しそ",
@@ -1719,18 +1733,18 @@
             "name_en": "Aratatsu"
           },
           {
+            "name": "Alte",
+            "matches": 2,
+            "record": "0-1-1",
+            "win_rate": "25.0%",
+            "name_en": "Alte"
+          },
+          {
             "name": "Ruba d6d4",
             "matches": 1,
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "Ruba d6d4"
-          },
-          {
-            "name": "Alte",
-            "matches": 1,
-            "record": "0-0-1",
-            "win_rate": "50.0%",
-            "name_en": "Alte"
           }
         ]
       },
