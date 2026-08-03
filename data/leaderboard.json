@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T14:58:55.700Z",
+  "last_updated": "2026-08-03T15:25:54.964Z",
   "players": [
     {
       "rank": 1,
@@ -1063,7 +1063,7 @@
             "date": "07/17",
             "opponent": "やまだはるか",
             "result": "16-9(○)",
-            "change": "+8.7",
+            "change": "+8.6",
             "opponent_en": "HarukaYamada"
           },
           {
@@ -1374,7 +1374,7 @@
             "date": "07/19",
             "opponent": "つかぽん",
             "result": "12-25(×)",
-            "change": "-10.8",
+            "change": "-10.7",
             "opponent_en": "Tsukapon"
           },
           {
@@ -1481,9 +1481,9 @@
       "current_points": 20,
       "league": {
         "rank": 10,
-        "total_score": 53.8,
+        "total_score": 52,
         "win_pt": 50,
-        "growth_pt": 50,
+        "growth_pt": 45,
         "join_pt": 65
       },
       "stats": {
@@ -1633,19 +1633,26 @@
       "current_points": 14,
       "league": {
         "rank": 11,
-        "total_score": 47.5,
+        "total_score": 50.5,
         "win_pt": 45,
-        "growth_pt": 45,
-        "join_pt": 55
+        "growth_pt": 50,
+        "join_pt": 60
       },
       "stats": {
-        "total_matches": 11,
-        "win_rate": "13.6%",
-        "record": "1-9-1",
+        "total_matches": 12,
+        "win_rate": "16.7%",
+        "record": "1-9-2",
         "high_low": "400 / 325",
-        "average": "1.000",
+        "average": "1.008",
         "high_run": 6,
         "recent_matches": [
+          {
+            "date": "08/04",
+            "opponent": "ももかげ",
+            "result": "14-16(△)",
+            "change": "+0.7",
+            "opponent_en": "Momokage"
+          },
           {
             "date": "08/03",
             "opponent": "eijis",
@@ -1708,13 +1715,6 @@
             "result": "12-25(×)",
             "change": "-8.2",
             "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "07/22",
-            "opponent": "Ruba d6d4",
-            "result": "4-30(×)",
-            "change": "-7.7",
-            "opponent_en": "Ruba d6d4"
           }
         ],
         "opponents": [
@@ -1759,6 +1759,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "eijis"
+          },
+          {
+            "name": "ももかげ",
+            "matches": 1,
+            "record": "0-0-1",
+            "win_rate": "50.0%",
+            "name_en": "Momokage"
           }
         ]
       },
@@ -1817,13 +1824,20 @@
       "rating": 402,
       "current_points": 16,
       "stats": {
-        "total_matches": 5,
+        "total_matches": 6,
         "win_rate": "50.0%",
-        "record": "2-2-1",
+        "record": "2-2-2",
         "high_low": "402 / 391",
-        "average": "1.159",
+        "average": "1.171",
         "high_run": 6,
         "recent_matches": [
+          {
+            "date": "08/04",
+            "opponent": "Ninohito",
+            "result": "16-14(△)",
+            "change": "-0.7",
+            "opponent_en": "Ninohito"
+          },
           {
             "date": "07/21",
             "opponent": "Alte",
@@ -1888,6 +1902,13 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "Alte"
+          },
+          {
+            "name": "Ninohito",
+            "matches": 1,
+            "record": "0-0-1",
+            "win_rate": "50.0%",
+            "name_en": "Ninohito"
           }
         ]
       },
@@ -2121,7 +2142,7 @@
             "date": "07/17",
             "opponent": "eijis",
             "result": "9-16(×)",
-            "change": "-8.7",
+            "change": "-8.6",
             "opponent_en": "eijis"
           },
           {
