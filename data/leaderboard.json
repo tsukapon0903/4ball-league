@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T13:42:14.422Z",
+  "last_updated": "2026-08-03T14:09:00.015Z",
   "players": [
     {
       "rank": 1,
@@ -378,23 +378,30 @@
     {
       "rank": 3,
       "name": "トリプルセブン",
-      "rating": 561,
+      "rating": 572,
       "current_points": 25,
       "league": {
         "rank": 3,
-        "total_score": 86.3,
-        "win_pt": 85,
+        "total_score": 88.3,
+        "win_pt": 90,
         "growth_pt": 85,
         "join_pt": 90
       },
       "stats": {
-        "total_matches": 24,
-        "win_rate": "62.5%",
-        "record": "15-9-0",
-        "high_low": "570 / 453",
-        "average": "2.005",
+        "total_matches": 25,
+        "win_rate": "64.0%",
+        "record": "16-9-0",
+        "high_low": "572 / 453",
+        "average": "1.991",
         "high_run": 18,
         "recent_matches": [
+          {
+            "date": "08/03",
+            "opponent": "真白ゆう／MashiroYou",
+            "result": "25-8(○)",
+            "change": "+11.1",
+            "opponent_en": ""
+          },
           {
             "date": "08/01",
             "opponent": "つかぽん",
@@ -457,13 +464,6 @@
             "result": "20-23(○)",
             "change": "+8.7",
             "opponent_en": "int mint"
-          },
-          {
-            "date": "07/12",
-            "opponent": "つかぽん",
-            "result": "20-10(○)",
-            "change": "+10.4",
-            "opponent_en": "Tsukapon"
           }
         ],
         "opponents": [
@@ -550,6 +550,13 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "Alte"
+          },
+          {
+            "name": "真白ゆう／MashiroYou",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": ""
           }
         ]
       },
@@ -562,8 +569,8 @@
       "current_points": 20,
       "league": {
         "rank": 4,
-        "total_score": 82.8,
-        "win_pt": 90,
+        "total_score": 80.8,
+        "win_pt": 85,
         "growth_pt": 80,
         "join_pt": 75
       },
@@ -2451,6 +2458,39 @@
         ]
       },
       "name_en": "kinkus"
+    },
+    {
+      "rank": 9999,
+      "name": "真白ゆう／MashiroYou",
+      "rating": 389,
+      "current_points": 16,
+      "stats": {
+        "total_matches": 1,
+        "win_rate": "0.0%",
+        "record": "0-1-0",
+        "high_low": "400 / 389",
+        "average": "0.571",
+        "high_run": 2,
+        "recent_matches": [
+          {
+            "date": "08/03",
+            "opponent": "トリプルセブン",
+            "result": "8-25(×)",
+            "change": "-11.1",
+            "opponent_en": "TripleSeven"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "トリプルセブン",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "TripleSeven"
+          }
+        ]
+      },
+      "name_en": ""
     }
   ]
 }
