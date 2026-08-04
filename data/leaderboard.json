@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T17:40:53.233Z",
+  "last_updated": "2026-08-04T17:57:20.518Z",
   "players": [
     {
       "rank": 1,
@@ -361,8 +361,8 @@
       "current_points": 30,
       "league": {
         "rank": 3,
-        "total_score": 84.8,
-        "win_pt": 75,
+        "total_score": 82.8,
+        "win_pt": 70,
         "growth_pt": 85,
         "join_pt": 100
       },
@@ -735,8 +735,8 @@
       "current_points": 25,
       "league": {
         "rank": 5,
-        "total_score": 70.8,
-        "win_pt": 80,
+        "total_score": 68.8,
+        "win_pt": 75,
         "growth_pt": 75,
         "join_pt": 50
       },
@@ -883,23 +883,30 @@
     {
       "rank": 6,
       "name": "虎猫ゆう／ToranekoYou",
-      "rating": 410,
+      "rating": 420,
       "current_points": 16,
       "league": {
         "rank": 6,
-        "total_score": 62.5,
-        "win_pt": 70,
+        "total_score": 66.5,
+        "win_pt": 80,
         "growth_pt": 70,
         "join_pt": 40
       },
       "stats": {
-        "total_matches": 7,
-        "win_rate": "57.1%",
-        "record": "4-3-0",
+        "total_matches": 8,
+        "win_rate": "62.5%",
+        "record": "5-3-0",
         "high_low": "421 / 390",
-        "average": "1.047",
+        "average": "1.116",
         "high_run": 7,
         "recent_matches": [
+          {
+            "date": "08/05",
+            "opponent": "nekomonaka",
+            "result": "16-4(○)",
+            "change": "+9.7",
+            "opponent_en": "nekomonaka"
+          },
           {
             "date": "08/05",
             "opponent": "nekomonaka",
@@ -953,9 +960,9 @@
         "opponents": [
           {
             "name": "nekomonaka",
-            "matches": 6,
-            "record": "3-3-0",
-            "win_rate": "50.0%",
+            "matches": 7,
+            "record": "4-3-0",
+            "win_rate": "57.1%",
             "name_en": "nekomonaka"
           },
           {
@@ -1000,7 +1007,7 @@
             "date": "07/10",
             "opponent": "Ruba d6d4",
             "result": "0-30(×)",
-            "change": "-10.3",
+            "change": "-10.2",
             "opponent_en": "Ruba d6d4"
           },
           {
@@ -1116,14 +1123,131 @@
     },
     {
       "rank": 8,
+      "name": "kuu00",
+      "rating": 594,
+      "current_points": 25,
+      "league": {
+        "rank": 8,
+        "total_score": 60,
+        "win_pt": 65,
+        "growth_pt": 65,
+        "join_pt": 45
+      },
+      "stats": {
+        "total_matches": 8,
+        "win_rate": "50.0%",
+        "record": "4-4-0",
+        "high_low": "635 / 594",
+        "average": "2.615",
+        "high_run": 12,
+        "recent_matches": [
+          {
+            "date": "07/16",
+            "opponent": "つかぽん",
+            "result": "8-25(×)",
+            "change": "-10.0",
+            "opponent_en": "Tsukapon"
+          },
+          {
+            "date": "07/14",
+            "opponent": "トリプルセブン",
+            "result": "21-20(×)",
+            "change": "-10.2",
+            "opponent_en": "TripleSeven"
+          },
+          {
+            "date": "07/13",
+            "opponent": "pen",
+            "result": "19-25(×)",
+            "change": "-9.8",
+            "opponent_en": "pen"
+          },
+          {
+            "date": "07/13",
+            "opponent": "つかぽん",
+            "result": "22-25(×)",
+            "change": "-11.1",
+            "opponent_en": "Tsukapon"
+          },
+          {
+            "date": "07/10",
+            "opponent": "eijis",
+            "result": "25-15(○)",
+            "change": "+8.0",
+            "opponent_en": "eijis"
+          },
+          {
+            "date": "07/09",
+            "opponent": "つかぽん",
+            "result": "25-19(○)",
+            "change": "+8.9",
+            "opponent_en": "Tsukapon"
+          },
+          {
+            "date": "07/09",
+            "opponent": "あらたつ",
+            "result": "25-17(○)",
+            "change": "+8.3",
+            "opponent_en": "Aratatsu"
+          },
+          {
+            "date": "07/09",
+            "opponent": "トリプルセブン",
+            "result": "25-11(○)",
+            "change": "+9.7",
+            "opponent_en": "TripleSeven"
+          }
+        ],
+        "opponents": [
+          {
+            "name": "つかぽん",
+            "matches": 3,
+            "record": "1-2-0",
+            "win_rate": "33.3%",
+            "name_en": "Tsukapon"
+          },
+          {
+            "name": "トリプルセブン",
+            "matches": 2,
+            "record": "1-1-0",
+            "win_rate": "50.0%",
+            "name_en": "TripleSeven"
+          },
+          {
+            "name": "あらたつ",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "Aratatsu"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "eijis"
+          },
+          {
+            "name": "pen",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "pen"
+          }
+        ]
+      },
+      "name_en": "kuu00"
+    },
+    {
+      "rank": 9,
       "name": "eijis",
       "rating": 443,
       "current_points": 18,
       "league": {
-        "rank": 8,
-        "total_score": 60,
-        "win_pt": 55,
-        "growth_pt": 55,
+        "rank": 9,
+        "total_score": 56.3,
+        "win_pt": 50,
+        "growth_pt": 50,
         "join_pt": 75
       },
       "stats": {
@@ -1295,132 +1419,15 @@
       "name_en": "eijis"
     },
     {
-      "rank": 8,
-      "name": "kuu00",
-      "rating": 594,
-      "current_points": 25,
-      "league": {
-        "rank": 8,
-        "total_score": 60,
-        "win_pt": 65,
-        "growth_pt": 65,
-        "join_pt": 45
-      },
-      "stats": {
-        "total_matches": 8,
-        "win_rate": "50.0%",
-        "record": "4-4-0",
-        "high_low": "635 / 594",
-        "average": "2.615",
-        "high_run": 12,
-        "recent_matches": [
-          {
-            "date": "07/16",
-            "opponent": "つかぽん",
-            "result": "8-25(×)",
-            "change": "-10.0",
-            "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "07/14",
-            "opponent": "トリプルセブン",
-            "result": "21-20(×)",
-            "change": "-10.2",
-            "opponent_en": "TripleSeven"
-          },
-          {
-            "date": "07/13",
-            "opponent": "pen",
-            "result": "19-25(×)",
-            "change": "-9.8",
-            "opponent_en": "pen"
-          },
-          {
-            "date": "07/13",
-            "opponent": "つかぽん",
-            "result": "22-25(×)",
-            "change": "-11.1",
-            "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "07/10",
-            "opponent": "eijis",
-            "result": "25-15(○)",
-            "change": "+8.0",
-            "opponent_en": "eijis"
-          },
-          {
-            "date": "07/09",
-            "opponent": "つかぽん",
-            "result": "25-19(○)",
-            "change": "+8.9",
-            "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "07/09",
-            "opponent": "あらたつ",
-            "result": "25-17(○)",
-            "change": "+8.3",
-            "opponent_en": "Aratatsu"
-          },
-          {
-            "date": "07/09",
-            "opponent": "トリプルセブン",
-            "result": "25-11(○)",
-            "change": "+9.7",
-            "opponent_en": "TripleSeven"
-          }
-        ],
-        "opponents": [
-          {
-            "name": "つかぽん",
-            "matches": 3,
-            "record": "1-2-0",
-            "win_rate": "33.3%",
-            "name_en": "Tsukapon"
-          },
-          {
-            "name": "トリプルセブン",
-            "matches": 2,
-            "record": "1-1-0",
-            "win_rate": "50.0%",
-            "name_en": "TripleSeven"
-          },
-          {
-            "name": "あらたつ",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Aratatsu"
-          },
-          {
-            "name": "eijis",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "eijis"
-          },
-          {
-            "name": "pen",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "pen"
-          }
-        ]
-      },
-      "name_en": "kuu00"
-    },
-    {
       "rank": 10,
       "name": "int mint",
       "rating": 529,
       "current_points": 20,
       "league": {
         "rank": 10,
-        "total_score": 57.5,
-        "win_pt": 50,
-        "growth_pt": 50,
+        "total_score": 53.8,
+        "win_pt": 45,
+        "growth_pt": 45,
         "join_pt": 80
       },
       "stats": {
@@ -1572,14 +1579,96 @@
     },
     {
       "rank": 11,
+      "name": "nekomonaka",
+      "rating": 391,
+      "current_points": 16,
+      "league": {
+        "rank": 11,
+        "total_score": 50,
+        "win_pt": 55,
+        "growth_pt": 55,
+        "join_pt": 35
+      },
+      "stats": {
+        "total_matches": 7,
+        "win_rate": "42.9%",
+        "record": "3-4-0",
+        "high_low": "420 / 389",
+        "average": "0.988",
+        "high_run": 7,
+        "recent_matches": [
+          {
+            "date": "08/05",
+            "opponent": "虎猫ゆう／ToranekoYou",
+            "result": "4-16(×)",
+            "change": "-9.7",
+            "opponent_en": ""
+          },
+          {
+            "date": "08/05",
+            "opponent": "虎猫ゆう／ToranekoYou",
+            "result": "16-6(○)",
+            "change": "+11.1",
+            "opponent_en": ""
+          },
+          {
+            "date": "08/05",
+            "opponent": "虎猫ゆう／ToranekoYou",
+            "result": "14-16(×)",
+            "change": "-9.6",
+            "opponent_en": ""
+          },
+          {
+            "date": "08/05",
+            "opponent": "虎猫ゆう／ToranekoYou",
+            "result": "14-16(×)",
+            "change": "-10.3",
+            "opponent_en": ""
+          },
+          {
+            "date": "08/04",
+            "opponent": "虎猫ゆう／ToranekoYou",
+            "result": "3-16(×)",
+            "change": "-11.0",
+            "opponent_en": ""
+          },
+          {
+            "date": "08/04",
+            "opponent": "虎猫ゆう／ToranekoYou",
+            "result": "16-12(○)",
+            "change": "+9.6",
+            "opponent_en": ""
+          },
+          {
+            "date": "08/04",
+            "opponent": "虎猫ゆう／ToranekoYou",
+            "result": "16-8(○)",
+            "change": "+10.3",
+            "opponent_en": ""
+          }
+        ],
+        "opponents": [
+          {
+            "name": "虎猫ゆう／ToranekoYou",
+            "matches": 7,
+            "record": "3-4-0",
+            "win_rate": "42.9%",
+            "name_en": ""
+          }
+        ]
+      },
+      "name_en": "nekomonaka"
+    },
+    {
+      "rank": 12,
       "name": "あらたつ",
       "rating": 525,
       "current_points": 20,
       "league": {
-        "rank": 11,
-        "total_score": 48.3,
-        "win_pt": 45,
-        "growth_pt": 40,
+        "rank": 12,
+        "total_score": 44.5,
+        "win_pt": 40,
+        "growth_pt": 35,
         "join_pt": 65
       },
       "stats": {
@@ -1723,15 +1812,15 @@
       "name_en": "Aratatsu"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Ninohito",
       "rating": 325,
       "current_points": 14,
       "league": {
-        "rank": 12,
-        "total_score": 46.8,
-        "win_pt": 40,
-        "growth_pt": 45,
+        "rank": 13,
+        "total_score": 43,
+        "win_pt": 35,
+        "growth_pt": 40,
         "join_pt": 60
       },
       "stats": {
@@ -2636,74 +2725,6 @@
         ]
       },
       "name_en": ""
-    },
-    {
-      "rank": 9999,
-      "name": "nekomonaka",
-      "rating": 400,
-      "current_points": 16,
-      "stats": {
-        "total_matches": 6,
-        "win_rate": "50.0%",
-        "record": "3-3-0",
-        "high_low": "420 / 389",
-        "average": "1.053",
-        "high_run": 7,
-        "recent_matches": [
-          {
-            "date": "08/05",
-            "opponent": "虎猫ゆう／ToranekoYou",
-            "result": "16-6(○)",
-            "change": "+11.1",
-            "opponent_en": ""
-          },
-          {
-            "date": "08/05",
-            "opponent": "虎猫ゆう／ToranekoYou",
-            "result": "14-16(×)",
-            "change": "-9.6",
-            "opponent_en": ""
-          },
-          {
-            "date": "08/05",
-            "opponent": "虎猫ゆう／ToranekoYou",
-            "result": "14-16(×)",
-            "change": "-10.3",
-            "opponent_en": ""
-          },
-          {
-            "date": "08/04",
-            "opponent": "虎猫ゆう／ToranekoYou",
-            "result": "3-16(×)",
-            "change": "-11.0",
-            "opponent_en": ""
-          },
-          {
-            "date": "08/04",
-            "opponent": "虎猫ゆう／ToranekoYou",
-            "result": "16-12(○)",
-            "change": "+9.6",
-            "opponent_en": ""
-          },
-          {
-            "date": "08/04",
-            "opponent": "虎猫ゆう／ToranekoYou",
-            "result": "16-8(○)",
-            "change": "+10.3",
-            "opponent_en": ""
-          }
-        ],
-        "opponents": [
-          {
-            "name": "虎猫ゆう／ToranekoYou",
-            "matches": 6,
-            "record": "3-3-0",
-            "win_rate": "50.0%",
-            "name_en": ""
-          }
-        ]
-      },
-      "name_en": "nekomonaka"
     }
   ]
 }
