@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T16:04:58.456Z",
+  "last_updated": "2026-08-11T00:39:19.697Z",
   "players": [
     {
       "rank": 1,
@@ -170,7 +170,7 @@
     {
       "rank": 2,
       "name": "しそ",
-      "rating": 554,
+      "rating": 553,
       "current_points": 20,
       "league": {
         "rank": 2,
@@ -254,7 +254,7 @@
             "date": "07/01",
             "opponent": "Ruba d6d4",
             "result": "20-18(○)",
-            "change": "+8.9",
+            "change": "+8.8",
             "opponent_en": "Ruba d6d4"
           }
         ],
@@ -342,7 +342,7 @@
         "total_matches": 28,
         "win_rate": "57.1%",
         "record": "16-12-0",
-        "high_low": "573 / 456",
+        "high_low": "572 / 456",
         "average": "2.004",
         "high_run": 18,
         "recent_matches": [
@@ -535,7 +535,7 @@
         "recent_matches": [
           {
             "date": "08/11",
-            "opponent": "フラグ神／furagu-sin",
+            "opponent": "フラグ神／huragu-sin",
             "result": "9-16(×)",
             "change": "-11.7",
             "opponent_en": ""
@@ -586,7 +586,7 @@
             "date": "07/30",
             "opponent": "Ninohito",
             "result": "25-4(○)",
-            "change": "+10.9",
+            "change": "+10.8",
             "opponent_en": "Ninohito"
           },
           {
@@ -725,7 +725,7 @@
             "name_en": ""
           },
           {
-            "name": "フラグ神／furagu-sin",
+            "name": "フラグ神／huragu-sin",
             "matches": 1,
             "record": "0-1-0",
             "win_rate": "0.0%",
@@ -1077,7 +1077,7 @@
             "date": "08/05",
             "opponent": "nekomonaka",
             "result": "16-14(○)",
-            "change": "+10.2",
+            "change": "+10.1",
             "opponent_en": "nekomonaka"
           },
           {
@@ -1484,7 +1484,7 @@
             "date": "07/27",
             "opponent": "Ninohito",
             "result": "9-14(×)",
-            "change": "-8.1",
+            "change": "-8.0",
             "opponent_en": "Ninohito"
           },
           {
@@ -1622,7 +1622,7 @@
             "date": "08/05",
             "opponent": "虎猫ゆう／ToranekoYou",
             "result": "14-16(×)",
-            "change": "-10.2",
+            "change": "-10.1",
             "opponent_en": ""
           },
           {
@@ -1870,14 +1870,14 @@
             "date": "07/30",
             "opponent": "つかぽん",
             "result": "4-25(×)",
-            "change": "-10.9",
+            "change": "-10.8",
             "opponent_en": "Tsukapon"
           },
           {
             "date": "07/27",
             "opponent": "あらたつ",
             "result": "14-9(○)",
-            "change": "+8.1",
+            "change": "+8.0",
             "opponent_en": "Aratatsu"
           },
           {
@@ -1987,7 +1987,7 @@
             "date": "06/25",
             "opponent": "ももかげ",
             "result": "20-11(○)",
-            "change": "+9.1",
+            "change": "+9.0",
             "opponent_en": "Momokage"
           }
         ],
@@ -2062,7 +2062,7 @@
             "date": "06/25",
             "opponent": "konachi-",
             "result": "11-20(×)",
-            "change": "-9.1",
+            "change": "-9.0",
             "opponent_en": "konachi-"
           }
         ],
@@ -2130,14 +2130,14 @@
             "date": "07/02",
             "opponent": "つかぽん",
             "result": "6-25(×)",
-            "change": "-9.8",
+            "change": "-9.7",
             "opponent_en": "Tsukapon"
           },
           {
             "date": "06/25",
             "opponent": "xantoz",
             "result": "20-7(○)",
-            "change": "+8.8",
+            "change": "+8.7",
             "opponent_en": "xantoz"
           },
           {
@@ -2205,7 +2205,7 @@
             "date": "06/25",
             "opponent": "keitti",
             "result": "7-20(×)",
-            "change": "-8.8",
+            "change": "-8.7",
             "opponent_en": "keitti"
           }
         ],
@@ -2735,7 +2735,7 @@
     },
     {
       "rank": 9999,
-      "name": "フラグ神／furagu-sin",
+      "name": "フラグ神／huragu-sin",
       "rating": 412,
       "current_points": 16,
       "stats": {
