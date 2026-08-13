@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T13:59:51.398Z",
+  "last_updated": "2026-08-13T15:09:28.845Z",
   "players": [
     {
       "rank": 1,
@@ -14,13 +14,20 @@
         "join_pt": 85
       },
       "stats": {
-        "total_matches": 27,
-        "win_rate": "77.8%",
-        "record": "20-5-2",
-        "high_low": "728 / 600",
-        "average": "3.519",
+        "total_matches": 28,
+        "win_rate": "78.6%",
+        "record": "21-5-2",
+        "high_low": "730 / 600",
+        "average": "3.561",
         "high_run": 17,
         "recent_matches": [
+          {
+            "date": "08/14",
+            "opponent": "konachi-",
+            "result": "30-12(○)",
+            "change": "+9.0",
+            "opponent_en": "konachi-"
+          },
           {
             "date": "08/11",
             "opponent": "int mint",
@@ -83,13 +90,6 @@
             "result": "30-10(○)",
             "change": "+9.6",
             "opponent_en": "Tsukapon"
-          },
-          {
-            "date": "07/17",
-            "opponent": "星さん［Hoshi-san］",
-            "result": "30-14(○)",
-            "change": "+8.2",
-            "opponent_en": ""
           }
         ],
         "opponents": [
@@ -162,6 +162,13 @@
             "record": "0-0-1",
             "win_rate": "50.0%",
             "name_en": "Alte"
+          },
+          {
+            "name": "konachi-",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "konachi-"
           }
         ]
       },
@@ -1976,13 +1983,20 @@
       "rating": 517,
       "current_points": 20,
       "stats": {
-        "total_matches": 3,
-        "win_rate": "83.3%",
-        "record": "2-0-1",
+        "total_matches": 4,
+        "win_rate": "62.5%",
+        "record": "2-1-1",
         "high_low": "517 / 500",
-        "average": "1.500",
+        "average": "1.565",
         "high_run": 8,
         "recent_matches": [
+          {
+            "date": "08/14",
+            "opponent": "Ruba d6d4",
+            "result": "12-30(×)",
+            "change": "-9.0",
+            "opponent_en": "Ruba d6d4"
+          },
           {
             "date": "08/13",
             "opponent": "フラグ神／furagu-sin",
@@ -2026,6 +2040,13 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": ""
+          },
+          {
+            "name": "Ruba d6d4",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Ruba d6d4"
           }
         ]
       },
