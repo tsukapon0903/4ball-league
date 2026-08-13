@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T15:09:38.251Z",
+  "last_updated": "2026-08-13T15:10:09.592Z",
   "players": [
     {
       "rank": 1,
@@ -336,7 +336,7 @@
     {
       "rank": 3,
       "name": "トリプルセブン",
-      "rating": 549,
+      "rating": 538,
       "current_points": 25,
       "league": {
         "rank": 3,
@@ -346,13 +346,20 @@
         "join_pt": 90
       },
       "stats": {
-        "total_matches": 28,
-        "win_rate": "57.1%",
-        "record": "16-12-0",
+        "total_matches": 29,
+        "win_rate": "55.2%",
+        "record": "16-13-0",
         "high_low": "572 / 456",
-        "average": "2.004",
+        "average": "2.033",
         "high_run": 18,
         "recent_matches": [
+          {
+            "date": "08/14",
+            "opponent": "Alte",
+            "result": "17-25(×)",
+            "change": "-10.8",
+            "opponent_en": "Alte"
+          },
           {
             "date": "08/10",
             "opponent": "edamame3tubu",
@@ -415,13 +422,6 @@
             "result": "20-18(○)",
             "change": "+9.0",
             "opponent_en": "Alte"
-          },
-          {
-            "date": "07/20",
-            "opponent": "96onE",
-            "result": "20-6(○)",
-            "change": "+9.2",
-            "opponent_en": "96onE"
           }
         ],
         "opponents": [
@@ -482,6 +482,13 @@
             "name_en": "int mint"
           },
           {
+            "name": "Alte",
+            "matches": 2,
+            "record": "1-1-0",
+            "win_rate": "50.0%",
+            "name_en": "Alte"
+          },
+          {
             "name": "keitti",
             "matches": 1,
             "record": "0-1-0",
@@ -501,13 +508,6 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "96onE"
-          },
-          {
-            "name": "Alte",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "Alte"
           },
           {
             "name": "真白ゆう／MashiroYou",
@@ -745,23 +745,30 @@
     {
       "rank": 5,
       "name": "Alte",
-      "rating": 622,
+      "rating": 633,
       "current_points": 25,
       "league": {
         "rank": 5,
-        "total_score": 72.5,
-        "win_pt": 80,
+        "total_score": 74.5,
+        "win_pt": 85,
         "growth_pt": 80,
         "join_pt": 50
       },
       "stats": {
-        "total_matches": 10,
-        "win_rate": "60.0%",
-        "record": "5-3-2",
-        "high_low": "622 / 590",
-        "average": "2.280",
+        "total_matches": 11,
+        "win_rate": "63.6%",
+        "record": "6-3-2",
+        "high_low": "633 / 590",
+        "average": "2.410",
         "high_run": 16,
         "recent_matches": [
+          {
+            "date": "08/14",
+            "opponent": "トリプルセブン",
+            "result": "25-17(○)",
+            "change": "+10.8",
+            "opponent_en": "TripleSeven"
+          },
           {
             "date": "08/03",
             "opponent": "Ninohito",
@@ -824,16 +831,16 @@
             "result": "25-11(○)",
             "change": "+9.8",
             "opponent_en": "96onE"
-          },
-          {
-            "date": "07/21",
-            "opponent": "ももかげ",
-            "result": "10-16(×)",
-            "change": "-10.0",
-            "opponent_en": "Momokage"
           }
         ],
         "opponents": [
+          {
+            "name": "トリプルセブン",
+            "matches": 2,
+            "record": "1-1-0",
+            "win_rate": "50.0%",
+            "name_en": "TripleSeven"
+          },
           {
             "name": "Ninohito",
             "matches": 2,
@@ -870,13 +877,6 @@
             "name_en": "eijis"
           },
           {
-            "name": "トリプルセブン",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "TripleSeven"
-          },
-          {
             "name": "Ruba d6d4",
             "matches": 1,
             "record": "0-0-1",
@@ -901,8 +901,8 @@
       "current_points": 25,
       "league": {
         "rank": 6,
-        "total_score": 71.5,
-        "win_pt": 80,
+        "total_score": 69.5,
+        "win_pt": 75,
         "growth_pt": 70,
         "join_pt": 60
       },
@@ -1046,8 +1046,8 @@
       "current_points": 16,
       "league": {
         "rank": 7,
-        "total_score": 66.8,
-        "win_pt": 85,
+        "total_score": 64.8,
+        "win_pt": 80,
         "growth_pt": 65,
         "join_pt": 40
       },
