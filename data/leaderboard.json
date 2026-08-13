@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T13:36:41.494Z",
+  "last_updated": "2026-08-13T13:59:51.398Z",
   "players": [
     {
       "rank": 1,
@@ -1973,16 +1973,23 @@
     {
       "rank": 9999,
       "name": "konachi-",
-      "rating": 508,
+      "rating": 517,
       "current_points": 20,
       "stats": {
-        "total_matches": 2,
-        "win_rate": "75.0%",
-        "record": "1-0-1",
-        "high_low": "509 / 500",
-        "average": "1.538",
+        "total_matches": 3,
+        "win_rate": "83.3%",
+        "record": "2-0-1",
+        "high_low": "517 / 500",
+        "average": "1.500",
         "high_run": 8,
         "recent_matches": [
+          {
+            "date": "08/13",
+            "opponent": "フラグ神／furagu-sin",
+            "result": "20-12(○)",
+            "change": "+9.3",
+            "opponent_en": ""
+          },
           {
             "date": "06/25",
             "opponent": "eijis",
@@ -2012,6 +2019,13 @@
             "record": "0-0-1",
             "win_rate": "50.0%",
             "name_en": "eijis"
+          },
+          {
+            "name": "フラグ神／furagu-sin",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": ""
           }
         ]
       },
@@ -2776,16 +2790,23 @@
     {
       "rank": 9999,
       "name": "フラグ神／furagu-sin",
-      "rating": 391,
+      "rating": 382,
       "current_points": 0,
       "stats": {
-        "total_matches": 1,
+        "total_matches": 2,
         "win_rate": "0.0%",
-        "record": "0-1-0",
-        "high_low": "400 / 391",
-        "average": "0.444",
-        "high_run": 2,
+        "record": "0-2-0",
+        "high_low": "400 / 382",
+        "average": "0.696",
+        "high_run": 4,
         "recent_matches": [
+          {
+            "date": "08/13",
+            "opponent": "konachi-",
+            "result": "12-20(×)",
+            "change": "-9.3",
+            "opponent_en": "konachi-"
+          },
           {
             "date": "08/13",
             "opponent": "int mint",
@@ -2801,6 +2822,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "int mint"
+          },
+          {
+            "name": "konachi-",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "konachi-"
           }
         ]
       },
