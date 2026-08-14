@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T15:37:25.076Z",
+  "last_updated": "2026-08-14T10:39:22.861Z",
   "players": [
     {
       "rank": 1,
@@ -39,7 +39,7 @@
             "date": "08/03",
             "opponent": "あらたつ",
             "result": "30-18(○)",
-            "change": "+10.2",
+            "change": "+10.1",
             "opponent_en": "Aratatsu"
           },
           {
@@ -53,7 +53,7 @@
             "date": "07/31",
             "opponent": "int mint",
             "result": "17-20(×)",
-            "change": "-10.7",
+            "change": "-10.6",
             "opponent_en": "int mint"
           },
           {
@@ -67,7 +67,7 @@
             "date": "07/31",
             "opponent": "トリプルセブン",
             "result": "21-20(×)",
-            "change": "-12.7",
+            "change": "-12.6",
             "opponent_en": "TripleSeven"
           },
           {
@@ -88,7 +88,7 @@
             "date": "07/22",
             "opponent": "つかぽん",
             "result": "30-10(○)",
-            "change": "+9.6",
+            "change": "+9.5",
             "opponent_en": "Tsukapon"
           }
         ],
@@ -530,7 +530,7 @@
             "date": "08/10",
             "opponent": "edamame3tubu",
             "result": "20-25(×)",
-            "change": "-8.1",
+            "change": "-8.0",
             "opponent_en": "edamame3tubu"
           },
           {
@@ -565,7 +565,7 @@
             "date": "07/31",
             "opponent": "Ruba d6d4",
             "result": "20-21(○)",
-            "change": "+12.7",
+            "change": "+12.6",
             "opponent_en": "Ruba d6d4"
           },
           {
@@ -724,7 +724,7 @@
             "date": "08/11",
             "opponent": "フラグ神／huragu-sin",
             "result": "9-16(×)",
-            "change": "-11.7",
+            "change": "-11.6",
             "opponent_en": ""
           },
           {
@@ -939,7 +939,7 @@
             "date": "08/10",
             "opponent": "トリプルセブン",
             "result": "25-20(○)",
-            "change": "+8.1",
+            "change": "+8.0",
             "opponent_en": "TripleSeven"
           },
           {
@@ -1002,7 +1002,7 @@
             "date": "07/06",
             "opponent": "int mint",
             "result": "25-25(△)",
-            "change": "-1.3",
+            "change": "-1.2",
             "opponent_en": "int mint"
           }
         ],
@@ -1119,7 +1119,7 @@
             "date": "08/04",
             "opponent": "nekomonaka",
             "result": "12-16(×)",
-            "change": "-9.5",
+            "change": "-9.4",
             "opponent_en": "nekomonaka"
           },
           {
@@ -1208,7 +1208,7 @@
             "date": "07/17",
             "opponent": "やまだはるか",
             "result": "16-9(○)",
-            "change": "+8.5",
+            "change": "+8.4",
             "opponent_en": "HarukaYamada"
           },
           {
@@ -1360,7 +1360,7 @@
             "date": "07/16",
             "opponent": "つかぽん",
             "result": "8-25(×)",
-            "change": "-9.9",
+            "change": "-9.8",
             "opponent_en": "Tsukapon"
           },
           {
@@ -1381,7 +1381,7 @@
             "date": "07/13",
             "opponent": "つかぽん",
             "result": "22-25(×)",
-            "change": "-10.9",
+            "change": "-10.8",
             "opponent_en": "Tsukapon"
           },
           {
@@ -1491,7 +1491,7 @@
             "date": "08/03",
             "opponent": "Ruba d6d4",
             "result": "18-30(×)",
-            "change": "-10.2",
+            "change": "-10.1",
             "opponent_en": "Ruba d6d4"
           },
           {
@@ -1526,14 +1526,14 @@
             "date": "07/24",
             "opponent": "Ninohito",
             "result": "20-10(○)",
-            "change": "+8.7",
+            "change": "+8.6",
             "opponent_en": "Ninohito"
           },
           {
             "date": "07/16",
             "opponent": "Ruba d6d4",
             "result": "3-30(×)",
-            "change": "-7.6",
+            "change": "-7.5",
             "opponent_en": "Ruba d6d4"
           },
           {
@@ -1608,7 +1608,7 @@
     {
       "rank": 10,
       "name": "int mint",
-      "rating": 529,
+      "rating": 530,
       "current_points": 20,
       "league": {
         "rank": 10,
@@ -1627,9 +1627,9 @@
         "recent_matches": [
           {
             "date": "08/13",
-            "opponent": "フラグ神／furagu-sin",
+            "opponent": "フラグ神／huragu-sin",
             "result": "20-4(○)",
-            "change": "+9.2",
+            "change": "+9.6",
             "opponent_en": ""
           },
           {
@@ -1643,7 +1643,7 @@
             "date": "07/31",
             "opponent": "Ruba d6d4",
             "result": "20-17(○)",
-            "change": "+10.7",
+            "change": "+10.6",
             "opponent_en": "Ruba d6d4"
           },
           {
@@ -1671,7 +1671,7 @@
             "date": "07/23",
             "opponent": "keitti",
             "result": "15-20(×)",
-            "change": "-10.6",
+            "change": "-10.5",
             "opponent_en": "keitti"
           },
           {
@@ -1761,7 +1761,7 @@
             "name_en": "keitti"
           },
           {
-            "name": "フラグ神／furagu-sin",
+            "name": "フラグ神／huragu-sin",
             "matches": 1,
             "record": "1-0-0",
             "win_rate": "100.0%",
@@ -1830,7 +1830,7 @@
             "date": "08/04",
             "opponent": "虎猫ゆう／ToranekoYou",
             "result": "16-12(○)",
-            "change": "+9.5",
+            "change": "+9.4",
             "opponent_en": ""
           },
           {
@@ -1926,7 +1926,7 @@
             "date": "07/24",
             "opponent": "あらたつ",
             "result": "10-20(×)",
-            "change": "-8.7",
+            "change": "-8.6",
             "opponent_en": "Aratatsu"
           },
           {
@@ -2001,13 +2001,13 @@
     {
       "rank": 9999,
       "name": "konachi-",
-      "rating": 519,
+      "rating": 520,
       "current_points": 20,
       "stats": {
         "total_matches": 5,
         "win_rate": "70.0%",
         "record": "3-1-1",
-        "high_low": "519 / 500",
+        "high_low": "520 / 500",
         "average": "1.673",
         "high_run": 8,
         "recent_matches": [
@@ -2027,9 +2027,9 @@
           },
           {
             "date": "08/13",
-            "opponent": "フラグ神／furagu-sin",
+            "opponent": "フラグ神／huragu-sin",
             "result": "20-12(○)",
-            "change": "+9.3",
+            "change": "+9.7",
             "opponent_en": ""
           },
           {
@@ -2063,7 +2063,7 @@
             "name_en": "eijis"
           },
           {
-            "name": "フラグ神／furagu-sin",
+            "name": "フラグ神／huragu-sin",
             "matches": 1,
             "record": "1-0-0",
             "win_rate": "100.0%",
@@ -2200,7 +2200,7 @@
             "date": "07/23",
             "opponent": "int mint",
             "result": "20-15(○)",
-            "change": "+10.6",
+            "change": "+10.5",
             "opponent_en": "int mint"
           },
           {
@@ -2411,7 +2411,7 @@
             "date": "07/17",
             "opponent": "eijis",
             "result": "9-16(×)",
-            "change": "-8.5",
+            "change": "-8.4",
             "opponent_en": "eijis"
           },
           {
@@ -2425,7 +2425,7 @@
             "date": "06/26",
             "opponent": "しそ",
             "result": "10-20(×)",
-            "change": "-8.8",
+            "change": "-8.7",
             "opponent_en": "Shiso"
           }
         ],
@@ -2566,7 +2566,7 @@
             "date": "07/10",
             "opponent": "つかぽん",
             "result": "6-25(×)",
-            "change": "-9.5",
+            "change": "-9.4",
             "opponent_en": "Tsukapon"
           },
           {
@@ -2813,21 +2813,35 @@
     {
       "rank": 9999,
       "name": "フラグ神／huragu-sin",
-      "rating": 412,
+      "rating": 392,
       "current_points": 16,
       "stats": {
-        "total_matches": 1,
-        "win_rate": "100.0%",
-        "record": "1-0-0",
-        "high_low": "412 / 400",
-        "average": "4.000",
+        "total_matches": 3,
+        "win_rate": "33.3%",
+        "record": "1-2-0",
+        "high_low": "412 / 392",
+        "average": "1.185",
         "high_run": 5,
         "recent_matches": [
+          {
+            "date": "08/13",
+            "opponent": "konachi-",
+            "result": "12-20(×)",
+            "change": "-9.7",
+            "opponent_en": "konachi-"
+          },
+          {
+            "date": "08/13",
+            "opponent": "int mint",
+            "result": "4-20(×)",
+            "change": "-9.6",
+            "opponent_en": "int mint"
+          },
           {
             "date": "08/11",
             "opponent": "つかぽん",
             "result": "16-9(○)",
-            "change": "+11.7",
+            "change": "+11.6",
             "opponent_en": "Tsukapon"
           }
         ],
@@ -2838,40 +2852,7 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "Tsukapon"
-          }
-        ]
-      },
-      "name_en": ""
-    },
-    {
-      "rank": 9999,
-      "name": "フラグ神／furagu-sin",
-      "rating": 382,
-      "current_points": 0,
-      "stats": {
-        "total_matches": 2,
-        "win_rate": "0.0%",
-        "record": "0-2-0",
-        "high_low": "400 / 382",
-        "average": "0.696",
-        "high_run": 4,
-        "recent_matches": [
-          {
-            "date": "08/13",
-            "opponent": "konachi-",
-            "result": "12-20(×)",
-            "change": "-9.3",
-            "opponent_en": "konachi-"
           },
-          {
-            "date": "08/13",
-            "opponent": "int mint",
-            "result": "4-20(×)",
-            "change": "-9.2",
-            "opponent_en": "int mint"
-          }
-        ],
-        "opponents": [
           {
             "name": "int mint",
             "matches": 1,
