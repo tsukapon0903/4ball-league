@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T10:39:22.861Z",
+  "last_updated": "2026-08-16T16:09:22.735Z",
   "players": [
     {
       "rank": 1,
@@ -178,7 +178,7 @@
       "rank": 2,
       "name": "しそ",
       "rating": 553,
-      "current_points": 20,
+      "current_points": 25,
       "league": {
         "rank": 2,
         "total_score": 83,
@@ -496,7 +496,7 @@
       "rank": 4,
       "name": "トリプルセブン",
       "rating": 527,
-      "current_points": 25,
+      "current_points": 20,
       "league": {
         "rank": 4,
         "total_score": 78.5,
@@ -690,7 +690,7 @@
       "rank": 5,
       "name": "つかぽん",
       "rating": 612,
-      "current_points": 30,
+      "current_points": 25,
       "league": {
         "rank": 5,
         "total_score": 73.8,
