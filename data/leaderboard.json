@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T14:09:25.815Z",
+  "last_updated": "2026-09-10T14:36:37.906Z",
   "players": [
     {
       "rank": 1,
@@ -696,7 +696,7 @@
     {
       "rank": 5,
       "name": "つかぽん",
-      "rating": 617,
+      "rating": 627,
       "current_points": 25,
       "league": {
         "rank": 5,
@@ -1166,7 +1166,7 @@
     {
       "rank": 8,
       "name": "eijis",
-      "rating": 431,
+      "rating": 422,
       "current_points": 18,
       "league": {
         "rank": 8,
@@ -1176,13 +1176,20 @@
         "join_pt": 75
       },
       "stats": {
-        "total_matches": 21,
-        "win_rate": "28.6%",
-        "record": "5-14-2",
-        "high_low": "500 / 428",
-        "average": "1.187",
+        "total_matches": 22,
+        "win_rate": "27.3%",
+        "record": "5-15-2",
+        "high_low": "500 / 422",
+        "average": "1.200",
         "high_run": 9,
         "recent_matches": [
+          {
+            "date": "09/10",
+            "opponent": "Don Matty",
+            "result": "16-25(×)",
+            "change": "-8.7",
+            "opponent_en": "Don Matty"
+          },
           {
             "date": "09/10",
             "opponent": "keitti",
@@ -1245,13 +1252,6 @@
             "result": "15-25(×)",
             "change": "-7.7",
             "opponent_en": "kuu00"
-          },
-          {
-            "date": "07/09",
-            "opponent": "トリプルセブン",
-            "result": "17-20(×)",
-            "change": "-8.4",
-            "opponent_en": "TripleSeven"
           }
         ],
         "opponents": [
@@ -1345,6 +1345,13 @@
             "record": "0-1-0",
             "win_rate": "0.0%",
             "name_en": "keitti"
+          },
+          {
+            "name": "Don Matty",
+            "matches": 1,
+            "record": "0-1-0",
+            "win_rate": "0.0%",
+            "name_en": "Don Matty"
           }
         ]
       },
@@ -2200,7 +2207,7 @@
     {
       "rank": 9999,
       "name": "keitti",
-      "rating": 519,
+      "rating": 509,
       "current_points": 20,
       "stats": {
         "total_matches": 7,
@@ -2655,16 +2662,23 @@
     {
       "rank": 9999,
       "name": "Don Matty",
-      "rating": 609,
+      "rating": 618,
       "current_points": 25,
       "stats": {
-        "total_matches": 1,
+        "total_matches": 2,
         "win_rate": "100.0%",
-        "record": "1-0-0",
-        "high_low": "609 / 600",
-        "average": "3.125",
+        "record": "2-0-0",
+        "high_low": "618 / 600",
+        "average": "2.632",
         "high_run": 10,
         "recent_matches": [
+          {
+            "date": "09/10",
+            "opponent": "eijis",
+            "result": "25-16(○)",
+            "change": "+8.7",
+            "opponent_en": "eijis"
+          },
           {
             "date": "07/15",
             "opponent": "つかぽん",
@@ -2680,6 +2694,13 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "Tsukapon"
+          },
+          {
+            "name": "eijis",
+            "matches": 1,
+            "record": "1-0-0",
+            "win_rate": "100.0%",
+            "name_en": "eijis"
           }
         ]
       },
