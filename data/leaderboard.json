@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T13:44:37.164Z",
+  "last_updated": "2026-09-10T14:09:25.815Z",
   "players": [
     {
       "rank": 1,
@@ -427,7 +427,7 @@
             "date": "07/23",
             "opponent": "eijis",
             "result": "25-7(○)",
-            "change": "+8.8",
+            "change": "+8.7",
             "opponent_en": "eijis"
           }
         ],
@@ -706,13 +706,20 @@
         "join_pt": 100
       },
       "stats": {
-        "total_matches": 44,
-        "win_rate": "52.3%",
-        "record": "22-20-2",
+        "total_matches": 45,
+        "win_rate": "53.3%",
+        "record": "23-20-2",
         "high_low": "676 / 583",
-        "average": "2.374",
+        "average": "2.371",
         "high_run": 18,
         "recent_matches": [
+          {
+            "date": "09/10",
+            "opponent": "keitti",
+            "result": "25-12(○)",
+            "change": "+9.9",
+            "opponent_en": "keitti"
+          },
           {
             "date": "08/31",
             "opponent": "eijis",
@@ -775,13 +782,6 @@
             "result": "22-16(×)",
             "change": "-9.4",
             "opponent_en": ""
-          },
-          {
-            "date": "08/01",
-            "opponent": "トリプルセブン",
-            "result": "25-13(○)",
-            "change": "+8.5",
-            "opponent_en": "TripleSeven"
           }
         ],
         "opponents": [
@@ -856,18 +856,18 @@
             "name_en": "Momokage"
           },
           {
+            "name": "keitti",
+            "matches": 2,
+            "record": "2-0-0",
+            "win_rate": "100.0%",
+            "name_en": "keitti"
+          },
+          {
             "name": "音痴 onti",
             "matches": 2,
             "record": "1-1-0",
             "win_rate": "50.0%",
             "name_en": "Onti"
-          },
-          {
-            "name": "keitti",
-            "matches": 1,
-            "record": "1-0-0",
-            "win_rate": "100.0%",
-            "name_en": "keitti"
           },
           {
             "name": "リココ_VRC",
@@ -1215,7 +1215,7 @@
             "date": "07/23",
             "opponent": "Alte",
             "result": "7-25(×)",
-            "change": "-8.8",
+            "change": "-8.7",
             "opponent_en": "Alte"
           },
           {
@@ -2203,13 +2203,20 @@
       "rating": 519,
       "current_points": 20,
       "stats": {
-        "total_matches": 6,
-        "win_rate": "66.7%",
-        "record": "4-2-0",
+        "total_matches": 7,
+        "win_rate": "57.1%",
+        "record": "4-3-0",
         "high_low": "519 / 500",
-        "average": "1.656",
+        "average": "1.569",
         "high_run": 7,
         "recent_matches": [
+          {
+            "date": "09/10",
+            "opponent": "つかぽん",
+            "result": "12-25(×)",
+            "change": "-9.9",
+            "opponent_en": "Tsukapon"
+          },
           {
             "date": "09/10",
             "opponent": "eijis",
@@ -2255,6 +2262,13 @@
         ],
         "opponents": [
           {
+            "name": "つかぽん",
+            "matches": 2,
+            "record": "0-2-0",
+            "win_rate": "0.0%",
+            "name_en": "Tsukapon"
+          },
+          {
             "name": "トリプルセブン",
             "matches": 1,
             "record": "1-0-0",
@@ -2267,13 +2281,6 @@
             "record": "1-0-0",
             "win_rate": "100.0%",
             "name_en": "xantoz"
-          },
-          {
-            "name": "つかぽん",
-            "matches": 1,
-            "record": "0-1-0",
-            "win_rate": "0.0%",
-            "name_en": "Tsukapon"
           },
           {
             "name": "int mint",
